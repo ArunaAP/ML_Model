@@ -1,0 +1,1001 @@
+ContractTitle,ContractDate,ContractAmount,ContractDescription,Location           ,LEEDCertificationLevel,Architect/Contractor,SustainabilityRatings,ProjectTimeline,RenewableEnergyUse,WasteManagementPractices,WaterEfficiency,MaterialsSourcing,SustainabilityGoals,Eco-Friendly
+Eco Elementary School,11/6/2022,771951.17,Renewable energy sources,Colombo,LEED Silve,Sustainable Builders,ENERGY STAR Certified,8/30/2023,3.06,Yes,low-flow,sustainable,30% reduction in energy use,false
+Sustainable Library,2/27/2023,710379.5,Green roof,Galle,LEED Gold,Sustainable Builders,LEED,12/9/2023,98.46,Yes,low-flow,recycled,30% reduction in energy use,false
+Sustainable Library,5/3/2023,622528.98,Renewable energy sources,Anuradhapura,LEED Certified,Green Building Solutions,ENERGY STAR Certified,12/6/2023,91.94,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Eco Elementary School,12/1/2022,191687.78,Rainwater harvesting,Jaffna,LEED Gold,Sustainable Builders,ISO 14001,10/11/2023,19.78,Yes,high-efficiency,local,40% reduction in energy use,false
+Eco Elementary School,9/17/2023,673828.57,Green roof,Trincomalee,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,2/25/2024,47.05,Limited,high-efficiency,sustainable,25% reduction in energy use,true
+Green Office Building,11/3/2022,388071.41,Green roof,Kurunegala,Not Applicable,Sustainable Builders,ISO 14001,12/13/2023,15.49,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Eco Elementary School,3/30/2023,340433.8,Green roof,Gampaha,Not Applicable,Sustainable Builders,Green Globes,10/8/2023,8.46,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,1/15/2023,349182.04,Renewable energy sources,Gampaha,LEED Gold,Eco-Friendly Designs,LEED,8/19/2023,4.08,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,3/8/2023,249809.74,Rainwater harvesting,Trincomalee,LEED Platinum,Green Building Solutions,Green Globes,3/5/2024,62.19,No,low-flow,recycled,40% reduction in energy use,true
+Green Office Building,1/28/2023,973710.23,Rainwater harvesting,Gampaha,LEED Gold,Sustainable Builders,Green Globes,6/17/2023,72.55,Limited,high-efficiency,certified,40% reduction in energy use,false
+Green Office Building,6/21/2023,969860.96,Renewable energy sources,Kurunegala,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,2/24/2024,44.29,Yes,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,6/8/2023,408222.9,Green roof,Galle,LEED Silve,Green Building Solutions,Green Globes,6/16/2023,28.13,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,8/11/2023,711432.5,Energy-efficient design,Kurunegala,LEED Certified,Green Architects Inc.,LEED,2/15/2024,55.23,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Eco Elementary School,7/25/2023,734951.06,Green roof,Anuradhapura,Not Applicable,Sustainable Builders,LEED,1/17/2024,50.51,Yes,low-flow,local,25% reduction in energy use,false
+Sustainable Library,2/20/2023,784902.5,Rainwater harvesting,Trincomalee,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,3/1/2024,7.42,Yes,low-flow,sustainable,25% reduction in energy use,true
+Sustainable Library,6/23/2023,220060.13,Energy-efficient design,Jaffna,Not Applicable,Sustainable Builders,LEED,2/26/2024,44.58,Yes,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,3/30/2023,391043.24,LEED Platinum certified,Gampaha,LEED Silve,Eco-Friendly Designs,Green Globes,1/13/2024,20.04,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Sustainable Library,2/12/2023,699068.2,Green roof,Gampaha,Not Applicable,Green Architects Inc.,ISO 14001,5/20/2023,56.89,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,5/9/2023,267621.68,Renewable energy sources,Galle,LEED Gold,EcoBuild Constructions,Green Globes,9/29/2023,88.66,Limited,low-flow,certified,40% reduction in energy use,false
+Eco Elementary School,7/27/2023,244711.37,Energy-efficient design,Gampaha,LEED Gold,Green Building Solutions,Green Globes,10/31/2023,5.45,No,high-efficiency,reclaimed,25% reduction in energy use,false
+Eco Elementary School,8/9/2023,255675.36,Energy-efficient design,Gampaha,LEED Gold,Eco-Friendly Designs,ISO 14001,12/30/2023,84.05,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,7/29/2023,382134.22,Green roof,Galle,LEED Gold,Eco-Friendly Designs,Green Globes,5/23/2023,36.8,No,high-efficiency,local,25% reduction in energy use,true
+Eco Elementary School,10/23/2023,988755.21,Energy-efficient design,Negombo,LEED Silve,EcoBuild Constructions,Green Globes,6/1/2023,34.18,Limited,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,8/31/2023,263733.49,Energy-efficient design,Kurunegala,Not Applicable,Green Building Solutions,ISO 14001,7/12/2023,99.82,No,high-efficiency,certified,40% reduction in energy use,false
+Eco Elementary School,11/29/2022,967256.45,Energy-efficient design,Kandy,LEED Platinum,EcoBuild Constructions,ISO 14001,5/21/2023,29.62,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,9/16/2023,356883.18,Renewable energy sources,Kurunegala,LEED Certified,EcoBuild Constructions,LEED,6/9/2023,66.59,Limited,low-flow,certified,25% reduction in energy use,false
+Green Office Building,6/4/2023,486032.82,LEED Platinum certified,Colombo,LEED Certified,Green Architects Inc.,ISO 14001,10/12/2023,15.68,No,low-flow,local,30% reduction in energy use,true
+Eco Elementary School,1/26/2023,893088.7,Rainwater harvesting,Gampaha,LEED Platinum,Sustainable Builders,LEED,8/4/2023,96.23,Limited,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,4/10/2023,609646.47,LEED Platinum certified,Trincomalee,Not Applicable,EcoBuild Constructions,Green Globes,11/23/2023,79.25,Yes,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,4/21/2023,403662.59,Green roof,Galle,LEED Silve,Eco-Friendly Designs,Green Globes,2/17/2024,96.84,No,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,10/27/2022,201972.42,Energy-efficient design,Matara,LEED Gold,Green Architects Inc.,LEED,11/12/2023,37.91,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,11/28/2022,327107.07,Green roof,Negombo,Not Applicable,Sustainable Builders,LEED,12/7/2023,39.79,Limited,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,12/30/2022,491817.61,Renewable energy sources,Gampaha,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,8/23/2023,31.36,Yes,high-efficiency,certified,40% reduction in energy use,false
+Sustainable Library,1/18/2023,267195.29,LEED Platinum certified,Negombo,LEED Gold,Sustainable Builders,LEED,12/28/2023,13.65,Limited,low-flow,recycled,40% reduction in energy use,true
+Sustainable Library,7/24/2023,311315.75,Energy-efficient design,Kandy,LEED Platinum,Eco-Friendly Designs,Green Globes,8/13/2023,69.62,No,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,1/13/2023,967724.47,Rainwater harvesting,Trincomalee,LEED Silve,EcoBuild Constructions,Green Globes,6/22/2023,83.89,Limited,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,2/14/2023,878735.81,Rainwater harvesting,Galle,LEED Silve,EcoBuild Constructions,ISO 14001,8/11/2023,82.33,No,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,4/19/2023,420201.97,Renewable energy sources,Negombo,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,7/18/2023,16.74,No,low-flow,reclaimed,25% reduction in energy use,false
+Green Office Building,6/6/2023,983074.16,LEED Platinum certified,Negombo,LEED Silve,Green Architects Inc.,LEED,2/1/2024,27.03,No,low-flow,local,40% reduction in energy use,true
+Green Office Building,4/3/2023,550729.46,Rainwater harvesting,Anuradhapura,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,12/23/2023,69.34,Limited,low-flow,local,30% reduction in energy use,true
+Green Office Building,6/19/2023,264382.96,Green roof,Jaffna,Not Applicable,Sustainable Builders,Green Globes,9/25/2023,65.58,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,5/12/2023,564454.03,Renewable energy sources,Negombo,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,9/9/2023,10.35,Limited,low-flow,local,30% reduction in energy use,false
+Green Office Building,7/23/2023,909375.1,Energy-efficient design,Trincomalee,Not Applicable,Green Architects Inc.,Green Globes,7/3/2023,92.23,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Sustainable Library,2/8/2023,671645.77,LEED Platinum certified,Kurunegala,LEED Certified,Green Architects Inc.,LEED,7/11/2023,56.77,No,low-flow,recycled,30% reduction in energy use,true
+Eco Elementary School,12/3/2022,970360.77,Rainwater harvesting,Colombo,LEED Gold,Green Architects Inc.,LEED,6/26/2023,81.64,No,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,9/14/2023,352097.61,Green roof,Colombo,LEED Gold,Green Architects Inc.,Green Globes,6/3/2023,47.96,No,high-efficiency,reclaimed,25% reduction in energy use,false
+Sustainable Library,4/28/2023,426420.22,Energy-efficient design,Gampaha,LEED Certified,EcoBuild Constructions,ISO 14001,11/13/2023,16.2,Yes,low-flow,certified,30% reduction in energy use,true
+Green Office Building,11/25/2022,169968.87,Green roof,Kurunegala,Not Applicable,Green Building Solutions,LEED,11/20/2023,35.22,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,12/8/2022,732316.01,Rainwater harvesting,Kurunegala,LEED Silve,Sustainable Builders,ISO 14001,11/28/2023,26.17,No,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,8/9/2023,171822.66,Green roof,Kandy,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,6/7/2023,8.44,No,high-efficiency,sustainable,25% reduction in energy use,true
+Green Office Building,7/5/2023,890822.25,Green roof,Gampaha,Not Applicable,Sustainable Builders,Green Globes,6/26/2023,36.54,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,6/4/2023,294923.68,Green roof,Kandy,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,11/30/2023,49.82,No,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,12/6/2022,498857.47,LEED Platinum certified,Galle,LEED Silve,Sustainable Builders,ENERGY STAR Certified,12/8/2023,75.81,Limited,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,5/8/2023,111502.16,Rainwater harvesting,Matara,LEED Silve,Eco-Friendly Designs,Green Globes,6/16/2023,12.96,Limited,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,1/4/2023,814347.29,Renewable energy sources,Kandy,LEED Certified,EcoBuild Constructions,LEED,8/2/2023,68.35,No,low-flow,certified,40% reduction in energy use,false
+Green Office Building,8/2/2023,478159.59,Green roof,Matara,LEED Silve,Sustainable Builders,LEED,2/20/2024,74.94,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,3/12/2023,120454.59,LEED Platinum certified,Jaffna,LEED Platinum,Sustainable Builders,ISO 14001,8/22/2023,4.22,No,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,4/30/2023,473414.95,Rainwater harvesting,Trincomalee,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,10/27/2023,32.48,No,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,10/23/2023,984142.86,LEED Platinum certified,Galle,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,6/19/2023,6.22,Yes,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,7/14/2023,237766.72,LEED Platinum certified,Trincomalee,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,6/30/2023,34.31,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Eco Elementary School,10/14/2023,126843.45,Green roof,Galle,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,10/29/2023,16.9,Yes,low-flow,local,30% reduction in energy use,true
+Green Office Building,6/20/2023,506547.33,Renewable energy sources,Negombo,LEED Platinum,EcoBuild Constructions,LEED,11/28/2023,8.03,Yes,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,1/7/2023,112822.02,Rainwater harvesting,Matara,LEED Certified,Green Architects Inc.,Green Globes,6/14/2023,61.83,Limited,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,1/15/2023,713919.49,Renewable energy sources,Kurunegala,LEED Certified,EcoBuild Constructions,LEED,10/8/2023,17.42,No,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,3/25/2023,622982.17,Renewable energy sources,Kandy,LEED Certified,Eco-Friendly Designs,Green Globes,12/25/2023,69.71,Yes,high-efficiency,certified,40% reduction in energy use,false
+Sustainable Library,8/12/2023,926556.19,Energy-efficient design,Galle,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,6/1/2023,43.61,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Eco Elementary School,6/2/2023,548306.9,Energy-efficient design,Negombo,LEED Gold,Sustainable Builders,LEED,2/12/2024,82.79,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Green Office Building,6/23/2023,568287.5,Rainwater harvesting,Gampaha,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,1/20/2024,41.93,Limited,low-flow,certified,40% reduction in energy use,false
+Green Office Building,10/1/2023,133072.42,LEED Platinum certified,Matara,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,2/13/2024,42.97,Limited,low-flow,local,40% reduction in energy use,false
+Eco Elementary School,3/12/2023,164306.36,Energy-efficient design,Colombo,LEED Silve,Green Building Solutions,Green Globes,5/15/2023,48.58,Yes,low-flow,certified,40% reduction in energy use,true
+Sustainable Library,3/26/2023,649960.15,LEED Platinum certified,Colombo,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,1/12/2024,48.92,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,4/10/2023,252527.85,Green roof,Anuradhapura,LEED Certified,Green Building Solutions,ISO 14001,11/15/2023,42.43,No,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,12/3/2022,247730.31,Renewable energy sources,Anuradhapura,LEED Gold,Green Building Solutions,LEED,6/22/2023,82.25,Limited,low-flow,recycled,25% reduction in energy use,false
+Green Office Building,10/29/2022,104643.36,LEED Platinum certified,Kandy,LEED Platinum,EcoBuild Constructions,Green Globes,12/24/2023,38.99,No,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,2/8/2023,297772.02,LEED Platinum certified,Kandy,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,11/25/2023,48.7,Limited,low-flow,recycled,25% reduction in energy use,false
+Green Office Building,9/10/2023,268740.01,Renewable energy sources,Colombo,LEED Gold,Green Architects Inc.,ISO 14001,7/11/2023,62.9,Limited,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,3/4/2023,543172.02,Energy-efficient design,Kandy,LEED Gold,Sustainable Builders,ENERGY STAR Certified,12/24/2023,18.24,Limited,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,6/29/2023,686764.52,LEED Platinum certified,Colombo,Not Applicable,Green Architects Inc.,LEED,6/12/2023,13.97,Limited,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,9/29/2023,225625.87,Renewable energy sources,Kandy,LEED Gold,Sustainable Builders,ISO 14001,11/6/2023,45.26,Yes,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,8/22/2023,718227.32,LEED Platinum certified,Kandy,LEED Gold,Green Building Solutions,ISO 14001,1/1/2024,20.49,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,9/27/2023,929359.78,Renewable energy sources,Jaffna,LEED Silve,Eco-Friendly Designs,LEED,9/10/2023,65.61,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Sustainable Library,9/4/2023,521037.03,Energy-efficient design,Galle,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,1/30/2024,28.97,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Green Office Building,6/6/2023,139055.16,Renewable energy sources,Trincomalee,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,10/27/2023,47.31,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Green Office Building,5/29/2023,839435.3,Green roof,Gampaha,LEED Silve,Green Architects Inc.,ISO 14001,5/20/2023,43.7,No,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,4/20/2023,822270.01,Green roof,Matara,LEED Certified,Eco-Friendly Designs,ISO 14001,11/28/2023,24.47,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,10/20/2023,320840.77,Energy-efficient design,Trincomalee,LEED Gold,Green Building Solutions,ENERGY STAR Certified,5/15/2023,1.21,Limited,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,5/13/2023,612614.06,Rainwater harvesting,Colombo,LEED Platinum,Sustainable Builders,ISO 14001,2/27/2024,44.99,Yes,high-efficiency,recycled,40% reduction in energy use,true
+Eco Elementary School,10/14/2023,381344.74,Energy-efficient design,Gampaha,LEED Silve,Green Building Solutions,LEED,8/7/2023,4.11,Yes,low-flow,local,30% reduction in energy use,false
+Green Office Building,1/3/2023,868838.14,Renewable energy sources,Colombo,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,6/15/2023,95.94,Yes,high-efficiency,certified,40% reduction in energy use,false
+Eco Elementary School,1/8/2023,138730.35,Rainwater harvesting,Trincomalee,Not Applicable,Green Building Solutions,ENERGY STAR Certified,1/4/2024,56.86,Yes,high-efficiency,certified,30% reduction in energy use,false
+Sustainable Library,11/1/2022,711038.54,Energy-efficient design,Colombo,LEED Certified,Green Building Solutions,Green Globes,2/21/2024,31.48,No,low-flow,local,25% reduction in energy use,false
+Sustainable Library,4/30/2023,976609.99,Energy-efficient design,Galle,LEED Platinum,Green Building Solutions,LEED,7/19/2023,91.99,Yes,low-flow,local,40% reduction in energy use,true
+Sustainable Library,4/4/2023,695345.07,LEED Platinum certified,Anuradhapura,LEED Platinum,Sustainable Builders,Green Globes,8/16/2023,87.55,No,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,4/21/2023,136352.28,Green roof,Jaffna,LEED Gold,Eco-Friendly Designs,LEED,12/6/2023,79.38,Yes,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,3/22/2023,292776.02,Green roof,Galle,LEED Certified,Sustainable Builders,Green Globes,9/10/2023,91.7,No,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,5/30/2023,749308.12,Energy-efficient design,Matara,LEED Certified,Green Building Solutions,Green Globes,9/21/2023,87.08,Yes,high-efficiency,certified,25% reduction in energy use,false
+Eco Elementary School,7/6/2023,764330.07,Energy-efficient design,Gampaha,Not Applicable,Sustainable Builders,LEED,10/17/2023,29.55,Limited,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,11/1/2022,464951.1,LEED Platinum certified,Matara,LEED Silve,Eco-Friendly Designs,LEED,2/6/2024,20.76,Yes,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,10/13/2023,956074.47,Energy-efficient design,Negombo,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,3/4/2024,13.26,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,11/12/2022,849349.21,Energy-efficient design,Trincomalee,LEED Platinum,EcoBuild Constructions,Green Globes,2/4/2024,92.91,Yes,high-efficiency,sustainable,30% reduction in energy use,true
+Eco Elementary School,12/25/2022,869579.09,Green roof,Kurunegala,Not Applicable,Green Building Solutions,ENERGY STAR Certified,5/21/2023,95.85,No,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,6/20/2023,794413.13,Renewable energy sources,Gampaha,Not Applicable,Eco-Friendly Designs,LEED,8/2/2023,5.01,Yes,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,3/25/2023,772682.17,Green roof,Matara,LEED Gold,Green Building Solutions,ENERGY STAR Certified,8/2/2023,92.72,Limited,high-efficiency,certified,30% reduction in energy use,false
+Sustainable Library,3/23/2023,627945.58,Energy-efficient design,Anuradhapura,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,12/28/2023,2.15,No,low-flow,recycled,40% reduction in energy use,false
+Sustainable Library,10/23/2023,303639.0,Energy-efficient design,Kurunegala,LEED Certified,Green Building Solutions,LEED,9/16/2023,43.6,Yes,low-flow,local,25% reduction in energy use,true
+Sustainable Library,5/29/2023,383160.5,Rainwater harvesting,Trincomalee,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,11/4/2023,63.67,Yes,low-flow,certified,40% reduction in energy use,true
+Green Office Building,6/4/2023,634545.37,LEED Platinum certified,Kurunegala,LEED Platinum,Green Architects Inc.,ISO 14001,11/3/2023,33.02,Yes,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,8/20/2023,812795.3,LEED Platinum certified,Gampaha,LEED Silve,Green Architects Inc.,ISO 14001,1/20/2024,82.05,Yes,high-efficiency,local,40% reduction in energy use,false
+Eco Elementary School,12/23/2022,847566.97,Rainwater harvesting,Gampaha,LEED Gold,EcoBuild Constructions,ISO 14001,6/13/2023,11.67,Yes,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,3/11/2023,990477.83,Green roof,Gampaha,LEED Gold,Eco-Friendly Designs,ISO 14001,11/30/2023,45.34,Limited,low-flow,local,30% reduction in energy use,true
+Sustainable Library,5/21/2023,507865.3,Renewable energy sources,Negombo,LEED Silve,Eco-Friendly Designs,ISO 14001,10/14/2023,79.42,Yes,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,5/23/2023,378112.44,Rainwater harvesting,Jaffna,Not Applicable,Green Building Solutions,ENERGY STAR Certified,11/26/2023,34.85,Limited,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,3/12/2023,770248.22,Renewable energy sources,Anuradhapura,Not Applicable,Green Building Solutions,LEED,5/19/2023,77.21,No,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,10/18/2023,839067.13,Renewable energy sources,Kurunegala,Not Applicable,EcoBuild Constructions,LEED,3/2/2024,82.59,Yes,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,1/16/2023,479429.54,Energy-efficient design,Galle,LEED Gold,Eco-Friendly Designs,LEED,12/15/2023,41.72,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,8/2/2023,493330.26,Green roof,Matara,LEED Silve,EcoBuild Constructions,Green Globes,8/20/2023,64.59,Yes,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,12/2/2022,115875.54,Green roof,Negombo,LEED Gold,Green Building Solutions,Green Globes,8/1/2023,68.89,No,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,2/10/2023,627577.57,Energy-efficient design,Matara,LEED Certified,Sustainable Builders,Green Globes,5/28/2023,43.16,No,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,11/13/2022,515468.8,Energy-efficient design,Negombo,LEED Certified,Sustainable Builders,ISO 14001,8/7/2023,76.4,Yes,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,3/6/2023,394181.33,LEED Platinum certified,Kandy,LEED Platinum,Sustainable Builders,Green Globes,8/17/2023,94.82,No,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,5/14/2023,735997.08,Energy-efficient design,Matara,LEED Certified,Green Architects Inc.,Green Globes,2/21/2024,34.56,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,8/30/2023,133978.36,Renewable energy sources,Anuradhapura,LEED Platinum,Sustainable Builders,Green Globes,6/20/2023,10.26,No,low-flow,recycled,40% reduction in energy use,true
+Green Office Building,3/2/2023,171474.97,Rainwater harvesting,Negombo,LEED Gold,EcoBuild Constructions,Green Globes,12/26/2023,11.54,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Eco Elementary School,3/28/2023,708017.31,Renewable energy sources,Negombo,LEED Gold,Sustainable Builders,LEED,8/1/2023,95.57,Yes,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,6/22/2023,543329.19,Rainwater harvesting,Colombo,LEED Platinum,Green Building Solutions,ISO 14001,11/7/2023,42.62,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,8/24/2023,709412.92,Rainwater harvesting,Anuradhapura,LEED Silve,Sustainable Builders,Green Globes,12/30/2023,54.96,Yes,low-flow,certified,40% reduction in energy use,true
+Green Office Building,1/3/2023,499691.6,LEED Platinum certified,Negombo,LEED Platinum,EcoBuild Constructions,ISO 14001,10/28/2023,50.49,No,low-flow,local,40% reduction in energy use,true
+Sustainable Library,2/23/2023,297302.91,Renewable energy sources,Gampaha,LEED Certified,Green Building Solutions,Green Globes,8/26/2023,36.18,Yes,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,11/22/2022,535050.44,Energy-efficient design,Colombo,LEED Silve,Green Building Solutions,Green Globes,9/23/2023,9.18,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,6/1/2023,950782.8,Rainwater harvesting,Matara,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,7/27/2023,54.04,No,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,4/27/2023,809747.04,Green roof,Kandy,LEED Gold,Eco-Friendly Designs,ISO 14001,11/25/2023,70.73,No,high-efficiency,reclaimed,40% reduction in energy use,false
+Green Office Building,11/25/2022,813792.31,LEED Platinum certified,Anuradhapura,LEED Platinum,Green Architects Inc.,ISO 14001,1/13/2024,65.44,Limited,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,12/2/2022,449665.84,Energy-efficient design,Kandy,LEED Silve,Eco-Friendly Designs,ISO 14001,12/19/2023,92.33,Limited,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,9/8/2023,670014.13,Energy-efficient design,Anuradhapura,LEED Silve,EcoBuild Constructions,Green Globes,7/10/2023,62.25,Yes,low-flow,local,40% reduction in energy use,false
+Green Office Building,10/23/2023,934792.97,LEED Platinum certified,Gampaha,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,10/26/2023,22.37,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,12/19/2022,524134.94,Rainwater harvesting,Kandy,LEED Gold,Eco-Friendly Designs,ISO 14001,6/22/2023,72.87,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Sustainable Library,3/21/2023,170384.39,Green roof,Colombo,LEED Platinum,EcoBuild Constructions,Green Globes,8/28/2023,66.52,Yes,low-flow,local,40% reduction in energy use,false
+Sustainable Library,4/16/2023,213876.85,LEED Platinum certified,Kandy,LEED Platinum,Green Building Solutions,Green Globes,1/4/2024,51.72,Yes,low-flow,recycled,25% reduction in energy use,false
+Sustainable Library,6/30/2023,150281.09,Rainwater harvesting,Colombo,LEED Certified,EcoBuild Constructions,LEED,7/30/2023,79.52,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Sustainable Library,5/12/2023,549953.17,Green roof,Gampaha,LEED Gold,Green Building Solutions,Green Globes,6/28/2023,61.84,No,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,5/31/2023,649827.96,LEED Platinum certified,Colombo,Not Applicable,Eco-Friendly Designs,Green Globes,12/5/2023,81.73,Yes,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,10/18/2023,337984.46,Renewable energy sources,Trincomalee,Not Applicable,Sustainable Builders,ISO 14001,5/25/2023,88.66,No,low-flow,local,25% reduction in energy use,true
+Eco Elementary School,6/28/2023,100505.09,Green roof,Jaffna,LEED Silve,Eco-Friendly Designs,Green Globes,1/1/2024,40.32,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Sustainable Library,3/16/2023,435093.53,Green roof,Kandy,LEED Platinum,Green Building Solutions,Green Globes,1/2/2024,35.75,Yes,low-flow,recycled,40% reduction in energy use,true
+Sustainable Library,2/16/2023,981209.47,Energy-efficient design,Kandy,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,9/9/2023,8.42,Yes,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,3/20/2023,681853.56,Green roof,Trincomalee,LEED Platinum,Eco-Friendly Designs,ISO 14001,2/10/2024,72.81,No,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,11/14/2022,830816.22,Green roof,Gampaha,LEED Silve,EcoBuild Constructions,ISO 14001,10/6/2023,93.44,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,8/29/2023,528188.78,Renewable energy sources,Gampaha,Not Applicable,EcoBuild Constructions,ISO 14001,6/29/2023,9.93,Limited,low-flow,recycled,30% reduction in energy use,true
+Green Office Building,7/6/2023,664514.42,Energy-efficient design,Colombo,LEED Certified,Green Building Solutions,ENERGY STAR Certified,2/15/2024,32.98,No,high-efficiency,reclaimed,30% reduction in energy use,true
+Eco Elementary School,1/24/2023,150063.54,Renewable energy sources,Kurunegala,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,3/1/2024,45.76,Limited,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,11/28/2022,546849.46,Rainwater harvesting,Galle,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,2/7/2024,50.84,Yes,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,2/16/2023,305267.11,Green roof,Negombo,LEED Certified,EcoBuild Constructions,LEED,1/11/2024,68.99,Limited,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,6/4/2023,976448.46,LEED Platinum certified,Negombo,LEED Gold,Sustainable Builders,Green Globes,2/21/2024,47.63,Yes,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,12/21/2022,337640.14,LEED Platinum certified,Gampaha,Not Applicable,Green Building Solutions,Green Globes,8/5/2023,11.25,No,low-flow,local,25% reduction in energy use,true
+Eco Elementary School,9/11/2023,368548.28,Renewable energy sources,Colombo,LEED Platinum,Sustainable Builders,Green Globes,6/4/2023,27.49,No,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,5/26/2023,365947.69,Green roof,Colombo,LEED Certified,Sustainable Builders,Green Globes,7/18/2023,27.96,Yes,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,4/5/2023,110275.67,Renewable energy sources,Anuradhapura,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,11/22/2023,76.12,Yes,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,3/25/2023,947551.49,Green roof,Kurunegala,LEED Silve,Green Architects Inc.,ISO 14001,1/23/2024,44.22,No,low-flow,recycled,40% reduction in energy use,false
+Sustainable Library,10/9/2023,527770.05,LEED Platinum certified,Kandy,LEED Gold,Green Architects Inc.,ISO 14001,8/7/2023,88.62,Limited,low-flow,local,30% reduction in energy use,false
+Green Office Building,6/13/2023,616338.51,Renewable energy sources,Colombo,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,3/6/2024,77.02,No,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,6/21/2023,868245.77,LEED Platinum certified,Trincomalee,Not Applicable,Green Architects Inc.,ISO 14001,7/4/2023,99.36,Yes,low-flow,recycled,30% reduction in energy use,true
+Eco Elementary School,11/28/2022,866849.39,Rainwater harvesting,Anuradhapura,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,9/5/2023,21.83,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,1/24/2023,336681.79,Green roof,Matara,LEED Certified,Sustainable Builders,ENERGY STAR Certified,2/3/2024,81.57,No,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,3/19/2023,798169.82,Energy-efficient design,Jaffna,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,3/9/2024,1.91,Limited,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,6/14/2023,197873.21,Renewable energy sources,Colombo,LEED Platinum,EcoBuild Constructions,Green Globes,6/19/2023,17.08,Limited,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,1/13/2023,349200.45,Renewable energy sources,Negombo,LEED Silve,Green Building Solutions,LEED,10/6/2023,32.2,Yes,low-flow,sustainable,30% reduction in energy use,false
+Eco Elementary School,1/13/2023,459795.49,Rainwater harvesting,Colombo,LEED Gold,Green Building Solutions,ISO 14001,2/27/2024,4.85,Limited,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,3/17/2023,604147.11,Green roof,Galle,LEED Silve,Sustainable Builders,ENERGY STAR Certified,10/9/2023,67.61,Limited,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,6/20/2023,744217.8,Energy-efficient design,Negombo,LEED Gold,Eco-Friendly Designs,Green Globes,8/17/2023,73.69,No,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,5/10/2023,957637.09,Rainwater harvesting,Jaffna,Not Applicable,Sustainable Builders,ENERGY STAR Certified,6/8/2023,90.91,Limited,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,12/2/2022,367558.33,Green roof,Galle,LEED Platinum,Green Building Solutions,Green Globes,9/8/2023,39.35,No,low-flow,local,30% reduction in energy use,true
+Eco Elementary School,2/2/2023,745403.93,LEED Platinum certified,Colombo,Not Applicable,Green Architects Inc.,Green Globes,3/8/2024,43.4,Limited,low-flow,local,25% reduction in energy use,true
+Green Office Building,9/7/2023,204889.88,Energy-efficient design,Trincomalee,LEED Platinum,Green Building Solutions,Green Globes,2/1/2024,14.21,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,8/20/2023,293579.09,Rainwater harvesting,Matara,LEED Silve,Green Architects Inc.,LEED,2/24/2024,99.38,Yes,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,10/27/2022,297390.2,LEED Platinum certified,Kandy,LEED Certified,Eco-Friendly Designs,LEED,12/24/2023,73.69,No,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,11/27/2022,795957.01,Renewable energy sources,Negombo,LEED Platinum,Eco-Friendly Designs,ISO 14001,8/26/2023,32.3,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Eco Elementary School,4/5/2023,470353.51,Green roof,Anuradhapura,LEED Certified,Eco-Friendly Designs,ISO 14001,1/9/2024,42.01,No,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,4/22/2023,553774.25,LEED Platinum certified,Galle,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,12/15/2023,95.39,No,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,10/21/2023,201621.58,Energy-efficient design,Negombo,LEED Gold,Green Building Solutions,Green Globes,7/23/2023,11.64,No,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,12/29/2022,649811.22,Green roof,Trincomalee,LEED Gold,Sustainable Builders,Green Globes,12/25/2023,73.23,Yes,low-flow,certified,30% reduction in energy use,true
+Green Office Building,8/28/2023,423977.35,Green roof,Jaffna,LEED Certified,Sustainable Builders,Green Globes,10/17/2023,79.99,Yes,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,11/23/2022,743697.99,Green roof,Colombo,LEED Platinum,Green Building Solutions,Green Globes,9/27/2023,46.0,No,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,7/22/2023,384922.56,Rainwater harvesting,Anuradhapura,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,2/6/2024,36.06,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Green Office Building,7/26/2023,612436.5,Green roof,Kandy,LEED Certified,Green Architects Inc.,ISO 14001,8/25/2023,55.0,No,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,12/25/2022,485981.27,Renewable energy sources,Trincomalee,Not Applicable,Sustainable Builders,Green Globes,2/4/2024,36.37,Yes,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,6/27/2023,839614.47,Green roof,Gampaha,LEED Silve,Sustainable Builders,LEED,11/10/2023,79.86,Limited,high-efficiency,certified,25% reduction in energy use,false
+Eco Elementary School,4/22/2023,245439.51,Renewable energy sources,Jaffna,LEED Silve,Green Building Solutions,Green Globes,9/17/2023,88.74,No,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,3/22/2023,475822.55,LEED Platinum certified,Kandy,Not Applicable,Sustainable Builders,Green Globes,8/24/2023,92.75,No,low-flow,reclaimed,25% reduction in energy use,true
+Eco Elementary School,9/23/2023,385145.49,Energy-efficient design,Kandy,LEED Platinum,Green Building Solutions,Green Globes,2/16/2024,68.07,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,10/27/2022,379507.55,Green roof,Jaffna,Not Applicable,Sustainable Builders,ENERGY STAR Certified,7/4/2023,24.19,Yes,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,7/22/2023,484558.76,Energy-efficient design,Colombo,LEED Platinum,Green Architects Inc.,LEED,12/10/2023,26.8,No,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,5/22/2023,321332.05,Rainwater harvesting,Jaffna,LEED Certified,Sustainable Builders,ENERGY STAR Certified,12/11/2023,73.81,No,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,6/18/2023,818811.11,LEED Platinum certified,Jaffna,LEED Platinum,Green Architects Inc.,Green Globes,1/10/2024,61.09,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,10/1/2023,453295.28,Green roof,Kandy,Not Applicable,Eco-Friendly Designs,Green Globes,10/5/2023,78.23,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Eco Elementary School,8/3/2023,359113.16,Energy-efficient design,Negombo,LEED Certified,Sustainable Builders,ISO 14001,1/2/2024,62.87,Yes,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,9/14/2023,859478.07,Renewable energy sources,Galle,LEED Certified,Green Building Solutions,ENERGY STAR Certified,9/18/2023,31.91,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,10/24/2023,298310.34,LEED Platinum certified,Galle,LEED Gold,Green Architects Inc.,ISO 14001,7/23/2023,80.19,Yes,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,7/27/2023,883188.59,Renewable energy sources,Negombo,Not Applicable,Eco-Friendly Designs,ISO 14001,5/19/2023,10.92,No,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,8/11/2023,201591.0,Green roof,Kandy,LEED Silve,Green Building Solutions,LEED,1/23/2024,46.89,No,low-flow,certified,25% reduction in energy use,false
+Sustainable Library,6/26/2023,562570.49,Energy-efficient design,Jaffna,LEED Platinum,EcoBuild Constructions,LEED,1/13/2024,10.97,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,11/20/2022,570904.14,Energy-efficient design,Galle,LEED Silve,Green Architects Inc.,Green Globes,7/7/2023,44.61,No,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,10/3/2023,782616.54,Green roof,Kandy,LEED Certified,Green Building Solutions,ENERGY STAR Certified,2/4/2024,14.18,Yes,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,4/18/2023,925100.6,Rainwater harvesting,Kurunegala,LEED Certified,Green Building Solutions,LEED,8/27/2023,74.07,Limited,low-flow,recycled,40% reduction in energy use,false
+Eco Elementary School,3/31/2023,893328.48,Energy-efficient design,Kurunegala,LEED Platinum,Green Building Solutions,LEED,9/5/2023,35.77,No,high-efficiency,sustainable,30% reduction in energy use,false
+Eco Elementary School,9/18/2023,848183.16,Green roof,Kandy,LEED Platinum,Green Building Solutions,ISO 14001,9/3/2023,87.85,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,7/30/2023,212268.88,Rainwater harvesting,Negombo,Not Applicable,Sustainable Builders,ENERGY STAR Certified,10/19/2023,57.99,Limited,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,7/2/2023,153695.71,Energy-efficient design,Galle,LEED Platinum,Eco-Friendly Designs,LEED,10/16/2023,94.97,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Sustainable Library,8/3/2023,868252.19,LEED Platinum certified,Jaffna,LEED Platinum,Green Building Solutions,LEED,10/6/2023,54.77,No,low-flow,local,40% reduction in energy use,false
+Sustainable Library,1/19/2023,158498.72,Renewable energy sources,Negombo,LEED Gold,Green Building Solutions,LEED,8/28/2023,81.05,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Eco Elementary School,12/24/2022,942916.5,Energy-efficient design,Colombo,LEED Certified,Green Architects Inc.,LEED,9/2/2023,77.09,Limited,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,5/20/2023,590732.43,LEED Platinum certified,Colombo,LEED Platinum,Green Building Solutions,Green Globes,2/7/2024,2.42,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Sustainable Library,6/7/2023,576199.34,Renewable energy sources,Negombo,Not Applicable,EcoBuild Constructions,LEED,6/25/2023,25.9,Yes,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,8/2/2023,829369.34,Rainwater harvesting,Negombo,LEED Certified,Green Architects Inc.,LEED,5/24/2023,74.45,No,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,1/13/2023,640468.01,Renewable energy sources,Kandy,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,10/31/2023,93.9,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Green Office Building,9/14/2023,463846.53,LEED Platinum certified,Anuradhapura,LEED Gold,Sustainable Builders,LEED,10/4/2023,31.02,Limited,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,4/6/2023,928812.09,Renewable energy sources,Galle,LEED Certified,EcoBuild Constructions,LEED,8/26/2023,17.96,No,low-flow,recycled,40% reduction in energy use,true
+Sustainable Library,9/5/2023,559697.26,Renewable energy sources,Colombo,LEED Certified,Eco-Friendly Designs,LEED,7/1/2023,25.2,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,8/28/2023,519417.16,Renewable energy sources,Colombo,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,11/26/2023,78.73,Limited,low-flow,recycled,30% reduction in energy use,false
+Sustainable Library,8/3/2023,513529.92,LEED Platinum certified,Kandy,LEED Platinum,EcoBuild Constructions,LEED,8/3/2023,6.22,Limited,low-flow,certified,25% reduction in energy use,true
+Sustainable Library,11/9/2022,458818.91,Rainwater harvesting,Anuradhapura,LEED Certified,Sustainable Builders,LEED,12/11/2023,44.27,Yes,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,6/15/2023,441677.98,Green roof,Kurunegala,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,9/25/2023,10.73,No,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,4/1/2023,927634.31,Energy-efficient design,Matara,LEED Gold,EcoBuild Constructions,ISO 14001,2/14/2024,24.99,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,11/22/2022,190068.94,Green roof,Anuradhapura,LEED Gold,Green Architects Inc.,ISO 14001,8/8/2023,20.65,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,6/10/2023,289225.04,Green roof,Galle,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,12/31/2023,6.19,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,8/16/2023,889839.89,LEED Platinum certified,Jaffna,LEED Gold,Eco-Friendly Designs,ENERGY STAR Certified,6/1/2023,57.05,Yes,low-flow,recycled,40% reduction in energy use,true
+Sustainable Library,8/25/2023,437889.97,LEED Platinum certified,Anuradhapura,LEED Certified,Eco-Friendly Designs,ISO 14001,8/26/2023,52.54,No,low-flow,reclaimed,40% reduction in energy use,false
+Sustainable Library,2/11/2023,476097.44,Renewable energy sources,Kandy,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,12/24/2023,49.56,No,high-efficiency,sustainable,25% reduction in energy use,false
+Eco Elementary School,10/5/2023,883817.22,Green roof,Kurunegala,LEED Certified,Green Building Solutions,LEED,11/18/2023,56.52,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Sustainable Library,6/10/2023,961598.2,LEED Platinum certified,Trincomalee,LEED Silve,Sustainable Builders,Green Globes,8/11/2023,17.43,Yes,low-flow,certified,30% reduction in energy use,true
+Eco Elementary School,7/29/2023,649839.63,Energy-efficient design,Negombo,Not Applicable,Green Architects Inc.,LEED,8/13/2023,58.63,No,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,10/19/2023,235509.96,Energy-efficient design,Trincomalee,LEED Certified,Green Building Solutions,LEED,10/7/2023,49.1,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,2/1/2023,425647.56,Rainwater harvesting,Galle,LEED Silve,EcoBuild Constructions,LEED,6/18/2023,16.89,Limited,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,11/4/2022,469434.0,Rainwater harvesting,Gampaha,LEED Silve,Green Building Solutions,ENERGY STAR Certified,6/15/2023,62.74,No,low-flow,local,25% reduction in energy use,true
+Green Office Building,8/9/2023,885861.35,Renewable energy sources,Anuradhapura,LEED Silve,Green Architects Inc.,Green Globes,8/4/2023,1.51,Yes,low-flow,certified,30% reduction in energy use,true
+Eco Elementary School,3/15/2023,972782.38,LEED Platinum certified,Gampaha,LEED Platinum,Green Architects Inc.,ISO 14001,10/1/2023,72.29,Yes,low-flow,local,30% reduction in energy use,false
+Green Office Building,2/20/2023,826235.23,Renewable energy sources,Matara,LEED Silve,Sustainable Builders,Green Globes,10/19/2023,66.65,Limited,low-flow,local,30% reduction in energy use,true
+Eco Elementary School,8/10/2023,735632.01,Renewable energy sources,Colombo,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,11/4/2023,20.2,Yes,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,9/11/2023,653848.86,Rainwater harvesting,Colombo,LEED Gold,Eco-Friendly Designs,Green Globes,7/4/2023,92.22,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,3/23/2023,374628.13,Rainwater harvesting,Negombo,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,2/15/2024,60.88,No,low-flow,local,40% reduction in energy use,false
+Green Office Building,11/28/2022,596358.8,LEED Platinum certified,Anuradhapura,LEED Platinum,Green Architects Inc.,LEED,6/1/2023,69.45,Yes,low-flow,local,30% reduction in energy use,false
+Green Office Building,7/9/2023,949863.42,Energy-efficient design,Kurunegala,LEED Gold,Eco-Friendly Designs,ISO 14001,10/4/2023,16.3,Yes,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,3/1/2023,153555.56,Green roof,Gampaha,LEED Silve,Green Building Solutions,ENERGY STAR Certified,6/28/2023,15.88,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,5/27/2023,410270.41,Rainwater harvesting,Negombo,LEED Gold,Green Architects Inc.,Green Globes,11/14/2023,43.52,No,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,10/23/2023,673056.86,Green roof,Kurunegala,LEED Silve,Green Building Solutions,ENERGY STAR Certified,5/19/2023,32.42,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,8/11/2023,211328.64,LEED Platinum certified,Kandy,LEED Gold,Eco-Friendly Designs,LEED,11/7/2023,6.25,No,low-flow,certified,25% reduction in energy use,true
+Eco Elementary School,5/5/2023,486675.89,Renewable energy sources,Kurunegala,LEED Gold,Sustainable Builders,Green Globes,12/7/2023,66.25,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,8/17/2023,621974.16,Green roof,Kurunegala,Not Applicable,EcoBuild Constructions,LEED,5/30/2023,76.91,No,high-efficiency,sustainable,40% reduction in energy use,false
+Sustainable Library,7/5/2023,525132.84,Rainwater harvesting,Colombo,LEED Platinum,Eco-Friendly Designs,LEED,7/13/2023,24.43,No,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,12/21/2022,998717.46,LEED Platinum certified,Kandy,LEED Gold,Eco-Friendly Designs,LEED,9/22/2023,79.68,Limited,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,9/4/2023,914313.13,Rainwater harvesting,Colombo,Not Applicable,Eco-Friendly Designs,LEED,7/13/2023,19.51,Yes,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,8/9/2023,326726.34,LEED Platinum certified,Anuradhapura,LEED Certified,Sustainable Builders,ISO 14001,5/19/2023,86.8,Yes,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,1/5/2023,516899.75,LEED Platinum certified,Kandy,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,10/10/2023,36.32,No,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,12/4/2022,415964.92,Renewable energy sources,Matara,Not Applicable,Green Architects Inc.,LEED,11/27/2023,63.11,Yes,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,5/15/2023,412726.23,Rainwater harvesting,Gampaha,Not Applicable,Eco-Friendly Designs,LEED,1/26/2024,62.65,Yes,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,4/13/2023,787415.8,Green roof,Colombo,LEED Platinum,Green Building Solutions,Green Globes,7/21/2023,70.73,Limited,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,10/30/2022,648443.27,Energy-efficient design,Jaffna,LEED Platinum,Sustainable Builders,ISO 14001,10/7/2023,69.95,No,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,3/31/2023,850309.07,Rainwater harvesting,Kurunegala,LEED Silve,Sustainable Builders,ENERGY STAR Certified,1/17/2024,0.63,Yes,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,9/5/2023,737213.71,Renewable energy sources,Gampaha,LEED Silve,Green Architects Inc.,Green Globes,10/18/2023,29.88,Limited,low-flow,recycled,30% reduction in energy use,false
+Green Office Building,6/6/2023,364460.8,Energy-efficient design,Jaffna,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,12/23/2023,68.53,Yes,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,12/6/2022,279813.78,Renewable energy sources,Anuradhapura,LEED Platinum,Green Building Solutions,Green Globes,6/14/2023,73.09,Yes,high-efficiency,reclaimed,30% reduction in energy use,true
+Sustainable Library,7/21/2023,599752.7,LEED Platinum certified,Trincomalee,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,11/17/2023,6.4,Yes,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,5/27/2023,982649.2,LEED Platinum certified,Jaffna,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,2/29/2024,94.56,Yes,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,3/9/2023,309044.22,LEED Platinum certified,Negombo,Not Applicable,EcoBuild Constructions,Green Globes,9/25/2023,53.8,Yes,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,9/14/2023,806040.54,LEED Platinum certified,Colombo,Not Applicable,Eco-Friendly Designs,LEED,6/1/2023,65.53,Limited,low-flow,certified,30% reduction in energy use,true
+Eco Elementary School,4/16/2023,719330.92,Green roof,Negombo,LEED Certified,Sustainable Builders,LEED,9/22/2023,40.63,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Eco Elementary School,4/29/2023,459135.48,Rainwater harvesting,Kurunegala,Not Applicable,Sustainable Builders,ENERGY STAR Certified,12/5/2023,78.96,Yes,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,6/23/2023,389600.52,LEED Platinum certified,Gampaha,LEED Gold,Sustainable Builders,LEED,7/5/2023,74.54,No,high-efficiency,sustainable,25% reduction in energy use,false
+Eco Elementary School,6/7/2023,612816.14,Energy-efficient design,Colombo,LEED Platinum,Eco-Friendly Designs,Green Globes,7/24/2023,71.18,Yes,high-efficiency,certified,40% reduction in energy use,true
+Eco Elementary School,5/1/2023,569339.39,Rainwater harvesting,Gampaha,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,9/26/2023,56.89,Yes,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,5/1/2023,755850.82,Rainwater harvesting,Trincomalee,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,9/17/2023,53.29,No,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,12/1/2022,185197.4,Green roof,Jaffna,LEED Certified,Green Building Solutions,LEED,11/2/2023,74.22,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Green Office Building,10/30/2022,543583.33,LEED Platinum certified,Colombo,Not Applicable,EcoBuild Constructions,ISO 14001,2/13/2024,31.37,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,10/6/2023,189531.16,Energy-efficient design,Anuradhapura,LEED Gold,Sustainable Builders,LEED,2/20/2024,72.42,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,9/16/2023,766185.55,Rainwater harvesting,Trincomalee,LEED Silve,Sustainable Builders,LEED,7/27/2023,41.65,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,3/19/2023,147905.52,Green roof,Trincomalee,LEED Certified,Green Building Solutions,Green Globes,2/5/2024,89.12,Yes,low-flow,reclaimed,40% reduction in energy use,false
+Sustainable Library,9/12/2023,135118.83,Green roof,Galle,LEED Gold,Green Architects Inc.,ISO 14001,10/14/2023,64.69,Yes,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,11/5/2022,386302.91,LEED Platinum certified,Matara,LEED Gold,Green Building Solutions,ENERGY STAR Certified,7/27/2023,2.19,Yes,low-flow,sustainable,25% reduction in energy use,true
+Sustainable Library,10/10/2023,992126.08,Green roof,Gampaha,LEED Certified,Green Architects Inc.,LEED,9/4/2023,19.32,Yes,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,5/30/2023,321467.43,Rainwater harvesting,Jaffna,LEED Certified,Sustainable Builders,Green Globes,7/17/2023,87.41,No,low-flow,local,40% reduction in energy use,true
+Eco Elementary School,9/3/2023,811874.25,Rainwater harvesting,Matara,LEED Certified,Eco-Friendly Designs,ISO 14001,1/7/2024,73.1,No,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,12/10/2022,645147.3,Energy-efficient design,Kandy,LEED Silve,Eco-Friendly Designs,LEED,8/8/2023,56.56,Limited,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,12/14/2022,942132.32,Energy-efficient design,Trincomalee,LEED Platinum,Green Architects Inc.,Green Globes,5/16/2023,28.74,Limited,high-efficiency,reclaimed,30% reduction in energy use,false
+Eco Elementary School,3/19/2023,725809.25,Green roof,Kurunegala,LEED Platinum,EcoBuild Constructions,LEED,12/23/2023,31.41,Limited,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,8/8/2023,257196.1,Rainwater harvesting,Matara,LEED Silve,Green Building Solutions,ISO 14001,8/7/2023,73.86,Limited,low-flow,certified,25% reduction in energy use,false
+Sustainable Library,10/12/2023,803764.07,Rainwater harvesting,Colombo,LEED Certified,Green Building Solutions,LEED,12/30/2023,12.83,Yes,low-flow,certified,25% reduction in energy use,true
+Green Office Building,4/2/2023,241491.48,LEED Platinum certified,Gampaha,Not Applicable,Green Architects Inc.,Green Globes,9/16/2023,29.34,Yes,low-flow,local,30% reduction in energy use,false
+Green Office Building,6/5/2023,481821.74,Renewable energy sources,Kandy,LEED Silve,Sustainable Builders,ENERGY STAR Certified,2/21/2024,19.23,Limited,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,2/19/2023,765811.17,Rainwater harvesting,Jaffna,LEED Platinum,Green Architects Inc.,ISO 14001,8/22/2023,42.39,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,5/11/2023,234211.17,Renewable energy sources,Jaffna,LEED Gold,Sustainable Builders,ENERGY STAR Certified,6/10/2023,69.18,Limited,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,7/29/2023,190668.36,Energy-efficient design,Gampaha,LEED Silve,Sustainable Builders,ENERGY STAR Certified,12/21/2023,56.17,Limited,low-flow,certified,30% reduction in energy use,true
+Eco Elementary School,12/13/2022,695640.28,Renewable energy sources,Kandy,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,11/20/2023,39.1,Yes,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,2/28/2023,528530.84,Green roof,Colombo,LEED Gold,Green Architects Inc.,LEED,11/20/2023,47.92,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,1/17/2023,812968.93,LEED Platinum certified,Matara,LEED Gold,Green Building Solutions,ENERGY STAR Certified,3/3/2024,17.4,Yes,low-flow,local,40% reduction in energy use,false
+Sustainable Library,11/10/2022,100071.69,Renewable energy sources,Gampaha,Not Applicable,Sustainable Builders,LEED,2/13/2024,96.73,Limited,high-efficiency,local,40% reduction in energy use,false
+Eco Elementary School,3/26/2023,747445.49,LEED Platinum certified,Matara,LEED Platinum,Eco-Friendly Designs,Green Globes,9/29/2023,9.32,No,high-efficiency,certified,40% reduction in energy use,false
+Sustainable Library,10/26/2023,906798.39,Rainwater harvesting,Galle,LEED Certified,Green Architects Inc.,Green Globes,1/8/2024,1.69,Yes,low-flow,local,40% reduction in energy use,false
+Sustainable Library,1/24/2023,439417.64,Rainwater harvesting,Colombo,LEED Silve,Green Building Solutions,ENERGY STAR Certified,11/11/2023,34.93,Limited,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,10/2/2023,102679.08,Renewable energy sources,Galle,Not Applicable,Sustainable Builders,LEED,9/4/2023,90.62,Limited,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,10/8/2023,213705.77,LEED Platinum certified,Kurunegala,LEED Platinum,Sustainable Builders,LEED,8/26/2023,26.48,Yes,low-flow,local,25% reduction in energy use,true
+Green Office Building,1/16/2023,802501.57,Green roof,Galle,LEED Certified,Sustainable Builders,ENERGY STAR Certified,1/13/2024,94.44,Yes,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,9/17/2023,717030.4,Rainwater harvesting,Matara,LEED Gold,Green Building Solutions,LEED,9/8/2023,40.71,Yes,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,5/4/2023,913421.21,Energy-efficient design,Gampaha,LEED Silve,EcoBuild Constructions,Green Globes,2/20/2024,18.68,No,low-flow,recycled,30% reduction in energy use,true
+Eco Elementary School,3/7/2023,665394.78,Energy-efficient design,Negombo,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,5/23/2023,65.71,Limited,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,2/16/2023,715086.25,Green roof,Negombo,LEED Platinum,Green Architects Inc.,LEED,3/6/2024,50.16,No,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,10/7/2023,562445.03,Rainwater harvesting,Trincomalee,LEED Platinum,EcoBuild Constructions,ISO 14001,12/4/2023,97.4,Yes,high-efficiency,local,25% reduction in energy use,true
+Eco Elementary School,2/25/2023,899740.86,LEED Platinum certified,Matara,LEED Platinum,EcoBuild Constructions,ISO 14001,8/27/2023,2.4,Limited,low-flow,reclaimed,25% reduction in energy use,true
+Eco Elementary School,12/16/2022,825079.11,Energy-efficient design,Negombo,LEED Platinum,Sustainable Builders,LEED,9/10/2023,0.77,Limited,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,1/21/2023,470509.26,Rainwater harvesting,Jaffna,LEED Silve,EcoBuild Constructions,Green Globes,11/22/2023,28.43,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,6/2/2023,608044.25,Rainwater harvesting,Trincomalee,LEED Certified,Sustainable Builders,LEED,12/31/2023,10.13,Yes,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,8/15/2023,696900.46,Energy-efficient design,Matara,Not Applicable,Sustainable Builders,ENERGY STAR Certified,8/13/2023,83.47,Limited,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,9/23/2023,742600.82,Green roof,Jaffna,LEED Certified,EcoBuild Constructions,Green Globes,11/6/2023,52.6,Limited,low-flow,local,40% reduction in energy use,false
+Sustainable Library,1/29/2023,304287.89,Green roof,Gampaha,LEED Gold,Green Building Solutions,Green Globes,1/26/2024,68.95,No,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,2/17/2023,217091.59,LEED Platinum certified,Jaffna,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,10/28/2023,48.88,Yes,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,10/10/2023,392376.56,Green roof,Colombo,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,6/8/2023,49.39,Yes,low-flow,local,25% reduction in energy use,true
+Sustainable Library,10/14/2023,980281.84,LEED Platinum certified,Colombo,LEED Certified,Sustainable Builders,LEED,10/5/2023,43.91,No,high-efficiency,reclaimed,30% reduction in energy use,true
+Sustainable Library,12/31/2022,136236.84,Green roof,Anuradhapura,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,6/4/2023,62.23,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,12/10/2022,229892.5,Rainwater harvesting,Matara,LEED Silve,Green Building Solutions,LEED,10/15/2023,53.39,Limited,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,10/9/2023,739068.61,Rainwater harvesting,Colombo,Not Applicable,Eco-Friendly Designs,Green Globes,6/17/2023,30.06,Yes,low-flow,recycled,40% reduction in energy use,true
+Green Office Building,5/14/2023,195759.11,Renewable energy sources,Negombo,LEED Silve,Green Architects Inc.,Green Globes,9/20/2023,94.96,Limited,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,5/30/2023,102657.94,Energy-efficient design,Colombo,Not Applicable,Eco-Friendly Designs,ISO 14001,6/21/2023,70.0,Limited,high-efficiency,certified,25% reduction in energy use,true
+Green Office Building,5/27/2023,727534.59,Renewable energy sources,Kandy,Not Applicable,Green Building Solutions,Green Globes,2/12/2024,7.52,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,7/12/2023,863750.56,LEED Platinum certified,Gampaha,LEED Silve,Green Building Solutions,Green Globes,2/5/2024,31.95,Limited,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,3/14/2023,710679.46,Renewable energy sources,Galle,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,12/31/2023,3.21,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Green Office Building,4/27/2023,823810.87,LEED Platinum certified,Matara,LEED Silve,Green Building Solutions,LEED,11/2/2023,57.39,No,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,2/8/2023,129394.95,Green roof,Trincomalee,Not Applicable,Green Building Solutions,ISO 14001,5/16/2023,1.18,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,7/31/2023,766688.78,LEED Platinum certified,Kurunegala,LEED Gold,Sustainable Builders,LEED,12/31/2023,37.53,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,3/27/2023,471559.35,Rainwater harvesting,Matara,LEED Gold,Eco-Friendly Designs,ISO 14001,10/12/2023,50.11,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,4/29/2023,888676.42,Green roof,Trincomalee,LEED Certified,Eco-Friendly Designs,Green Globes,10/23/2023,54.49,No,low-flow,local,40% reduction in energy use,true
+Sustainable Library,1/5/2023,272017.67,LEED Platinum certified,Galle,LEED Gold,Green Building Solutions,ISO 14001,12/18/2023,37.95,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,7/15/2023,717091.86,Green roof,Gampaha,LEED Silve,Sustainable Builders,ISO 14001,9/30/2023,61.6,Yes,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,11/10/2022,661185.04,Renewable energy sources,Anuradhapura,LEED Certified,Green Building Solutions,ENERGY STAR Certified,12/30/2023,14.5,No,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,10/16/2023,610127.09,Green roof,Gampaha,Not Applicable,Green Building Solutions,LEED,6/23/2023,13.41,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,7/30/2023,443556.69,Rainwater harvesting,Jaffna,Not Applicable,EcoBuild Constructions,ISO 14001,7/19/2023,16.05,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,5/10/2023,476259.37,Rainwater harvesting,Galle,LEED Silve,Sustainable Builders,LEED,9/13/2023,64.08,Yes,low-flow,local,25% reduction in energy use,true
+Sustainable Library,9/9/2023,788733.23,Green roof,Anuradhapura,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,11/9/2023,20.99,Yes,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,7/28/2023,216990.03,LEED Platinum certified,Colombo,LEED Silve,Sustainable Builders,ISO 14001,3/3/2024,59.48,No,low-flow,certified,30% reduction in energy use,true
+Green Office Building,12/11/2022,992857.88,Green roof,Anuradhapura,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,5/15/2023,71.2,Limited,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,1/2/2023,342316.57,LEED Platinum certified,Kurunegala,LEED Certified,Sustainable Builders,Green Globes,9/14/2023,54.46,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,11/6/2022,401129.61,Renewable energy sources,Trincomalee,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,10/27/2023,59.84,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Eco Elementary School,10/13/2023,430286.36,Renewable energy sources,Kandy,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,2/21/2024,58.62,No,high-efficiency,local,25% reduction in energy use,false
+Eco Elementary School,4/27/2023,406551.97,Rainwater harvesting,Negombo,LEED Gold,Eco-Friendly Designs,Green Globes,11/30/2023,57.51,Yes,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,9/11/2023,488696.26,Renewable energy sources,Matara,LEED Silve,Sustainable Builders,Green Globes,6/18/2023,66.63,Limited,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,12/22/2022,567904.53,LEED Platinum certified,Trincomalee,LEED Platinum,EcoBuild Constructions,Green Globes,7/17/2023,10.62,Limited,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,6/21/2023,332696.07,Green roof,Gampaha,LEED Gold,Green Building Solutions,ENERGY STAR Certified,5/25/2023,88.87,Yes,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,5/9/2023,890788.74,Renewable energy sources,Jaffna,LEED Silve,Sustainable Builders,LEED,6/14/2023,78.32,Yes,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,8/4/2023,589701.54,Energy-efficient design,Matara,Not Applicable,Green Architects Inc.,ISO 14001,2/12/2024,82.69,Yes,low-flow,sustainable,40% reduction in energy use,false
+Sustainable Library,1/30/2023,134515.38,Rainwater harvesting,Galle,LEED Platinum,Sustainable Builders,LEED,10/5/2023,63.71,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,7/16/2023,283522.81,Renewable energy sources,Anuradhapura,Not Applicable,Eco-Friendly Designs,LEED,11/18/2023,83.21,Yes,high-efficiency,local,25% reduction in energy use,false
+Eco Elementary School,1/17/2023,666966.55,LEED Platinum certified,Galle,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,10/12/2023,47.36,Yes,low-flow,local,25% reduction in energy use,false
+Sustainable Library,8/19/2023,664966.76,Renewable energy sources,Kandy,LEED Platinum,EcoBuild Constructions,Green Globes,10/25/2023,32.43,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,5/21/2023,579054.97,Rainwater harvesting,Trincomalee,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,9/22/2023,19.98,No,low-flow,local,40% reduction in energy use,true
+Sustainable Library,11/8/2022,477816.44,Rainwater harvesting,Colombo,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,6/26/2023,30.75,Limited,high-efficiency,certified,40% reduction in energy use,false
+Green Office Building,1/1/2023,691141.91,Renewable energy sources,Kandy,LEED Silve,Sustainable Builders,ISO 14001,1/3/2024,41.68,No,low-flow,recycled,25% reduction in energy use,false
+Sustainable Library,2/24/2023,524848.52,Rainwater harvesting,Galle,LEED Platinum,Green Building Solutions,LEED,11/18/2023,95.75,No,low-flow,reclaimed,25% reduction in energy use,true
+Eco Elementary School,2/19/2023,872318.37,Renewable energy sources,Trincomalee,LEED Silve,EcoBuild Constructions,LEED,8/19/2023,93.18,No,low-flow,certified,25% reduction in energy use,false
+Green Office Building,8/4/2023,743070.58,Energy-efficient design,Anuradhapura,LEED Certified,Green Building Solutions,Green Globes,3/9/2024,28.43,Limited,high-efficiency,sustainable,25% reduction in energy use,true
+Green Office Building,4/30/2023,286227.72,Renewable energy sources,Kurunegala,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,8/11/2023,19.0,No,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,10/28/2022,949536.8,LEED Platinum certified,Colombo,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,8/3/2023,35.96,Limited,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,12/23/2022,513734.45,Green roof,Jaffna,Not Applicable,Green Architects Inc.,ISO 14001,10/4/2023,96.09,Yes,low-flow,reclaimed,40% reduction in energy use,false
+Green Office Building,8/21/2023,862296.56,Rainwater harvesting,Kandy,LEED Certified,Sustainable Builders,LEED,2/1/2024,55.03,Yes,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,12/17/2022,997952.62,LEED Platinum certified,Anuradhapura,LEED Silve,Green Building Solutions,LEED,1/30/2024,66.22,No,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,2/22/2023,731148.68,Rainwater harvesting,Kurunegala,LEED Platinum,Green Building Solutions,ISO 14001,1/5/2024,73.31,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,2/21/2023,802586.33,Renewable energy sources,Jaffna,LEED Silve,Green Architects Inc.,ISO 14001,7/17/2023,87.69,Yes,high-efficiency,local,25% reduction in energy use,true
+Eco Elementary School,12/20/2022,696499.59,LEED Platinum certified,Anuradhapura,LEED Platinum,Green Architects Inc.,Green Globes,6/11/2023,64.71,No,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,3/20/2023,699940.88,Green roof,Jaffna,LEED Gold,EcoBuild Constructions,ISO 14001,9/12/2023,47.34,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,4/19/2023,198260.0,Green roof,Colombo,LEED Platinum,Green Building Solutions,Green Globes,5/23/2023,30.38,Yes,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,8/3/2023,689197.62,Energy-efficient design,Negombo,LEED Platinum,Sustainable Builders,LEED,6/8/2023,59.54,Yes,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,3/24/2023,813950.53,Energy-efficient design,Colombo,LEED Certified,Sustainable Builders,Green Globes,3/5/2024,52.56,Yes,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,11/29/2022,948809.07,Energy-efficient design,Negombo,LEED Silve,Eco-Friendly Designs,ISO 14001,6/2/2023,84.86,Yes,high-efficiency,sustainable,40% reduction in energy use,false
+Green Office Building,6/29/2023,764794.39,Rainwater harvesting,Matara,LEED Platinum,Eco-Friendly Designs,ISO 14001,6/21/2023,23.42,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,7/14/2023,929853.23,Renewable energy sources,Kandy,LEED Certified,Green Building Solutions,Green Globes,12/19/2023,83.35,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,4/17/2023,678506.16,Rainwater harvesting,Gampaha,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,12/2/2023,6.11,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Green Office Building,6/22/2023,360689.35,Green roof,Galle,LEED Platinum,Green Architects Inc.,Green Globes,6/5/2023,39.26,Yes,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,6/23/2023,449297.07,Renewable energy sources,Colombo,LEED Gold,Green Building Solutions,Green Globes,10/26/2023,88.15,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,11/19/2022,692829.41,Green roof,Negombo,LEED Platinum,Eco-Friendly Designs,LEED,6/20/2023,75.59,No,low-flow,local,40% reduction in energy use,false
+Green Office Building,3/14/2023,115586.81,LEED Platinum certified,Gampaha,LEED Platinum,Eco-Friendly Designs,ISO 14001,8/4/2023,60.35,No,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,10/16/2023,696330.56,Rainwater harvesting,Negombo,Not Applicable,EcoBuild Constructions,LEED,10/25/2023,52.91,No,low-flow,local,30% reduction in energy use,false
+Eco Elementary School,2/12/2023,310565.63,Green roof,Colombo,Not Applicable,Sustainable Builders,ISO 14001,6/10/2023,58.57,No,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,11/19/2022,511348.91,Green roof,Galle,LEED Silve,EcoBuild Constructions,LEED,12/26/2023,78.18,No,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,3/7/2023,672978.84,Renewable energy sources,Kandy,Not Applicable,EcoBuild Constructions,Green Globes,8/4/2023,20.48,Yes,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,12/18/2022,235666.65,LEED Platinum certified,Colombo,LEED Certified,Eco-Friendly Designs,Green Globes,2/23/2024,39.39,Limited,low-flow,local,30% reduction in energy use,true
+Eco Elementary School,9/1/2023,235213.6,LEED Platinum certified,Gampaha,LEED Platinum,Green Architects Inc.,ISO 14001,7/28/2023,34.21,Limited,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,8/21/2023,738979.37,Green roof,Colombo,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,12/4/2023,39.88,Limited,high-efficiency,certified,40% reduction in energy use,false
+Sustainable Library,11/23/2022,130696.19,Energy-efficient design,Galle,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,7/28/2023,1.14,Yes,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,7/5/2023,107292.44,Energy-efficient design,Jaffna,Not Applicable,Green Architects Inc.,LEED,2/27/2024,49.79,No,high-efficiency,certified,25% reduction in energy use,true
+Sustainable Library,5/3/2023,703679.33,Rainwater harvesting,Matara,Not Applicable,Green Building Solutions,ISO 14001,8/28/2023,79.3,Yes,low-flow,local,40% reduction in energy use,false
+Sustainable Library,2/14/2023,270811.85,LEED Platinum certified,Colombo,LEED Gold,Green Architects Inc.,ISO 14001,11/14/2023,64.98,No,low-flow,local,40% reduction in energy use,true
+Sustainable Library,10/12/2023,848169.08,Renewable energy sources,Jaffna,LEED Silve,Green Building Solutions,LEED,11/2/2023,53.88,Limited,low-flow,recycled,25% reduction in energy use,false
+Green Office Building,10/14/2023,372576.66,LEED Platinum certified,Colombo,LEED Platinum,Eco-Friendly Designs,Green Globes,11/21/2023,4.44,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,12/28/2022,671852.17,Renewable energy sources,Matara,LEED Gold,Sustainable Builders,Green Globes,11/19/2023,42.27,Yes,low-flow,local,30% reduction in energy use,false
+Green Office Building,5/7/2023,689776.17,Energy-efficient design,Matara,LEED Silve,Sustainable Builders,ENERGY STAR Certified,7/25/2023,82.4,Limited,high-efficiency,local,25% reduction in energy use,false
+Eco Elementary School,2/24/2023,388924.28,Renewable energy sources,Kandy,LEED Certified,Green Architects Inc.,LEED,12/4/2023,49.23,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,2/16/2023,995848.29,LEED Platinum certified,Kandy,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,12/22/2023,4.58,Yes,high-efficiency,certified,30% reduction in energy use,false
+Eco Elementary School,6/17/2023,445570.15,Renewable energy sources,Anuradhapura,LEED Silve,Green Building Solutions,Green Globes,8/2/2023,35.2,Yes,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,4/7/2023,248958.95,Rainwater harvesting,Anuradhapura,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,10/20/2023,67.02,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,2/12/2023,855948.97,LEED Platinum certified,Matara,LEED Platinum,Eco-Friendly Designs,Green Globes,10/9/2023,40.99,No,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,8/21/2023,656565.12,LEED Platinum certified,Kandy,LEED Silve,EcoBuild Constructions,LEED,12/30/2023,80.67,No,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,6/20/2023,802707.57,LEED Platinum certified,Matara,LEED Silve,Eco-Friendly Designs,LEED,5/21/2023,71.31,No,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,7/13/2023,271850.63,Renewable energy sources,Kandy,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,8/28/2023,69.03,No,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,10/6/2023,992486.85,Renewable energy sources,Galle,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,7/18/2023,68.16,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Eco Elementary School,3/1/2023,363908.69,Energy-efficient design,Matara,LEED Gold,Green Architects Inc.,Green Globes,1/16/2024,30.42,No,high-efficiency,reclaimed,25% reduction in energy use,false
+Eco Elementary School,8/13/2023,894500.33,Energy-efficient design,Negombo,Not Applicable,Eco-Friendly Designs,LEED,1/24/2024,74.06,No,low-flow,local,25% reduction in energy use,false
+Eco Elementary School,3/17/2023,929248.01,LEED Platinum certified,Jaffna,LEED Certified,EcoBuild Constructions,LEED,6/27/2023,26.1,No,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,11/8/2022,123886.07,LEED Platinum certified,Colombo,LEED Platinum,Eco-Friendly Designs,Green Globes,12/3/2023,59.93,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,1/26/2023,319347.33,Rainwater harvesting,Kurunegala,LEED Gold,Sustainable Builders,ENERGY STAR Certified,10/3/2023,11.91,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,11/13/2022,269585.32,LEED Platinum certified,Kandy,LEED Certified,Sustainable Builders,Green Globes,10/14/2023,70.45,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,5/20/2023,965004.2,Energy-efficient design,Colombo,LEED Certified,EcoBuild Constructions,Green Globes,6/18/2023,97.5,Limited,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,12/19/2022,102795.83,LEED Platinum certified,Negombo,LEED Certified,Sustainable Builders,ENERGY STAR Certified,11/4/2023,23.74,Limited,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,9/8/2023,202067.1,Green roof,Kandy,LEED Platinum,Eco-Friendly Designs,LEED,8/11/2023,67.9,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Sustainable Library,5/29/2023,780249.86,Green roof,Galle,LEED Silve,Sustainable Builders,LEED,1/26/2024,30.99,Yes,low-flow,certified,25% reduction in energy use,false
+Sustainable Library,8/29/2023,448707.93,LEED Platinum certified,Matara,LEED Platinum,Eco-Friendly Designs,ISO 14001,11/29/2023,20.52,Limited,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,3/29/2023,643027.68,Green roof,Gampaha,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,6/6/2023,85.08,No,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,8/30/2023,792671.39,Renewable energy sources,Matara,LEED Certified,Green Building Solutions,ISO 14001,12/26/2023,16.72,No,low-flow,local,25% reduction in energy use,true
+Green Office Building,12/15/2022,101337.34,LEED Platinum certified,Colombo,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,7/9/2023,15.9,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,12/26/2022,123419.92,Energy-efficient design,Negombo,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,7/19/2023,21.66,No,low-flow,local,40% reduction in energy use,false
+Sustainable Library,4/13/2023,279738.04,Renewable energy sources,Kurunegala,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,11/12/2023,59.87,Limited,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,10/30/2022,366193.26,Energy-efficient design,Trincomalee,Not Applicable,Green Building Solutions,ENERGY STAR Certified,10/16/2023,78.63,Yes,low-flow,certified,40% reduction in energy use,true
+Green Office Building,7/17/2023,592408.25,Green roof,Colombo,LEED Platinum,Eco-Friendly Designs,LEED,8/28/2023,84.32,No,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,3/9/2023,664366.03,Rainwater harvesting,Kandy,LEED Silve,EcoBuild Constructions,Green Globes,2/2/2024,55.43,Yes,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,5/18/2023,384329.18,Rainwater harvesting,Trincomalee,LEED Platinum,Eco-Friendly Designs,Green Globes,8/22/2023,38.13,No,high-efficiency,local,25% reduction in energy use,false
+Eco Elementary School,12/13/2022,936532.8,Energy-efficient design,Trincomalee,LEED Silve,Sustainable Builders,ENERGY STAR Certified,3/6/2024,13.96,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,4/4/2023,714528.26,Renewable energy sources,Trincomalee,LEED Platinum,Green Architects Inc.,ISO 14001,6/21/2023,49.74,Yes,low-flow,local,30% reduction in energy use,true
+Eco Elementary School,8/20/2023,179599.38,LEED Platinum certified,Negombo,LEED Silve,Green Architects Inc.,LEED,5/24/2023,48.41,Limited,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,6/14/2023,588972.57,Rainwater harvesting,Kandy,LEED Gold,Green Architects Inc.,ISO 14001,7/26/2023,34.13,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Sustainable Library,4/18/2023,346389.2,Renewable energy sources,Jaffna,LEED Certified,Green Building Solutions,Green Globes,9/10/2023,87.72,Limited,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,6/26/2023,829150.1,Rainwater harvesting,Galle,LEED Silve,Green Building Solutions,ISO 14001,12/17/2023,4.04,Limited,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,6/13/2023,278877.48,Rainwater harvesting,Gampaha,Not Applicable,EcoBuild Constructions,Green Globes,11/13/2023,15.55,No,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,3/24/2023,401589.76,Renewable energy sources,Galle,LEED Platinum,Eco-Friendly Designs,Green Globes,7/28/2023,35.62,No,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,7/21/2023,382892.96,Green roof,Matara,LEED Silve,Sustainable Builders,LEED,7/21/2023,56.4,Yes,low-flow,certified,40% reduction in energy use,true
+Sustainable Library,1/16/2023,202396.85,Green roof,Matara,LEED Gold,Sustainable Builders,LEED,11/4/2023,54.47,Yes,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,5/23/2023,765504.25,Renewable energy sources,Jaffna,LEED Silve,Eco-Friendly Designs,ISO 14001,12/16/2023,38.53,Limited,low-flow,local,30% reduction in energy use,true
+Sustainable Library,11/11/2022,875965.5,Green roof,Jaffna,LEED Gold,Eco-Friendly Designs,Green Globes,9/1/2023,93.15,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,1/20/2023,261112.22,Renewable energy sources,Jaffna,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,10/1/2023,13.55,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,8/30/2023,145424.67,Rainwater harvesting,Jaffna,LEED Gold,Green Building Solutions,ISO 14001,9/5/2023,24.96,Limited,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,12/19/2022,173989.74,Energy-efficient design,Galle,LEED Certified,Green Building Solutions,LEED,3/6/2024,39.5,No,low-flow,local,25% reduction in energy use,false
+Green Office Building,2/21/2023,323053.35,Energy-efficient design,Negombo,LEED Platinum,Green Building Solutions,LEED,2/10/2024,72.64,No,low-flow,sustainable,25% reduction in energy use,true
+Green Office Building,11/20/2022,520826.13,Green roof,Kandy,LEED Certified,Sustainable Builders,LEED,2/27/2024,56.99,Limited,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,2/21/2023,194161.28,LEED Platinum certified,Trincomalee,LEED Platinum,Eco-Friendly Designs,ISO 14001,10/16/2023,98.24,No,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,4/20/2023,159387.69,Green roof,Trincomalee,LEED Silve,Eco-Friendly Designs,Green Globes,10/1/2023,72.74,Limited,low-flow,recycled,40% reduction in energy use,false
+Eco Elementary School,11/10/2022,101754.85,Rainwater harvesting,Jaffna,LEED Platinum,Green Architects Inc.,ISO 14001,2/23/2024,41.29,Limited,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,3/28/2023,780674.49,Rainwater harvesting,Gampaha,LEED Silve,EcoBuild Constructions,ISO 14001,7/14/2023,22.38,Yes,low-flow,recycled,40% reduction in energy use,true
+Green Office Building,12/19/2022,808886.1,Renewable energy sources,Kurunegala,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,11/27/2023,96.18,Limited,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,11/17/2022,386227.51,Energy-efficient design,Kandy,LEED Gold,Green Architects Inc.,LEED,9/21/2023,4.93,Limited,low-flow,recycled,25% reduction in energy use,true
+Eco Elementary School,2/27/2023,323776.35,Energy-efficient design,Kurunegala,LEED Certified,Green Architects Inc.,Green Globes,2/29/2024,95.41,No,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,10/29/2022,845683.11,Rainwater harvesting,Colombo,Not Applicable,Green Architects Inc.,LEED,5/25/2023,66.33,Limited,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,3/7/2023,919163.14,LEED Platinum certified,Matara,LEED Gold,Sustainable Builders,ISO 14001,11/20/2023,1.16,No,high-efficiency,certified,25% reduction in energy use,true
+Green Office Building,8/23/2023,507551.62,Renewable energy sources,Colombo,LEED Silve,Green Building Solutions,ENERGY STAR Certified,2/14/2024,96.27,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,6/27/2023,333242.6,LEED Platinum certified,Colombo,LEED Certified,Eco-Friendly Designs,Green Globes,5/27/2023,62.8,Yes,low-flow,sustainable,25% reduction in energy use,true
+Green Office Building,11/20/2022,255326.0,Rainwater harvesting,Kandy,LEED Certified,Green Building Solutions,LEED,11/6/2023,1.55,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,7/24/2023,590883.83,Rainwater harvesting,Kurunegala,LEED Gold,Green Architects Inc.,ISO 14001,11/29/2023,46.42,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,12/7/2022,121838.6,Green roof,Galle,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,2/28/2024,58.98,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Sustainable Library,8/5/2023,407169.7,Rainwater harvesting,Negombo,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,5/30/2023,68.0,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Eco Elementary School,6/8/2023,491687.57,Rainwater harvesting,Colombo,LEED Gold,Sustainable Builders,ISO 14001,1/6/2024,93.5,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,9/17/2023,324411.75,Renewable energy sources,Anuradhapura,LEED Certified,Green Building Solutions,LEED,7/26/2023,17.64,No,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,8/24/2023,624058.59,Rainwater harvesting,Anuradhapura,LEED Silve,Green Building Solutions,ENERGY STAR Certified,10/24/2023,10.46,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,5/27/2023,958325.34,Green roof,Trincomalee,LEED Silve,Green Building Solutions,LEED,2/7/2024,11.79,Yes,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,8/8/2023,148204.91,Renewable energy sources,Jaffna,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,10/30/2023,57.47,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,9/15/2023,459843.52,Renewable energy sources,Trincomalee,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,2/17/2024,91.81,Limited,high-efficiency,certified,25% reduction in energy use,true
+Sustainable Library,8/31/2023,953121.44,Green roof,Jaffna,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,11/26/2023,1.31,No,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,12/15/2022,534216.43,Renewable energy sources,Anuradhapura,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,8/30/2023,77.63,Limited,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,6/2/2023,893568.53,Rainwater harvesting,Colombo,LEED Gold,Sustainable Builders,ENERGY STAR Certified,8/12/2023,18.65,Yes,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,10/12/2023,858273.64,LEED Platinum certified,Anuradhapura,LEED Silve,Green Building Solutions,ENERGY STAR Certified,1/28/2024,76.82,Yes,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,11/6/2022,650017.07,Energy-efficient design,Gampaha,LEED Gold,Green Building Solutions,LEED,8/7/2023,98.99,No,low-flow,recycled,40% reduction in energy use,false
+Eco Elementary School,7/10/2023,306372.67,Green roof,Negombo,LEED Silve,EcoBuild Constructions,LEED,7/24/2023,70.92,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,9/19/2023,317095.39,Energy-efficient design,Anuradhapura,LEED Certified,Green Building Solutions,LEED,8/21/2023,8.53,Limited,low-flow,recycled,40% reduction in energy use,true
+Green Office Building,8/18/2023,353205.38,Energy-efficient design,Negombo,Not Applicable,Green Architects Inc.,LEED,12/23/2023,68.57,No,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,4/10/2023,777008.21,Rainwater harvesting,Kurunegala,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,7/26/2023,4.43,No,low-flow,recycled,40% reduction in energy use,true
+Sustainable Library,7/1/2023,694055.85,Rainwater harvesting,Colombo,Not Applicable,Eco-Friendly Designs,Green Globes,12/18/2023,61.27,No,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,12/11/2022,894753.67,LEED Platinum certified,Colombo,LEED Gold,Eco-Friendly Designs,ISO 14001,1/19/2024,59.29,Limited,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,2/18/2023,561453.97,Rainwater harvesting,Kurunegala,LEED Silve,EcoBuild Constructions,ISO 14001,5/27/2023,32.77,Yes,low-flow,local,25% reduction in energy use,true
+Eco Elementary School,11/25/2022,340468.74,Rainwater harvesting,Negombo,LEED Platinum,Green Building Solutions,ISO 14001,12/28/2023,52.03,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Eco Elementary School,1/29/2023,621981.86,Renewable energy sources,Kandy,LEED Platinum,Green Architects Inc.,ISO 14001,9/2/2023,37.45,No,high-efficiency,recycled,30% reduction in energy use,false
+Sustainable Library,10/5/2023,327654.14,Rainwater harvesting,Gampaha,LEED Silve,Green Building Solutions,ISO 14001,11/26/2023,73.07,Yes,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,12/11/2022,314165.7,LEED Platinum certified,Matara,LEED Gold,Green Building Solutions,LEED,11/10/2023,48.53,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,5/24/2023,514489.75,Energy-efficient design,Kandy,LEED Certified,Green Building Solutions,LEED,5/17/2023,35.47,Yes,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,6/27/2023,607486.25,Energy-efficient design,Negombo,LEED Gold,Sustainable Builders,ENERGY STAR Certified,5/19/2023,18.39,Limited,low-flow,certified,25% reduction in energy use,true
+Green Office Building,5/31/2023,459676.68,Energy-efficient design,Trincomalee,LEED Gold,Eco-Friendly Designs,Green Globes,12/30/2023,28.63,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,5/27/2023,852729.91,Rainwater harvesting,Jaffna,LEED Certified,Green Building Solutions,ENERGY STAR Certified,8/5/2023,19.44,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,10/17/2023,736731.25,Energy-efficient design,Negombo,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,2/15/2024,18.2,Yes,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,2/27/2023,551052.22,Rainwater harvesting,Gampaha,LEED Platinum,Green Building Solutions,ISO 14001,2/29/2024,66.15,No,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,7/3/2023,576297.47,Rainwater harvesting,Jaffna,Not Applicable,Eco-Friendly Designs,LEED,11/9/2023,41.94,No,low-flow,certified,25% reduction in energy use,true
+Sustainable Library,3/1/2023,687672.14,Renewable energy sources,Kurunegala,LEED Silve,Green Building Solutions,ENERGY STAR Certified,8/13/2023,68.73,Limited,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,1/29/2023,102556.53,Green roof,Jaffna,LEED Gold,EcoBuild Constructions,LEED,12/19/2023,34.42,No,low-flow,local,25% reduction in energy use,true
+Green Office Building,5/3/2023,254181.89,LEED Platinum certified,Matara,LEED Platinum,Sustainable Builders,Green Globes,6/30/2023,82.85,No,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,7/27/2023,163856.4,LEED Platinum certified,Negombo,LEED Silve,Sustainable Builders,LEED,10/9/2023,10.07,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Eco Elementary School,10/27/2022,729102.47,Renewable energy sources,Anuradhapura,LEED Gold,EcoBuild Constructions,ISO 14001,8/19/2023,36.36,Limited,low-flow,local,40% reduction in energy use,true
+Sustainable Library,10/24/2023,912788.94,Energy-efficient design,Jaffna,LEED Silve,Green Building Solutions,LEED,11/28/2023,84.33,No,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,10/15/2023,827726.37,Energy-efficient design,Galle,LEED Platinum,Eco-Friendly Designs,Green Globes,5/15/2023,7.8,Limited,high-efficiency,local,40% reduction in energy use,false
+Eco Elementary School,11/4/2022,903304.79,Renewable energy sources,Jaffna,LEED Gold,Eco-Friendly Designs,LEED,11/25/2023,16.97,Limited,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,9/17/2023,386296.44,Rainwater harvesting,Gampaha,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,11/13/2023,67.78,No,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,6/26/2023,210011.11,Renewable energy sources,Colombo,LEED Platinum,Green Architects Inc.,Green Globes,1/12/2024,28.63,Limited,low-flow,reclaimed,25% reduction in energy use,false
+Green Office Building,6/18/2023,571504.63,Rainwater harvesting,Galle,LEED Silve,Green Building Solutions,Green Globes,1/17/2024,34.3,Limited,high-efficiency,local,25% reduction in energy use,false
+Green Office Building,5/11/2023,985148.59,LEED Platinum certified,Kandy,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,10/22/2023,86.5,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,9/29/2023,414374.93,Renewable energy sources,Matara,LEED Silve,Green Building Solutions,Green Globes,9/27/2023,58.04,Yes,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,6/22/2023,652513.39,Energy-efficient design,Kurunegala,Not Applicable,Green Architects Inc.,ISO 14001,1/16/2024,50.38,Limited,high-efficiency,local,30% reduction in energy use,false
+Sustainable Library,11/3/2022,338351.85,Energy-efficient design,Negombo,LEED Silve,Green Building Solutions,LEED,1/23/2024,37.82,Limited,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,2/6/2023,908865.25,Rainwater harvesting,Jaffna,LEED Gold,Green Building Solutions,ENERGY STAR Certified,7/3/2023,74.19,No,low-flow,sustainable,40% reduction in energy use,false
+Sustainable Library,10/21/2023,277162.89,Energy-efficient design,Trincomalee,LEED Gold,Green Architects Inc.,Green Globes,1/26/2024,43.39,Limited,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,8/6/2023,211911.56,LEED Platinum certified,Kurunegala,LEED Silve,Green Architects Inc.,ISO 14001,2/4/2024,86.23,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,7/23/2023,442620.97,Green roof,Matara,LEED Silve,EcoBuild Constructions,LEED,6/25/2023,7.03,Yes,high-efficiency,certified,30% reduction in energy use,false
+Eco Elementary School,12/4/2022,777553.9,Renewable energy sources,Gampaha,LEED Silve,Green Building Solutions,ENERGY STAR Certified,1/15/2024,75.9,Limited,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,12/4/2022,190690.25,Renewable energy sources,Jaffna,LEED Gold,Sustainable Builders,Green Globes,7/9/2023,29.12,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Eco Elementary School,3/19/2023,516256.6,Rainwater harvesting,Kandy,LEED Certified,Eco-Friendly Designs,Green Globes,8/5/2023,93.84,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,1/15/2023,114197.36,LEED Platinum certified,Jaffna,LEED Silve,Sustainable Builders,ISO 14001,11/11/2023,35.96,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Sustainable Library,7/31/2023,676223.25,Rainwater harvesting,Jaffna,LEED Gold,Sustainable Builders,LEED,6/9/2023,27.76,Yes,high-efficiency,recycled,30% reduction in energy use,false
+Eco Elementary School,8/23/2023,182014.2,Green roof,Galle,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,6/13/2023,4.1,Yes,low-flow,certified,25% reduction in energy use,true
+Green Office Building,4/14/2023,300966.53,Energy-efficient design,Trincomalee,LEED Certified,EcoBuild Constructions,LEED,10/16/2023,5.88,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,9/1/2023,730983.37,Green roof,Gampaha,LEED Gold,EcoBuild Constructions,LEED,12/2/2023,63.06,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,8/18/2023,173449.04,Renewable energy sources,Matara,LEED Certified,Green Architects Inc.,LEED,2/28/2024,28.62,Limited,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,3/19/2023,757602.27,Rainwater harvesting,Jaffna,LEED Platinum,Green Architects Inc.,ISO 14001,9/23/2023,60.79,Limited,low-flow,sustainable,40% reduction in energy use,false
+Eco Elementary School,6/11/2023,324271.82,Green roof,Trincomalee,Not Applicable,Green Building Solutions,ENERGY STAR Certified,8/31/2023,0.95,Limited,low-flow,local,40% reduction in energy use,false
+Sustainable Library,3/5/2023,366857.28,LEED Platinum certified,Jaffna,LEED Certified,Sustainable Builders,Green Globes,10/28/2023,37.68,No,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,4/28/2023,277150.84,Green roof,Gampaha,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,9/21/2023,65.9,No,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,10/17/2023,507972.23,Rainwater harvesting,Galle,Not Applicable,Green Architects Inc.,Green Globes,12/18/2023,2.6,Limited,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,12/14/2022,440761.1,Rainwater harvesting,Kandy,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,7/16/2023,53.13,Yes,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,1/8/2023,928092.35,Rainwater harvesting,Trincomalee,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,6/23/2023,94.06,Yes,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,10/22/2023,446976.76,Green roof,Trincomalee,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,11/23/2023,46.81,Yes,high-efficiency,sustainable,30% reduction in energy use,true
+Sustainable Library,6/14/2023,576116.59,Energy-efficient design,Gampaha,Not Applicable,Green Architects Inc.,Green Globes,7/13/2023,87.66,Limited,low-flow,certified,30% reduction in energy use,false
+Green Office Building,5/30/2023,298299.77,Renewable energy sources,Gampaha,Not Applicable,Sustainable Builders,LEED,3/9/2024,6.96,Yes,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,3/1/2023,612690.23,Rainwater harvesting,Anuradhapura,LEED Gold,Green Architects Inc.,LEED,9/13/2023,69.39,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,5/6/2023,357712.4,Renewable energy sources,Matara,Not Applicable,Green Building Solutions,Green Globes,6/16/2023,45.91,No,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,12/20/2022,497113.48,Rainwater harvesting,Matara,LEED Gold,Sustainable Builders,LEED,10/28/2023,69.9,Limited,low-flow,recycled,25% reduction in energy use,false
+Green Office Building,12/15/2022,151538.1,Energy-efficient design,Trincomalee,LEED Platinum,Eco-Friendly Designs,ISO 14001,5/30/2023,72.71,Limited,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,10/22/2023,663310.57,Rainwater harvesting,Kurunegala,LEED Certified,Sustainable Builders,ISO 14001,2/12/2024,13.98,Limited,high-efficiency,sustainable,25% reduction in energy use,false
+Eco Elementary School,1/21/2023,947152.14,Rainwater harvesting,Trincomalee,LEED Certified,EcoBuild Constructions,ISO 14001,9/17/2023,92.8,Limited,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,11/10/2022,303290.35,LEED Platinum certified,Negombo,LEED Gold,Green Building Solutions,LEED,12/9/2023,59.44,No,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,1/4/2023,456822.93,Green roof,Anuradhapura,LEED Platinum,Sustainable Builders,Green Globes,11/13/2023,2.64,Limited,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,4/15/2023,737107.27,Renewable energy sources,Trincomalee,Not Applicable,Sustainable Builders,LEED,9/22/2023,44.39,Limited,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,1/24/2023,976603.67,Energy-efficient design,Kurunegala,LEED Platinum,Green Architects Inc.,Green Globes,9/5/2023,82.33,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,4/5/2023,116096.68,Green roof,Kurunegala,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,2/18/2024,69.42,Limited,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,12/1/2022,231442.99,Renewable energy sources,Colombo,LEED Silve,EcoBuild Constructions,Green Globes,1/20/2024,74.01,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,8/10/2023,471430.13,Energy-efficient design,Negombo,LEED Gold,EcoBuild Constructions,ISO 14001,8/13/2023,5.15,Limited,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,2/8/2023,212549.24,Energy-efficient design,Jaffna,LEED Platinum,Green Building Solutions,ISO 14001,7/4/2023,99.96,Yes,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,12/17/2022,607362.39,Rainwater harvesting,Colombo,LEED Certified,Sustainable Builders,ISO 14001,5/21/2023,11.12,No,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,6/6/2023,304920.38,Green roof,Gampaha,LEED Platinum,Green Architects Inc.,ISO 14001,8/1/2023,64.53,Yes,low-flow,recycled,30% reduction in energy use,true
+Eco Elementary School,1/16/2023,382355.49,Rainwater harvesting,Galle,LEED Gold,Sustainable Builders,LEED,7/27/2023,3.39,Yes,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,8/2/2023,991506.52,Energy-efficient design,Anuradhapura,Not Applicable,Green Building Solutions,ISO 14001,8/23/2023,7.14,Yes,low-flow,certified,30% reduction in energy use,false
+Green Office Building,6/7/2023,954628.21,Energy-efficient design,Galle,Not Applicable,Green Architects Inc.,Green Globes,12/1/2023,47.69,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,1/22/2023,913593.59,Rainwater harvesting,Anuradhapura,LEED Platinum,Green Architects Inc.,ISO 14001,7/19/2023,48.91,No,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,2/6/2023,705227.71,Renewable energy sources,Gampaha,LEED Certified,Green Building Solutions,Green Globes,9/26/2023,2.2,No,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,10/9/2023,963049.51,LEED Platinum certified,Kandy,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,10/25/2023,49.29,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Sustainable Library,10/13/2023,941715.13,Rainwater harvesting,Trincomalee,Not Applicable,Sustainable Builders,LEED,1/31/2024,52.66,Limited,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,6/13/2023,273581.19,Green roof,Jaffna,LEED Certified,Green Building Solutions,ENERGY STAR Certified,9/27/2023,1.93,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,7/14/2023,508610.3,LEED Platinum certified,Matara,LEED Silve,Sustainable Builders,Green Globes,11/2/2023,22.03,No,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,10/21/2023,578163.18,Rainwater harvesting,Anuradhapura,LEED Silve,EcoBuild Constructions,ISO 14001,9/2/2023,64.97,No,high-efficiency,local,25% reduction in energy use,false
+Green Office Building,9/7/2023,576369.77,LEED Platinum certified,Matara,LEED Silve,Green Building Solutions,ENERGY STAR Certified,10/8/2023,43.11,No,low-flow,certified,40% reduction in energy use,false
+Green Office Building,12/20/2022,548870.64,LEED Platinum certified,Gampaha,LEED Platinum,Sustainable Builders,LEED,11/7/2023,74.97,Yes,high-efficiency,reclaimed,40% reduction in energy use,false
+Sustainable Library,2/28/2023,904665.19,Energy-efficient design,Matara,LEED Gold,Green Architects Inc.,ISO 14001,8/3/2023,95.35,Yes,high-efficiency,reclaimed,40% reduction in energy use,false
+Eco Elementary School,3/4/2023,961608.64,Green roof,Trincomalee,LEED Silve,Eco-Friendly Designs,ISO 14001,7/28/2023,94.35,No,high-efficiency,certified,40% reduction in energy use,true
+Sustainable Library,11/19/2022,569584.82,Green roof,Kurunegala,LEED Silve,Sustainable Builders,ENERGY STAR Certified,6/1/2023,11.05,No,low-flow,sustainable,40% reduction in energy use,false
+Sustainable Library,1/27/2023,788682.86,Renewable energy sources,Anuradhapura,LEED Gold,Green Building Solutions,ISO 14001,5/21/2023,6.81,No,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,3/15/2023,161544.45,Green roof,Kurunegala,Not Applicable,Eco-Friendly Designs,ISO 14001,6/1/2023,51.02,Limited,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,10/17/2023,119142.28,Green roof,Jaffna,LEED Certified,Sustainable Builders,LEED,9/21/2023,51.54,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,11/13/2022,375626.95,Green roof,Matara,LEED Platinum,Eco-Friendly Designs,LEED,1/17/2024,21.21,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,10/15/2023,315641.97,Green roof,Colombo,LEED Certified,Sustainable Builders,ENERGY STAR Certified,12/8/2023,88.13,Limited,low-flow,sustainable,30% reduction in energy use,false
+Eco Elementary School,11/26/2022,823721.59,Energy-efficient design,Trincomalee,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,6/2/2023,21.36,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Eco Elementary School,10/1/2023,614415.71,Renewable energy sources,Negombo,LEED Silve,Sustainable Builders,Green Globes,6/12/2023,65.07,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Eco Elementary School,12/25/2022,542799.74,Renewable energy sources,Negombo,LEED Silve,Green Architects Inc.,LEED,7/11/2023,30.6,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,5/6/2023,672784.46,Energy-efficient design,Kurunegala,Not Applicable,Eco-Friendly Designs,Green Globes,12/6/2023,61.61,No,high-efficiency,reclaimed,25% reduction in energy use,false
+Sustainable Library,3/13/2023,840195.08,Energy-efficient design,Colombo,LEED Certified,EcoBuild Constructions,LEED,10/5/2023,74.9,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,5/26/2023,886399.47,Rainwater harvesting,Negombo,LEED Certified,Green Architects Inc.,ISO 14001,7/3/2023,25.75,No,high-efficiency,certified,30% reduction in energy use,false
+Green Office Building,1/23/2023,649058.29,Green roof,Gampaha,LEED Gold,Green Architects Inc.,ISO 14001,1/26/2024,32.86,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,8/7/2023,641653.9,Rainwater harvesting,Galle,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,11/15/2023,21.2,Yes,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,8/31/2023,809113.01,Rainwater harvesting,Kandy,LEED Platinum,Green Building Solutions,ISO 14001,8/5/2023,12.52,Limited,low-flow,local,30% reduction in energy use,true
+Green Office Building,12/29/2022,181593.06,Rainwater harvesting,Galle,LEED Silve,Green Architects Inc.,Green Globes,8/21/2023,54.0,Yes,high-efficiency,local,30% reduction in energy use,true
+Green Office Building,3/14/2023,418709.77,LEED Platinum certified,Colombo,Not Applicable,Eco-Friendly Designs,LEED,8/3/2023,65.72,Yes,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,10/2/2023,770657.91,Green roof,Kandy,LEED Platinum,Sustainable Builders,ISO 14001,7/29/2023,29.03,No,high-efficiency,certified,25% reduction in energy use,true
+Sustainable Library,4/11/2023,541068.08,Renewable energy sources,Negombo,LEED Silve,Green Building Solutions,Green Globes,12/10/2023,17.72,Yes,low-flow,certified,25% reduction in energy use,false
+Sustainable Library,9/22/2023,268932.23,Green roof,Trincomalee,LEED Silve,Sustainable Builders,ENERGY STAR Certified,8/10/2023,80.44,Yes,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,2/17/2023,859905.0,Green roof,Kurunegala,LEED Platinum,EcoBuild Constructions,Green Globes,3/6/2024,15.71,No,high-efficiency,local,30% reduction in energy use,false
+Sustainable Library,4/10/2023,429720.6,Renewable energy sources,Kurunegala,Not Applicable,Green Building Solutions,ISO 14001,7/5/2023,33.85,Limited,low-flow,recycled,25% reduction in energy use,false
+Green Office Building,2/16/2023,347993.0,Renewable energy sources,Kandy,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,7/22/2023,44.04,No,high-efficiency,reclaimed,40% reduction in energy use,false
+Eco Elementary School,3/16/2023,837938.83,Rainwater harvesting,Anuradhapura,LEED Certified,Eco-Friendly Designs,ISO 14001,1/15/2024,96.93,Limited,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,10/18/2023,585602.55,Rainwater harvesting,Anuradhapura,LEED Silve,Green Architects Inc.,LEED,7/23/2023,23.78,Yes,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,12/18/2022,321868.26,Renewable energy sources,Kurunegala,Not Applicable,Green Building Solutions,LEED,12/2/2023,40.58,No,high-efficiency,sustainable,40% reduction in energy use,false
+Sustainable Library,10/4/2023,207467.88,Energy-efficient design,Trincomalee,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,3/4/2024,96.01,Yes,high-efficiency,certified,40% reduction in energy use,false
+Green Office Building,2/22/2023,375535.6,Rainwater harvesting,Matara,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,12/8/2023,84.09,Limited,low-flow,certified,25% reduction in energy use,true
+Eco Elementary School,11/15/2022,337072.68,Energy-efficient design,Galle,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,6/28/2023,43.06,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,2/12/2023,609577.89,Renewable energy sources,Jaffna,LEED Silve,Eco-Friendly Designs,ISO 14001,10/16/2023,83.72,No,high-efficiency,sustainable,40% reduction in energy use,true
+Sustainable Library,9/5/2023,278630.61,Rainwater harvesting,Kandy,LEED Gold,Green Architects Inc.,ISO 14001,1/14/2024,29.88,Limited,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,3/21/2023,678528.12,Rainwater harvesting,Gampaha,LEED Platinum,EcoBuild Constructions,Green Globes,12/22/2023,98.42,Yes,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,3/30/2023,365210.6,Energy-efficient design,Kurunegala,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,8/13/2023,56.74,No,low-flow,local,30% reduction in energy use,false
+Sustainable Library,8/21/2023,846588.55,LEED Platinum certified,Jaffna,Not Applicable,EcoBuild Constructions,ISO 14001,12/23/2023,71.22,Limited,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,6/25/2023,714246.24,Energy-efficient design,Anuradhapura,LEED Certified,Green Building Solutions,ENERGY STAR Certified,11/18/2023,32.36,Limited,low-flow,certified,30% reduction in energy use,true
+Eco Elementary School,1/25/2023,999972.76,Rainwater harvesting,Jaffna,LEED Silve,Eco-Friendly Designs,Green Globes,5/15/2023,95.74,No,low-flow,reclaimed,25% reduction in energy use,false
+Green Office Building,8/21/2023,776787.74,LEED Platinum certified,Anuradhapura,Not Applicable,Green Building Solutions,LEED,11/22/2023,48.07,Limited,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,7/14/2023,959432.43,Green roof,Galle,LEED Gold,Green Building Solutions,ISO 14001,12/27/2023,20.33,No,low-flow,reclaimed,25% reduction in energy use,true
+Sustainable Library,7/19/2023,543816.15,Green roof,Colombo,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,12/10/2023,49.37,No,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,10/7/2023,456437.33,Renewable energy sources,Jaffna,LEED Gold,Eco-Friendly Designs,ISO 14001,11/8/2023,9.19,No,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,1/29/2023,502932.27,Energy-efficient design,Anuradhapura,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,3/8/2024,48.35,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,10/30/2022,258005.88,LEED Platinum certified,Matara,LEED Platinum,Green Building Solutions,LEED,9/8/2023,89.99,No,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,6/19/2023,475206.28,Renewable energy sources,Kurunegala,LEED Silve,Green Architects Inc.,LEED,12/5/2023,99.03,Limited,low-flow,sustainable,25% reduction in energy use,true
+Sustainable Library,5/15/2023,651655.03,LEED Platinum certified,Kandy,Not Applicable,Sustainable Builders,LEED,1/30/2024,87.77,Limited,low-flow,recycled,25% reduction in energy use,false
+Sustainable Library,7/22/2023,438652.64,Renewable energy sources,Anuradhapura,Not Applicable,Green Building Solutions,Green Globes,5/23/2023,31.5,No,high-efficiency,certified,25% reduction in energy use,true
+Eco Elementary School,8/5/2023,914466.18,Rainwater harvesting,Jaffna,LEED Gold,Green Architects Inc.,ISO 14001,9/20/2023,54.1,No,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,5/24/2023,212140.5,LEED Platinum certified,Jaffna,LEED Platinum,Eco-Friendly Designs,LEED,5/18/2023,99.9,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,12/13/2022,911709.11,Green roof,Jaffna,LEED Gold,Eco-Friendly Designs,Green Globes,12/15/2023,79.29,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Eco Elementary School,5/10/2023,236234.64,Green roof,Negombo,LEED Silve,Sustainable Builders,Green Globes,6/8/2023,76.58,Limited,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,9/26/2023,969922.03,Renewable energy sources,Galle,LEED Silve,Green Architects Inc.,ISO 14001,1/14/2024,96.22,Yes,low-flow,sustainable,40% reduction in energy use,false
+Eco Elementary School,3/26/2023,539815.84,Renewable energy sources,Jaffna,LEED Silve,Green Building Solutions,LEED,10/17/2023,52.77,No,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,7/13/2023,325152.45,Rainwater harvesting,Jaffna,Not Applicable,EcoBuild Constructions,LEED,8/17/2023,62.92,Yes,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,1/9/2023,194294.76,Rainwater harvesting,Negombo,LEED Gold,EcoBuild Constructions,Green Globes,7/24/2023,59.02,Limited,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,5/13/2023,111179.39,Green roof,Gampaha,Not Applicable,Green Building Solutions,ISO 14001,6/20/2023,98.91,Yes,low-flow,recycled,25% reduction in energy use,false
+Sustainable Library,7/21/2023,958729.84,Energy-efficient design,Jaffna,LEED Gold,Green Architects Inc.,ISO 14001,3/7/2024,72.86,Limited,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,9/19/2023,160558.89,Renewable energy sources,Kurunegala,LEED Platinum,Green Architects Inc.,Green Globes,9/14/2023,14.94,No,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,4/22/2023,722808.37,Renewable energy sources,Negombo,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,11/6/2023,45.93,Yes,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,5/3/2023,747415.57,Rainwater harvesting,Negombo,Not Applicable,EcoBuild Constructions,LEED,6/26/2023,36.65,Limited,low-flow,recycled,25% reduction in energy use,true
+Eco Elementary School,1/1/2023,734887.86,Green roof,Gampaha,LEED Gold,Green Architects Inc.,LEED,12/26/2023,34.82,Yes,high-efficiency,certified,40% reduction in energy use,false
+Green Office Building,11/21/2022,507281.66,Renewable energy sources,Galle,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,7/28/2023,53.25,Yes,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,3/8/2023,450107.97,LEED Platinum certified,Kurunegala,LEED Platinum,Sustainable Builders,Green Globes,2/15/2024,83.2,Limited,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,2/16/2023,486374.65,Energy-efficient design,Trincomalee,LEED Silve,EcoBuild Constructions,Green Globes,6/24/2023,60.45,Yes,low-flow,certified,40% reduction in energy use,true
+Sustainable Library,8/26/2023,847204.38,Green roof,Kandy,LEED Platinum,EcoBuild Constructions,Green Globes,7/10/2023,52.31,No,high-efficiency,sustainable,30% reduction in energy use,false
+Eco Elementary School,11/19/2022,264352.46,Energy-efficient design,Anuradhapura,LEED Gold,Green Building Solutions,LEED,12/5/2023,35.72,Limited,low-flow,reclaimed,25% reduction in energy use,false
+Eco Elementary School,4/13/2023,741553.74,Green roof,Gampaha,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,7/1/2023,8.2,No,high-efficiency,certified,25% reduction in energy use,false
+Eco Elementary School,5/1/2023,127292.09,Rainwater harvesting,Matara,LEED Gold,Sustainable Builders,Green Globes,8/25/2023,17.88,No,high-efficiency,certified,40% reduction in energy use,true
+Eco Elementary School,12/8/2022,379047.57,Energy-efficient design,Kurunegala,Not Applicable,Green Architects Inc.,Green Globes,10/17/2023,19.28,No,low-flow,sustainable,25% reduction in energy use,true
+Green Office Building,9/22/2023,930764.15,LEED Platinum certified,Matara,LEED Gold,Eco-Friendly Designs,ENERGY STAR Certified,7/13/2023,52.29,Yes,low-flow,local,25% reduction in energy use,true
+Green Office Building,9/24/2023,968618.34,Energy-efficient design,Gampaha,LEED Gold,Green Building Solutions,ENERGY STAR Certified,6/26/2023,47.19,No,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,8/21/2023,103987.44,LEED Platinum certified,Galle,Not Applicable,Green Building Solutions,ENERGY STAR Certified,9/23/2023,87.93,Yes,low-flow,local,30% reduction in energy use,true
+Green Office Building,1/7/2023,931911.93,LEED Platinum certified,Anuradhapura,LEED Platinum,Green Architects Inc.,Green Globes,2/2/2024,2.37,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,5/13/2023,726912.33,LEED Platinum certified,Matara,Not Applicable,EcoBuild Constructions,ISO 14001,10/20/2023,74.65,Limited,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,9/11/2023,383809.96,LEED Platinum certified,Matara,LEED Silve,Green Building Solutions,ISO 14001,7/20/2023,58.89,Limited,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,7/30/2023,488857.81,Green roof,Matara,Not Applicable,Green Building Solutions,Green Globes,3/7/2024,86.37,Limited,high-efficiency,sustainable,30% reduction in energy use,true
+Sustainable Library,1/9/2023,157802.41,Green roof,Kurunegala,LEED Silve,Eco-Friendly Designs,Green Globes,12/4/2023,12.77,Yes,low-flow,certified,25% reduction in energy use,true
+Eco Elementary School,9/17/2023,634534.11,LEED Platinum certified,Negombo,LEED Certified,Green Architects Inc.,LEED,7/22/2023,0.72,No,high-efficiency,recycled,30% reduction in energy use,false
+Eco Elementary School,6/20/2023,566022.29,Renewable energy sources,Jaffna,LEED Gold,Green Architects Inc.,LEED,6/3/2023,88.36,Limited,high-efficiency,certified,40% reduction in energy use,true
+Eco Elementary School,3/6/2023,852998.09,Green roof,Matara,LEED Certified,EcoBuild Constructions,Green Globes,9/17/2023,80.71,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,5/5/2023,138704.53,Green roof,Matara,LEED Silve,Eco-Friendly Designs,LEED,2/21/2024,79.72,No,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,2/20/2023,625836.2,LEED Platinum certified,Trincomalee,LEED Gold,EcoBuild Constructions,ISO 14001,10/13/2023,0.81,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,9/10/2023,631930.06,Renewable energy sources,Matara,LEED Platinum,Green Building Solutions,Green Globes,7/18/2023,65.79,Yes,low-flow,certified,25% reduction in energy use,true
+Sustainable Library,12/13/2022,743348.93,Rainwater harvesting,Colombo,LEED Platinum,EcoBuild Constructions,Green Globes,6/19/2023,33.01,Limited,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,9/29/2023,650275.53,Rainwater harvesting,Matara,LEED Gold,Sustainable Builders,LEED,10/11/2023,76.17,Limited,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,10/13/2023,937555.14,Rainwater harvesting,Kandy,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,7/30/2023,31.0,No,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,5/29/2023,734237.82,LEED Platinum certified,Colombo,LEED Gold,Eco-Friendly Designs,Green Globes,12/5/2023,14.04,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Sustainable Library,4/21/2023,459048.92,Energy-efficient design,Colombo,Not Applicable,Eco-Friendly Designs,ISO 14001,8/22/2023,79.89,No,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,9/25/2023,913859.05,Renewable energy sources,Kandy,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,9/8/2023,55.56,Yes,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,10/17/2023,723122.46,LEED Platinum certified,Galle,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,12/18/2023,4.06,No,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,12/19/2022,890603.48,LEED Platinum certified,Kandy,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,3/5/2024,75.84,Yes,high-efficiency,local,30% reduction in energy use,true
+Green Office Building,8/15/2023,415505.3,Rainwater harvesting,Kandy,LEED Certified,Green Building Solutions,Green Globes,11/18/2023,64.16,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Eco Elementary School,12/29/2022,414395.26,Green roof,Matara,LEED Platinum,EcoBuild Constructions,LEED,9/23/2023,53.16,Yes,low-flow,local,40% reduction in energy use,true
+Eco Elementary School,11/5/2022,716109.81,Green roof,Negombo,LEED Platinum,Green Architects Inc.,Green Globes,2/7/2024,14.35,No,high-efficiency,certified,30% reduction in energy use,false
+Eco Elementary School,11/24/2022,373152.38,Green roof,Trincomalee,LEED Platinum,Green Building Solutions,Green Globes,1/14/2024,31.6,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Green Office Building,4/4/2023,843086.06,Rainwater harvesting,Galle,LEED Certified,EcoBuild Constructions,LEED,12/1/2023,80.53,No,low-flow,recycled,30% reduction in energy use,false
+Sustainable Library,8/1/2023,515090.34,LEED Platinum certified,Trincomalee,LEED Gold,Eco-Friendly Designs,LEED,8/24/2023,59.21,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
+Eco Elementary School,7/31/2023,146989.96,Green roof,Trincomalee,LEED Silve,Eco-Friendly Designs,ISO 14001,2/10/2024,36.71,Yes,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,2/13/2023,905992.83,Renewable energy sources,Galle,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,12/26/2023,38.71,Yes,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,4/9/2023,901027.8,Energy-efficient design,Galle,Not Applicable,EcoBuild Constructions,ISO 14001,6/14/2023,24.93,Yes,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,3/4/2023,573888.54,Rainwater harvesting,Jaffna,LEED Gold,Sustainable Builders,LEED,8/3/2023,13.82,Yes,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,9/26/2023,223250.56,Green roof,Kandy,LEED Gold,Eco-Friendly Designs,ENERGY STAR Certified,10/31/2023,94.41,Limited,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,3/15/2023,453453.42,LEED Platinum certified,Galle,LEED Gold,Eco-Friendly Designs,Green Globes,11/4/2023,29.76,No,high-efficiency,reclaimed,25% reduction in energy use,false
+Eco Elementary School,11/9/2022,224393.72,Rainwater harvesting,Colombo,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,7/6/2023,25.88,Limited,low-flow,local,40% reduction in energy use,true
+Green Office Building,3/1/2023,276702.05,Green roof,Gampaha,LEED Gold,Green Architects Inc.,Green Globes,12/9/2023,0.37,No,low-flow,local,25% reduction in energy use,false
+Sustainable Library,7/11/2023,293460.3,Energy-efficient design,Galle,LEED Gold,Green Architects Inc.,LEED,9/18/2023,35.71,No,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,2/16/2023,276502.5,Energy-efficient design,Negombo,LEED Certified,Eco-Friendly Designs,LEED,9/20/2023,98.89,Yes,low-flow,recycled,30% reduction in energy use,true
+Green Office Building,8/17/2023,219295.0,Green roof,Kurunegala,LEED Platinum,Eco-Friendly Designs,LEED,12/27/2023,94.97,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Green Office Building,8/4/2023,322312.4,LEED Platinum certified,Anuradhapura,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,2/9/2024,94.36,No,low-flow,certified,40% reduction in energy use,true
+Green Office Building,5/7/2023,334694.6,Rainwater harvesting,Galle,LEED Gold,Green Architects Inc.,Green Globes,11/10/2023,67.8,No,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,10/10/2023,301296.35,Rainwater harvesting,Kandy,Not Applicable,Eco-Friendly Designs,Green Globes,11/26/2023,73.92,Limited,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,5/11/2023,275004.36,Rainwater harvesting,Kandy,LEED Gold,Sustainable Builders,LEED,1/20/2024,19.27,No,high-efficiency,sustainable,25% reduction in energy use,false
+Eco Elementary School,1/23/2023,359692.98,Green roof,Jaffna,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,6/27/2023,16.04,Limited,low-flow,sustainable,30% reduction in energy use,false
+Sustainable Library,6/12/2023,218793.68,Rainwater harvesting,Jaffna,Not Applicable,Sustainable Builders,LEED,1/1/2024,33.67,No,low-flow,local,25% reduction in energy use,false
+Green Office Building,10/18/2023,451175.1,Energy-efficient design,Colombo,Not Applicable,Green Building Solutions,Green Globes,12/30/2023,79.92,Limited,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,5/30/2023,143933.6,Energy-efficient design,Matara,LEED Gold,Green Architects Inc.,Green Globes,2/3/2024,44.75,Limited,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,5/11/2023,852732.2,Green roof,Trincomalee,LEED Platinum,Eco-Friendly Designs,Green Globes,6/18/2023,55.57,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,6/7/2023,642847.64,Energy-efficient design,Trincomalee,LEED Gold,EcoBuild Constructions,Green Globes,8/21/2023,53.33,No,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,4/15/2023,584798.97,LEED Platinum certified,Gampaha,Not Applicable,Green Building Solutions,Green Globes,7/23/2023,70.02,Limited,low-flow,local,25% reduction in energy use,true
+Green Office Building,5/17/2023,752343.11,LEED Platinum certified,Matara,LEED Platinum,Sustainable Builders,ISO 14001,9/5/2023,50.84,Limited,high-efficiency,sustainable,30% reduction in energy use,false
+Eco Elementary School,11/28/2022,393898.56,Green roof,Galle,Not Applicable,Green Building Solutions,LEED,12/30/2023,13.34,Yes,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,2/17/2023,798079.86,Energy-efficient design,Negombo,LEED Platinum,Green Architects Inc.,ISO 14001,11/17/2023,29.38,Yes,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,2/11/2023,810213.24,Energy-efficient design,Trincomalee,Not Applicable,Eco-Friendly Designs,ISO 14001,2/15/2024,58.7,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,5/5/2023,975269.81,Rainwater harvesting,Trincomalee,LEED Silve,Sustainable Builders,ENERGY STAR Certified,7/11/2023,35.57,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,11/12/2022,664505.74,Green roof,Anuradhapura,LEED Gold,Green Architects Inc.,ISO 14001,2/1/2024,0.43,Yes,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,6/27/2023,624533.87,Rainwater harvesting,Jaffna,Not Applicable,Sustainable Builders,ISO 14001,9/26/2023,43.19,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Sustainable Library,7/10/2023,699499.48,LEED Platinum certified,Negombo,LEED Silve,Green Building Solutions,ISO 14001,7/31/2023,80.4,Yes,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,4/2/2023,351282.12,LEED Platinum certified,Kandy,Not Applicable,Green Architects Inc.,Green Globes,2/19/2024,47.74,No,low-flow,reclaimed,30% reduction in energy use,true
+Green Office Building,12/8/2022,168288.11,Green roof,Gampaha,LEED Silve,Eco-Friendly Designs,ISO 14001,10/8/2023,72.21,Yes,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,1/18/2023,802356.66,Energy-efficient design,Negombo,LEED Certified,Sustainable Builders,ISO 14001,3/3/2024,4.27,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,11/15/2022,271170.32,LEED Platinum certified,Colombo,Not Applicable,Green Building Solutions,LEED,3/1/2024,66.87,Yes,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,3/19/2023,594476.61,Green roof,Matara,LEED Certified,Green Building Solutions,Green Globes,7/10/2023,40.7,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,10/28/2022,531485.25,Renewable energy sources,Galle,Not Applicable,Sustainable Builders,ISO 14001,11/16/2023,86.13,Limited,low-flow,local,40% reduction in energy use,true
+Sustainable Library,6/28/2023,443473.57,Energy-efficient design,Gampaha,LEED Gold,Sustainable Builders,ISO 14001,1/25/2024,21.3,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,10/3/2023,705423.84,Energy-efficient design,Kandy,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,1/29/2024,31.76,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,10/12/2023,500353.82,Renewable energy sources,Colombo,LEED Gold,Sustainable Builders,Green Globes,2/29/2024,30.62,Limited,low-flow,certified,30% reduction in energy use,false
+Green Office Building,5/24/2023,975576.92,Renewable energy sources,Trincomalee,LEED Gold,Sustainable Builders,LEED,10/5/2023,98.43,Yes,high-efficiency,recycled,30% reduction in energy use,false
+Eco Elementary School,8/26/2023,439540.22,Energy-efficient design,Jaffna,LEED Silve,Sustainable Builders,ENERGY STAR Certified,7/9/2023,86.99,No,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,6/6/2023,387790.19,Renewable energy sources,Kandy,Not Applicable,Green Building Solutions,Green Globes,7/18/2023,45.71,Limited,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,10/15/2023,253749.11,Green roof,Negombo,LEED Silve,Green Architects Inc.,Green Globes,8/26/2023,81.85,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Green Office Building,4/11/2023,265936.75,Rainwater harvesting,Anuradhapura,LEED Silve,EcoBuild Constructions,LEED,10/21/2023,16.69,Yes,low-flow,local,25% reduction in energy use,true
+Green Office Building,7/28/2023,770352.42,Green roof,Galle,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,5/24/2023,45.44,No,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,11/14/2022,122843.14,Green roof,Kurunegala,LEED Platinum,Green Architects Inc.,LEED,11/14/2023,11.59,No,low-flow,sustainable,30% reduction in energy use,false
+Sustainable Library,11/18/2022,109154.46,Energy-efficient design,Trincomalee,LEED Platinum,EcoBuild Constructions,Green Globes,1/6/2024,33.89,Yes,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,11/23/2022,961371.65,Renewable energy sources,Jaffna,LEED Silve,Sustainable Builders,ENERGY STAR Certified,8/4/2023,89.72,Limited,low-flow,certified,40% reduction in energy use,false
+Green Office Building,5/5/2023,977365.33,LEED Platinum certified,Anuradhapura,LEED Certified,Sustainable Builders,ISO 14001,11/3/2023,29.61,No,low-flow,certified,30% reduction in energy use,true
+Green Office Building,4/19/2023,618940.33,Green roof,Anuradhapura,LEED Certified,Sustainable Builders,LEED,9/14/2023,56.36,No,low-flow,local,40% reduction in energy use,false
+Sustainable Library,9/25/2023,128134.07,Energy-efficient design,Anuradhapura,Not Applicable,Sustainable Builders,LEED,10/11/2023,54.42,Yes,high-efficiency,certified,25% reduction in energy use,false
+Eco Elementary School,4/14/2023,773216.63,Renewable energy sources,Anuradhapura,LEED Gold,Eco-Friendly Designs,ISO 14001,1/4/2024,10.79,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,3/10/2023,366380.2,Green roof,Anuradhapura,LEED Gold,EcoBuild Constructions,Green Globes,10/27/2023,98.59,Yes,low-flow,sustainable,30% reduction in energy use,false
+Eco Elementary School,10/11/2023,923915.4,Rainwater harvesting,Jaffna,LEED Certified,EcoBuild Constructions,Green Globes,12/23/2023,9.72,No,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,12/12/2022,470508.32,Rainwater harvesting,Anuradhapura,LEED Gold,Green Building Solutions,LEED,11/8/2023,86.0,Yes,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,4/7/2023,512019.36,Green roof,Galle,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,12/26/2023,39.81,Limited,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,9/6/2023,983823.83,Green roof,Gampaha,LEED Gold,Green Architects Inc.,LEED,6/23/2023,91.7,Yes,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,12/9/2022,276138.76,Green roof,Gampaha,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,1/16/2024,39.8,Yes,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,1/24/2023,277741.08,Renewable energy sources,Kurunegala,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,6/17/2023,25.95,No,high-efficiency,recycled,30% reduction in energy use,true
+Green Office Building,12/21/2022,915981.84,LEED Platinum certified,Matara,LEED Gold,Green Building Solutions,ISO 14001,10/7/2023,3.18,Limited,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,7/12/2023,409567.94,Green roof,Galle,LEED Certified,Green Architects Inc.,Green Globes,7/10/2023,99.8,No,high-efficiency,recycled,40% reduction in energy use,true
+Sustainable Library,3/18/2023,911746.44,Green roof,Anuradhapura,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,7/1/2023,50.66,Yes,high-efficiency,reclaimed,30% reduction in energy use,false
+Eco Elementary School,8/22/2023,173659.11,Energy-efficient design,Galle,LEED Gold,Green Architects Inc.,ISO 14001,3/2/2024,87.38,Yes,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,9/3/2023,676290.48,Energy-efficient design,Jaffna,LEED Silve,Green Building Solutions,ENERGY STAR Certified,5/25/2023,23.98,No,high-efficiency,sustainable,30% reduction in energy use,true
+Eco Elementary School,10/14/2023,537141.19,Rainwater harvesting,Kurunegala,LEED Platinum,EcoBuild Constructions,Green Globes,6/29/2023,73.38,Limited,high-efficiency,reclaimed,25% reduction in energy use,true
+Eco Elementary School,9/24/2023,789946.21,Energy-efficient design,Matara,LEED Silve,Sustainable Builders,ENERGY STAR Certified,10/22/2023,98.15,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Sustainable Library,9/19/2023,615430.89,Rainwater harvesting,Jaffna,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,6/22/2023,29.68,No,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,2/14/2023,358936.96,Green roof,Galle,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,2/25/2024,47.35,Yes,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,8/14/2023,327106.92,Renewable energy sources,Anuradhapura,LEED Certified,Green Building Solutions,Green Globes,8/19/2023,67.43,No,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,2/19/2023,226776.26,Renewable energy sources,Gampaha,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,1/2/2024,77.13,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,9/23/2023,318181.28,Energy-efficient design,Gampaha,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,2/12/2024,4.35,No,high-efficiency,reclaimed,40% reduction in energy use,true
+Eco Elementary School,7/21/2023,163624.56,LEED Platinum certified,Jaffna,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,11/23/2023,22.56,No,low-flow,sustainable,30% reduction in energy use,false
+Eco Elementary School,9/26/2023,954841.48,LEED Platinum certified,Trincomalee,LEED Certified,EcoBuild Constructions,Green Globes,8/16/2023,74.5,Limited,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,4/4/2023,526540.47,Green roof,Matara,LEED Silve,Sustainable Builders,ISO 14001,6/24/2023,15.16,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Sustainable Library,1/1/2023,871208.52,Rainwater harvesting,Kurunegala,LEED Certified,Green Building Solutions,Green Globes,11/1/2023,28.42,Limited,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,1/1/2023,623633.01,Renewable energy sources,Kandy,LEED Certified,Green Building Solutions,LEED,7/10/2023,40.55,Limited,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,11/8/2022,400338.63,Green roof,Trincomalee,LEED Silve,Sustainable Builders,Green Globes,8/28/2023,58.76,Limited,low-flow,local,30% reduction in energy use,false
+Eco Elementary School,3/13/2023,522849.07,Green roof,Trincomalee,LEED Certified,Sustainable Builders,ENERGY STAR Certified,12/6/2023,94.6,Yes,high-efficiency,certified,25% reduction in energy use,true
+Green Office Building,9/22/2023,715956.05,Rainwater harvesting,Gampaha,LEED Gold,Green Building Solutions,LEED,6/30/2023,0.39,Limited,low-flow,recycled,25% reduction in energy use,true
+Eco Elementary School,9/1/2023,387732.54,Energy-efficient design,Kurunegala,Not Applicable,EcoBuild Constructions,ISO 14001,9/26/2023,1.18,Limited,low-flow,recycled,30% reduction in energy use,false
+Eco Elementary School,5/7/2023,226402.58,Green roof,Gampaha,LEED Silve,Green Building Solutions,ISO 14001,10/14/2023,38.08,Yes,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,8/29/2023,968660.66,Energy-efficient design,Gampaha,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,1/23/2024,86.59,Limited,low-flow,recycled,30% reduction in energy use,true
+Green Office Building,12/30/2022,375983.61,Renewable energy sources,Negombo,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,10/25/2023,85.76,Yes,low-flow,recycled,30% reduction in energy use,false
+Sustainable Library,5/14/2023,790199.71,LEED Platinum certified,Negombo,LEED Gold,EcoBuild Constructions,LEED,2/17/2024,95.78,No,low-flow,recycled,25% reduction in energy use,true
+Eco Elementary School,12/13/2022,313484.65,Renewable energy sources,Anuradhapura,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,10/20/2023,48.32,No,high-efficiency,reclaimed,30% reduction in energy use,true
+Sustainable Library,7/12/2023,446396.91,Renewable energy sources,Kandy,Not Applicable,EcoBuild Constructions,ISO 14001,12/11/2023,91.19,Yes,low-flow,reclaimed,30% reduction in energy use,true
+Green Office Building,12/10/2022,259804.96,Energy-efficient design,Colombo,LEED Platinum,Eco-Friendly Designs,LEED,11/11/2023,36.46,No,high-efficiency,local,25% reduction in energy use,false
+Eco Elementary School,2/13/2023,723074.62,Renewable energy sources,Colombo,Not Applicable,EcoBuild Constructions,LEED,1/22/2024,82.97,No,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,7/6/2023,697668.34,Renewable energy sources,Galle,LEED Gold,Green Building Solutions,LEED,10/12/2023,71.85,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,8/29/2023,128452.84,Energy-efficient design,Negombo,LEED Gold,Green Architects Inc.,ISO 14001,12/10/2023,66.86,Yes,low-flow,sustainable,30% reduction in energy use,false
+Sustainable Library,2/3/2023,593062.26,Renewable energy sources,Jaffna,LEED Certified,Eco-Friendly Designs,ISO 14001,12/9/2023,50.42,Yes,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,2/11/2023,778424.17,Energy-efficient design,Kurunegala,LEED Silve,Sustainable Builders,LEED,1/15/2024,5.85,Limited,low-flow,local,40% reduction in energy use,true
+Green Office Building,1/24/2023,857937.18,LEED Platinum certified,Anuradhapura,LEED Gold,Green Building Solutions,LEED,3/9/2024,89.04,Limited,low-flow,local,40% reduction in energy use,true
+Sustainable Library,8/19/2023,385453.18,Energy-efficient design,Negombo,LEED Silve,Sustainable Builders,ISO 14001,10/6/2023,64.82,No,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,6/10/2023,165644.52,Renewable energy sources,Galle,LEED Gold,Eco-Friendly Designs,Green Globes,9/11/2023,3.61,Limited,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,10/29/2022,370685.49,Renewable energy sources,Colombo,LEED Certified,Sustainable Builders,LEED,7/27/2023,56.4,Limited,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,1/19/2023,972397.52,LEED Platinum certified,Gampaha,Not Applicable,Eco-Friendly Designs,LEED,2/20/2024,81.26,Yes,low-flow,recycled,30% reduction in energy use,false
+Green Office Building,11/12/2022,613808.8,Energy-efficient design,Trincomalee,LEED Gold,Eco-Friendly Designs,LEED,10/22/2023,5.14,Yes,low-flow,sustainable,25% reduction in energy use,false
+Eco Elementary School,2/18/2023,599971.39,Rainwater harvesting,Colombo,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,10/3/2023,53.08,Yes,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,5/5/2023,183480.08,Rainwater harvesting,Kurunegala,LEED Certified,EcoBuild Constructions,ISO 14001,12/1/2023,34.74,Limited,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,2/28/2023,123815.53,Green roof,Kandy,LEED Gold,Green Building Solutions,Green Globes,5/20/2023,72.02,Yes,low-flow,local,30% reduction in energy use,true
+Green Office Building,9/19/2023,866513.68,LEED Platinum certified,Colombo,LEED Gold,Green Building Solutions,LEED,8/7/2023,31.05,Yes,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,11/19/2022,591264.21,Rainwater harvesting,Kurunegala,LEED Platinum,EcoBuild Constructions,LEED,11/1/2023,15.68,No,low-flow,certified,40% reduction in energy use,false
+Eco Elementary School,1/21/2023,624933.34,LEED Platinum certified,Galle,Not Applicable,Green Building Solutions,LEED,2/2/2024,33.13,Yes,low-flow,certified,40% reduction in energy use,true
+Green Office Building,6/26/2023,539965.34,LEED Platinum certified,Trincomalee,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,12/17/2023,10.84,No,high-efficiency,local,25% reduction in energy use,true
+Eco Elementary School,7/10/2023,516093.72,Rainwater harvesting,Jaffna,Not Applicable,Green Architects Inc.,Green Globes,11/19/2023,99.34,Yes,low-flow,certified,40% reduction in energy use,true
+Sustainable Library,9/22/2023,445866.98,LEED Platinum certified,Gampaha,LEED Silve,EcoBuild Constructions,ISO 14001,5/21/2023,11.45,Yes,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,5/15/2023,209502.86,Energy-efficient design,Trincomalee,LEED Certified,Green Building Solutions,ISO 14001,10/28/2023,58.72,Limited,low-flow,local,25% reduction in energy use,false
+Green Office Building,1/5/2023,837648.59,Renewable energy sources,Anuradhapura,LEED Silve,Green Architects Inc.,ISO 14001,2/14/2024,68.33,No,low-flow,recycled,25% reduction in energy use,true
+Eco Elementary School,1/29/2023,265372.29,LEED Platinum certified,Jaffna,LEED Gold,Green Building Solutions,ENERGY STAR Certified,8/19/2023,62.8,Limited,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,1/9/2023,243873.16,Renewable energy sources,Trincomalee,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,1/12/2024,35.69,Limited,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,12/2/2022,746256.78,Renewable energy sources,Kurunegala,LEED Platinum,EcoBuild Constructions,LEED,9/23/2023,90.7,Yes,low-flow,local,40% reduction in energy use,false
+Eco Elementary School,4/19/2023,963431.6,Energy-efficient design,Kurunegala,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,11/10/2023,41.53,Limited,high-efficiency,sustainable,30% reduction in energy use,false
+Eco Elementary School,7/31/2023,210438.49,Renewable energy sources,Anuradhapura,Not Applicable,Eco-Friendly Designs,Green Globes,6/18/2023,60.24,No,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,8/26/2023,460487.14,Rainwater harvesting,Trincomalee,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,9/14/2023,53.58,Limited,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,7/30/2023,714761.64,Energy-efficient design,Jaffna,LEED Platinum,EcoBuild Constructions,ISO 14001,12/26/2023,37.49,Limited,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,5/18/2023,665519.93,Renewable energy sources,Trincomalee,LEED Certified,Eco-Friendly Designs,LEED,10/31/2023,45.3,Limited,high-efficiency,recycled,40% reduction in energy use,true
+Sustainable Library,12/15/2022,488041.18,Green roof,Kandy,LEED Gold,Sustainable Builders,Green Globes,8/28/2023,39.73,No,high-efficiency,sustainable,30% reduction in energy use,true
+Sustainable Library,4/8/2023,975657.65,Green roof,Kandy,LEED Silve,Green Building Solutions,LEED,6/5/2023,32.48,Yes,low-flow,sustainable,30% reduction in energy use,true
+Eco Elementary School,4/19/2023,162448.15,Rainwater harvesting,Jaffna,LEED Silve,EcoBuild Constructions,Green Globes,11/1/2023,51.37,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,1/11/2023,495446.06,Green roof,Negombo,LEED Silve,Green Architects Inc.,ISO 14001,2/4/2024,86.61,No,low-flow,certified,30% reduction in energy use,false
+Green Office Building,7/10/2023,624468.06,Green roof,Colombo,Not Applicable,Sustainable Builders,ISO 14001,6/30/2023,89.07,Yes,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,8/21/2023,610970.32,LEED Platinum certified,Colombo,LEED Gold,Green Architects Inc.,ENERGY STAR Certified,9/23/2023,37.48,Limited,low-flow,recycled,25% reduction in energy use,false
+Eco Elementary School,1/4/2023,709936.1,Green roof,Trincomalee,LEED Silve,Green Building Solutions,Green Globes,1/4/2024,95.37,Yes,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,6/15/2023,900055.22,LEED Platinum certified,Anuradhapura,Not Applicable,Eco-Friendly Designs,ISO 14001,6/4/2023,34.0,No,low-flow,recycled,30% reduction in energy use,true
+Eco Elementary School,9/10/2023,785620.81,Renewable energy sources,Kurunegala,LEED Silve,Green Building Solutions,ISO 14001,6/20/2023,73.74,No,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,5/20/2023,588470.55,LEED Platinum certified,Kandy,LEED Certified,Sustainable Builders,ENERGY STAR Certified,8/23/2023,65.36,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,9/27/2023,351204.07,LEED Platinum certified,Anuradhapura,Not Applicable,Sustainable Builders,ENERGY STAR Certified,7/2/2023,3.92,Limited,high-efficiency,certified,40% reduction in energy use,true
+Eco Elementary School,3/4/2023,148704.08,Rainwater harvesting,Negombo,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,7/3/2023,86.8,Limited,low-flow,certified,40% reduction in energy use,false
+Sustainable Library,7/10/2023,908812.74,LEED Platinum certified,Anuradhapura,LEED Certified,Eco-Friendly Designs,ISO 14001,6/20/2023,87.36,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Green Office Building,10/16/2023,977839.85,Energy-efficient design,Kurunegala,LEED Silve,Sustainable Builders,ENERGY STAR Certified,12/1/2023,13.93,Limited,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,10/31/2022,392718.05,LEED Platinum certified,Galle,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,10/22/2023,36.36,Yes,low-flow,local,25% reduction in energy use,false
+Sustainable Library,9/23/2023,982974.85,LEED Platinum certified,Jaffna,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,9/6/2023,96.69,Limited,high-efficiency,sustainable,25% reduction in energy use,true
+Sustainable Library,7/13/2023,316509.27,Green roof,Jaffna,Not Applicable,Eco-Friendly Designs,LEED,1/11/2024,4.41,Yes,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,3/12/2023,660166.75,Energy-efficient design,Negombo,LEED Gold,Eco-Friendly Designs,LEED,2/4/2024,57.72,Yes,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,8/25/2023,342872.34,LEED Platinum certified,Jaffna,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,3/6/2024,86.57,No,low-flow,local,40% reduction in energy use,true
+Eco Elementary School,5/6/2023,987915.2,Energy-efficient design,Galle,Not Applicable,Eco-Friendly Designs,ISO 14001,1/4/2024,71.94,Limited,low-flow,certified,30% reduction in energy use,false
+Eco Elementary School,5/18/2023,196286.54,Energy-efficient design,Negombo,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,12/2/2023,60.05,No,high-efficiency,local,40% reduction in energy use,false
+Eco Elementary School,5/3/2023,217270.86,Green roof,Colombo,LEED Silve,Eco-Friendly Designs,LEED,7/24/2023,79.44,Limited,low-flow,certified,25% reduction in energy use,true
+Eco Elementary School,2/22/2023,412159.49,Rainwater harvesting,Galle,Not Applicable,Green Architects Inc.,Green Globes,10/24/2023,59.1,Yes,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,5/19/2023,572688.51,Renewable energy sources,Colombo,LEED Silve,Eco-Friendly Designs,ENERGY STAR Certified,7/13/2023,29.76,Limited,high-efficiency,certified,30% reduction in energy use,false
+Eco Elementary School,5/21/2023,426523.59,LEED Platinum certified,Negombo,LEED Silve,EcoBuild Constructions,LEED,1/24/2024,37.27,Limited,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,3/26/2023,978636.29,Rainwater harvesting,Galle,Not Applicable,Green Architects Inc.,Green Globes,7/4/2023,50.07,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,7/15/2023,966242.49,Rainwater harvesting,Colombo,LEED Platinum,Sustainable Builders,LEED,8/27/2023,70.33,Limited,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,5/25/2023,143813.9,Energy-efficient design,Jaffna,Not Applicable,EcoBuild Constructions,ISO 14001,8/14/2023,64.77,Yes,low-flow,local,40% reduction in energy use,true
+Eco Elementary School,6/6/2023,463388.26,Renewable energy sources,Anuradhapura,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,6/27/2023,98.33,No,high-efficiency,recycled,30% reduction in energy use,true
+Sustainable Library,10/18/2023,754342.45,LEED Platinum certified,Anuradhapura,LEED Certified,EcoBuild Constructions,ISO 14001,2/5/2024,56.8,Limited,low-flow,recycled,25% reduction in energy use,true
+Sustainable Library,12/24/2022,628556.0,Rainwater harvesting,Galle,LEED Silve,Eco-Friendly Designs,LEED,1/29/2024,90.97,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Green Office Building,12/19/2022,399604.58,LEED Platinum certified,Jaffna,Not Applicable,Eco-Friendly Designs,ISO 14001,1/30/2024,44.9,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Green Office Building,5/8/2023,817402.82,Energy-efficient design,Gampaha,LEED Certified,Green Building Solutions,LEED,2/3/2024,26.95,No,low-flow,reclaimed,30% reduction in energy use,true
+Green Office Building,8/26/2023,488608.89,Renewable energy sources,Anuradhapura,LEED Certified,Green Architects Inc.,ISO 14001,2/23/2024,4.63,No,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,6/24/2023,783395.93,Renewable energy sources,Galle,LEED Gold,EcoBuild Constructions,Green Globes,7/3/2023,56.75,Limited,low-flow,sustainable,25% reduction in energy use,false
+Green Office Building,11/24/2022,190082.98,Rainwater harvesting,Gampaha,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,11/22/2023,4.95,Yes,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,3/25/2023,813575.24,Renewable energy sources,Negombo,LEED Gold,Sustainable Builders,LEED,8/5/2023,15.03,No,low-flow,recycled,40% reduction in energy use,false
+Sustainable Library,7/25/2023,195037.52,Rainwater harvesting,Trincomalee,LEED Silve,Green Building Solutions,LEED,9/6/2023,40.04,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,11/15/2022,725024.58,Green roof,Kurunegala,Not Applicable,Eco-Friendly Designs,Green Globes,7/1/2023,27.11,No,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,12/13/2022,145769.89,LEED Platinum certified,Jaffna,LEED Certified,Green Building Solutions,LEED,2/15/2024,8.49,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Eco Elementary School,10/11/2023,129667.03,Energy-efficient design,Negombo,LEED Certified,Green Building Solutions,Green Globes,5/30/2023,61.92,Yes,high-efficiency,reclaimed,30% reduction in energy use,false
+Eco Elementary School,11/21/2022,701997.61,Rainwater harvesting,Colombo,LEED Certified,Green Building Solutions,LEED,12/25/2023,27.77,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,11/28/2022,955362.72,Green roof,Colombo,LEED Silve,Eco-Friendly Designs,Green Globes,2/18/2024,38.08,Limited,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,4/10/2023,909548.77,LEED Platinum certified,Galle,LEED Silve,Green Building Solutions,Green Globes,7/31/2023,0.43,Limited,low-flow,recycled,30% reduction in energy use,true
+Sustainable Library,8/7/2023,300886.62,Energy-efficient design,Jaffna,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,5/20/2023,39.5,Limited,low-flow,certified,40% reduction in energy use,false
+Green Office Building,4/16/2023,390003.02,LEED Platinum certified,Negombo,LEED Gold,Green Architects Inc.,LEED,5/27/2023,56.64,Yes,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,8/16/2023,195729.83,Energy-efficient design,Trincomalee,LEED Certified,EcoBuild Constructions,LEED,1/10/2024,99.73,Yes,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,3/10/2023,736822.81,Energy-efficient design,Trincomalee,LEED Certified,Sustainable Builders,Green Globes,9/6/2023,25.36,Yes,high-efficiency,reclaimed,40% reduction in energy use,false
+Eco Elementary School,4/23/2023,971885.2,Rainwater harvesting,Anuradhapura,LEED Platinum,EcoBuild Constructions,LEED,5/27/2023,38.92,No,high-efficiency,certified,30% reduction in energy use,true
+Green Office Building,11/11/2022,593919.87,Renewable energy sources,Jaffna,Not Applicable,EcoBuild Constructions,ISO 14001,8/6/2023,98.83,No,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,5/22/2023,191830.89,LEED Platinum certified,Negombo,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,6/4/2023,94.05,No,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,2/7/2023,381391.6,Rainwater harvesting,Galle,LEED Gold,Green Building Solutions,LEED,2/1/2024,46.15,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,9/2/2023,643178.86,Renewable energy sources,Matara,LEED Certified,Green Architects Inc.,Green Globes,10/15/2023,12.22,No,low-flow,recycled,40% reduction in energy use,true
+Eco Elementary School,12/7/2022,340308.61,Green roof,Trincomalee,Not Applicable,Green Building Solutions,Green Globes,10/5/2023,70.75,Limited,low-flow,local,40% reduction in energy use,false
+Green Office Building,5/14/2023,922997.54,Energy-efficient design,Colombo,LEED Silve,Sustainable Builders,ENERGY STAR Certified,3/7/2024,41.59,Yes,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,8/20/2023,633645.73,Green roof,Kandy,LEED Silve,Sustainable Builders,LEED,9/27/2023,47.83,No,low-flow,certified,25% reduction in energy use,false
+Eco Elementary School,10/19/2023,413399.47,Energy-efficient design,Matara,LEED Silve,Green Architects Inc.,ISO 14001,8/19/2023,91.72,Limited,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,5/26/2023,553917.3,Rainwater harvesting,Jaffna,LEED Certified,EcoBuild Constructions,Green Globes,8/6/2023,14.49,Yes,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,1/14/2023,259031.25,Rainwater harvesting,Jaffna,LEED Gold,Green Building Solutions,Green Globes,11/20/2023,9.09,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,12/20/2022,955965.71,LEED Platinum certified,Jaffna,LEED Gold,EcoBuild Constructions,Green Globes,9/24/2023,36.95,Yes,low-flow,sustainable,30% reduction in energy use,false
+Eco Elementary School,9/5/2023,770945.2,Renewable energy sources,Gampaha,LEED Certified,Eco-Friendly Designs,Green Globes,10/20/2023,9.03,Yes,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,4/21/2023,702143.32,Green roof,Galle,LEED Platinum,EcoBuild Constructions,ISO 14001,9/23/2023,2.99,Yes,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,5/5/2023,869892.25,Energy-efficient design,Trincomalee,LEED Gold,Sustainable Builders,ENERGY STAR Certified,2/2/2024,93.9,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
+Eco Elementary School,2/18/2023,509648.25,Green roof,Trincomalee,LEED Certified,Sustainable Builders,Green Globes,8/11/2023,99.47,No,high-efficiency,certified,30% reduction in energy use,false
+Eco Elementary School,4/7/2023,360747.07,Green roof,Jaffna,LEED Platinum,Sustainable Builders,ISO 14001,11/1/2023,52.32,Limited,high-efficiency,recycled,30% reduction in energy use,false
+Green Office Building,10/8/2023,570112.04,LEED Platinum certified,Trincomalee,Not Applicable,Green Building Solutions,Green Globes,1/29/2024,23.56,No,low-flow,certified,30% reduction in energy use,false
+Green Office Building,7/24/2023,482813.35,Rainwater harvesting,Kurunegala,LEED Gold,EcoBuild Constructions,LEED,1/19/2024,34.33,Limited,high-efficiency,reclaimed,25% reduction in energy use,false
+Eco Elementary School,2/28/2023,530643.87,Rainwater harvesting,Kandy,LEED Certified,Sustainable Builders,Green Globes,12/20/2023,57.75,Limited,low-flow,sustainable,40% reduction in energy use,true
+Sustainable Library,11/16/2022,573277.24,Energy-efficient design,Colombo,Not Applicable,EcoBuild Constructions,Green Globes,8/16/2023,68.65,Limited,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,1/31/2023,773219.07,Energy-efficient design,Kandy,LEED Gold,Sustainable Builders,ISO 14001,5/24/2023,97.39,No,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,7/10/2023,174933.74,LEED Platinum certified,Anuradhapura,LEED Certified,EcoBuild Constructions,Green Globes,7/20/2023,3.01,No,low-flow,certified,40% reduction in energy use,true
+Sustainable Library,11/9/2022,865804.18,Energy-efficient design,Kurunegala,Not Applicable,Sustainable Builders,ENERGY STAR Certified,2/24/2024,69.91,Limited,low-flow,recycled,25% reduction in energy use,true
+Green Office Building,9/23/2023,384904.7,Renewable energy sources,Matara,LEED Silve,Green Building Solutions,ENERGY STAR Certified,12/20/2023,26.03,Limited,high-efficiency,local,30% reduction in energy use,false
+Sustainable Library,10/29/2022,261502.62,Energy-efficient design,Matara,LEED Gold,EcoBuild Constructions,LEED,9/12/2023,93.28,Yes,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,11/12/2022,285507.53,Energy-efficient design,Galle,LEED Gold,Eco-Friendly Designs,LEED,9/17/2023,26.68,No,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,1/28/2023,159325.28,Energy-efficient design,Kurunegala,LEED Gold,Sustainable Builders,LEED,1/3/2024,42.31,No,low-flow,sustainable,25% reduction in energy use,false
+Sustainable Library,7/18/2023,934502.38,Rainwater harvesting,Gampaha,Not Applicable,Eco-Friendly Designs,ENERGY STAR Certified,11/8/2023,98.1,No,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,11/1/2022,525777.14,Green roof,Kurunegala,LEED Silve,EcoBuild Constructions,ISO 14001,8/18/2023,67.48,Limited,low-flow,local,40% reduction in energy use,true
+Green Office Building,10/25/2023,648987.34,LEED Platinum certified,Jaffna,LEED Gold,Eco-Friendly Designs,Green Globes,5/31/2023,28.79,No,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,11/24/2022,624461.11,Rainwater harvesting,Matara,LEED Certified,Eco-Friendly Designs,Green Globes,11/23/2023,58.46,Yes,high-efficiency,local,40% reduction in energy use,true
+Green Office Building,12/9/2022,717202.46,Renewable energy sources,Matara,LEED Certified,EcoBuild Constructions,ENERGY STAR Certified,1/29/2024,42.96,Limited,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,1/26/2023,911099.94,Green roof,Matara,LEED Gold,EcoBuild Constructions,Green Globes,7/28/2023,90.77,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,2/11/2023,258670.06,LEED Platinum certified,Kandy,LEED Certified,Green Building Solutions,LEED,8/22/2023,17.0,Limited,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,3/21/2023,495641.39,LEED Platinum certified,Jaffna,LEED Silve,Green Building Solutions,Green Globes,10/24/2023,89.59,No,low-flow,sustainable,40% reduction in energy use,false
+Eco Elementary School,3/12/2023,614826.63,Rainwater harvesting,Anuradhapura,LEED Platinum,EcoBuild Constructions,Green Globes,9/25/2023,79.53,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,7/25/2023,921211.6,LEED Platinum certified,Colombo,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,10/7/2023,46.58,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Sustainable Library,6/5/2023,617000.68,Renewable energy sources,Jaffna,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,7/30/2023,57.65,No,high-efficiency,recycled,25% reduction in energy use,false
+Green Office Building,3/16/2023,290532.24,LEED Platinum certified,Anuradhapura,Not Applicable,Sustainable Builders,Green Globes,9/20/2023,50.64,No,low-flow,local,30% reduction in energy use,false
+Sustainable Library,3/16/2023,794572.81,Rainwater harvesting,Anuradhapura,LEED Silve,Green Building Solutions,ENERGY STAR Certified,9/21/2023,22.06,Yes,high-efficiency,recycled,40% reduction in energy use,false
+Sustainable Library,11/4/2022,353081.89,Green roof,Anuradhapura,Not Applicable,Green Architects Inc.,ISO 14001,9/10/2023,15.59,Limited,low-flow,local,25% reduction in energy use,false
+Sustainable Library,9/25/2023,312019.57,Renewable energy sources,Kandy,LEED Gold,Green Building Solutions,ENERGY STAR Certified,10/16/2023,82.68,Limited,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,3/27/2023,997435.48,Renewable energy sources,Matara,LEED Platinum,EcoBuild Constructions,LEED,1/15/2024,34.6,Limited,high-efficiency,local,30% reduction in energy use,false
+Green Office Building,1/22/2023,383733.28,LEED Platinum certified,Jaffna,LEED Gold,Green Building Solutions,ENERGY STAR Certified,11/9/2023,67.07,No,high-efficiency,certified,40% reduction in energy use,false
+Green Office Building,12/22/2022,110121.72,LEED Platinum certified,Kandy,Not Applicable,Green Architects Inc.,LEED,10/25/2023,41.32,No,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,5/31/2023,639197.64,Rainwater harvesting,Galle,LEED Gold,Eco-Friendly Designs,ENERGY STAR Certified,6/24/2023,46.07,Limited,low-flow,local,25% reduction in energy use,false
+Eco Elementary School,9/24/2023,344695.93,Energy-efficient design,Anuradhapura,LEED Certified,EcoBuild Constructions,ISO 14001,11/14/2023,84.82,Limited,low-flow,local,25% reduction in energy use,true
+Green Office Building,4/23/2023,375728.23,Green roof,Negombo,LEED Certified,Green Architects Inc.,LEED,1/22/2024,79.03,Yes,low-flow,certified,25% reduction in energy use,true
+Sustainable Library,9/30/2023,518972.51,Energy-efficient design,Kandy,Not Applicable,Sustainable Builders,Green Globes,9/2/2023,49.36,Yes,high-efficiency,certified,40% reduction in energy use,false
+Eco Elementary School,2/6/2023,730608.39,LEED Platinum certified,Colombo,LEED Silve,Sustainable Builders,ENERGY STAR Certified,2/14/2024,39.88,Limited,low-flow,local,25% reduction in energy use,true
+Eco Elementary School,4/26/2023,589517.45,LEED Platinum certified,Anuradhapura,LEED Silve,Green Architects Inc.,LEED,1/11/2024,19.46,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,11/14/2022,803088.49,LEED Platinum certified,Negombo,LEED Platinum,Eco-Friendly Designs,Green Globes,6/16/2023,63.21,Yes,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,12/22/2022,652519.97,Energy-efficient design,Trincomalee,LEED Silve,Green Building Solutions,LEED,6/23/2023,5.96,Yes,low-flow,sustainable,25% reduction in energy use,true
+Eco Elementary School,9/16/2023,660450.0,Energy-efficient design,Jaffna,LEED Platinum,Sustainable Builders,LEED,5/15/2023,46.19,No,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,9/29/2023,389213.87,Energy-efficient design,Galle,LEED Platinum,Green Architects Inc.,LEED,5/28/2023,74.37,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Eco Elementary School,6/12/2023,113896.28,Rainwater harvesting,Matara,LEED Gold,Green Architects Inc.,Green Globes,9/17/2023,20.6,No,low-flow,reclaimed,30% reduction in energy use,true
+Eco Elementary School,8/18/2023,711871.95,LEED Platinum certified,Kandy,LEED Gold,EcoBuild Constructions,ISO 14001,12/6/2023,79.23,Yes,low-flow,recycled,40% reduction in energy use,false
+Sustainable Library,11/2/2022,189739.08,Energy-efficient design,Trincomalee,LEED Gold,Eco-Friendly Designs,LEED,6/12/2023,25.23,Limited,low-flow,sustainable,40% reduction in energy use,false
+Eco Elementary School,10/3/2023,453252.88,Energy-efficient design,Trincomalee,LEED Platinum,Sustainable Builders,ENERGY STAR Certified,3/3/2024,74.74,Yes,high-efficiency,reclaimed,40% reduction in energy use,false
+Sustainable Library,3/27/2023,557408.57,Renewable energy sources,Anuradhapura,LEED Platinum,Eco-Friendly Designs,ENERGY STAR Certified,6/22/2023,40.06,No,low-flow,sustainable,30% reduction in energy use,false
+Sustainable Library,6/6/2023,502857.67,LEED Platinum certified,Matara,LEED Silve,Green Architects Inc.,Green Globes,10/13/2023,49.82,No,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,12/21/2022,805068.2,Renewable energy sources,Matara,LEED Platinum,EcoBuild Constructions,ISO 14001,10/18/2023,3.14,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,6/8/2023,108917.54,LEED Platinum certified,Colombo,LEED Platinum,EcoBuild Constructions,Green Globes,7/7/2023,65.79,Yes,low-flow,local,25% reduction in energy use,true
+Green Office Building,5/22/2023,201703.6,Renewable energy sources,Galle,LEED Platinum,Sustainable Builders,LEED,8/22/2023,93.24,Limited,low-flow,local,30% reduction in energy use,false
+Green Office Building,9/13/2023,256614.18,Energy-efficient design,Galle,LEED Certified,Eco-Friendly Designs,ENERGY STAR Certified,7/31/2023,95.57,Limited,low-flow,sustainable,30% reduction in energy use,true
+Green Office Building,2/5/2023,706014.44,Green roof,Galle,LEED Gold,EcoBuild Constructions,Green Globes,12/12/2023,6.4,No,low-flow,sustainable,40% reduction in energy use,true
+Green Office Building,7/9/2023,375508.82,Green roof,Kandy,LEED Certified,Green Building Solutions,ENERGY STAR Certified,12/28/2023,73.26,Yes,high-efficiency,recycled,40% reduction in energy use,true
+Eco Elementary School,3/14/2023,434582.98,Green roof,Kandy,LEED Silve,Green Building Solutions,Green Globes,3/7/2024,33.87,No,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,2/2/2023,137566.66,Rainwater harvesting,Kurunegala,LEED Platinum,Sustainable Builders,LEED,9/16/2023,93.9,No,low-flow,certified,30% reduction in energy use,true
+Sustainable Library,12/28/2022,249121.8,Rainwater harvesting,Negombo,LEED Certified,EcoBuild Constructions,ISO 14001,2/5/2024,60.52,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,7/19/2023,202969.4,Rainwater harvesting,Kandy,LEED Silve,Eco-Friendly Designs,Green Globes,11/14/2023,51.68,Yes,high-efficiency,local,30% reduction in energy use,false
+Sustainable Library,11/23/2022,488860.93,Energy-efficient design,Trincomalee,LEED Silve,Green Architects Inc.,ENERGY STAR Certified,9/15/2023,29.13,Yes,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,7/12/2023,267774.62,Green roof,Negombo,LEED Platinum,EcoBuild Constructions,ISO 14001,5/21/2023,65.54,No,high-efficiency,sustainable,30% reduction in energy use,true
+Eco Elementary School,12/17/2022,262325.96,LEED Platinum certified,Trincomalee,LEED Silve,Green Building Solutions,LEED,2/16/2024,20.19,Limited,low-flow,local,30% reduction in energy use,false
+Green Office Building,5/20/2023,473941.73,Renewable energy sources,Matara,LEED Certified,Green Architects Inc.,Green Globes,9/22/2023,89.66,Yes,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,3/16/2023,592742.91,LEED Platinum certified,Trincomalee,LEED Certified,Green Architects Inc.,Green Globes,9/19/2023,94.84,Yes,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,9/11/2023,404184.36,Green roof,Kandy,LEED Gold,EcoBuild Constructions,Green Globes,5/29/2023,23.43,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,6/21/2023,356153.86,Renewable energy sources,Anuradhapura,LEED Certified,EcoBuild Constructions,ISO 14001,8/15/2023,46.37,Yes,high-efficiency,reclaimed,40% reduction in energy use,false
+Sustainable Library,11/12/2022,167219.42,Renewable energy sources,Jaffna,LEED Certified,Green Building Solutions,ISO 14001,1/12/2024,27.36,Limited,high-efficiency,reclaimed,30% reduction in energy use,false
+Green Office Building,5/25/2023,664455.85,LEED Platinum certified,Colombo,LEED Silve,Eco-Friendly Designs,Green Globes,9/4/2023,72.63,Limited,low-flow,reclaimed,25% reduction in energy use,true
+Eco Elementary School,2/7/2023,637572.89,Energy-efficient design,Galle,LEED Certified,Green Building Solutions,ISO 14001,1/3/2024,63.49,Limited,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,6/11/2023,266875.21,LEED Platinum certified,Colombo,LEED Gold,Sustainable Builders,LEED,8/22/2023,54.91,No,high-efficiency,certified,25% reduction in energy use,false
+Eco Elementary School,10/31/2022,731931.56,Rainwater harvesting,Galle,LEED Platinum,Eco-Friendly Designs,Green Globes,6/7/2023,7.15,Yes,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,3/29/2023,624845.96,Energy-efficient design,Trincomalee,LEED Platinum,EcoBuild Constructions,LEED,2/16/2024,34.83,Yes,low-flow,certified,25% reduction in energy use,false
+Sustainable Library,2/26/2023,648061.24,LEED Platinum certified,Trincomalee,LEED Gold,Green Building Solutions,LEED,2/14/2024,56.26,Yes,high-efficiency,certified,30% reduction in energy use,false
+Sustainable Library,6/22/2023,277614.64,LEED Platinum certified,Trincomalee,LEED Silve,Green Architects Inc.,Green Globes,11/17/2023,30.7,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,2/8/2023,382834.47,Green roof,Matara,LEED Certified,Eco-Friendly Designs,LEED,8/7/2023,0.5,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Sustainable Library,10/2/2023,616211.41,LEED Platinum certified,Kandy,LEED Silve,Eco-Friendly Designs,LEED,6/30/2023,11.13,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Green Office Building,10/11/2023,924475.26,Rainwater harvesting,Galle,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,9/30/2023,65.73,No,low-flow,recycled,30% reduction in energy use,false
+Green Office Building,2/21/2023,310162.75,Renewable energy sources,Anuradhapura,Not Applicable,Green Architects Inc.,Green Globes,5/20/2023,64.35,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Sustainable Library,1/28/2023,482761.16,Rainwater harvesting,Galle,LEED Gold,Green Building Solutions,ENERGY STAR Certified,1/25/2024,73.81,Yes,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,6/5/2023,688682.57,Energy-efficient design,Galle,Not Applicable,EcoBuild Constructions,ENERGY STAR Certified,7/24/2023,30.28,Yes,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,2/23/2023,544062.76,LEED Platinum certified,Galle,LEED Gold,Green Building Solutions,ISO 14001,9/18/2023,46.23,Yes,high-efficiency,local,30% reduction in energy use,false
+Eco Elementary School,6/6/2023,681433.98,Green roof,Jaffna,LEED Platinum,Green Architects Inc.,Green Globes,11/20/2023,52.7,Limited,high-efficiency,recycled,25% reduction in energy use,false
+Green Office Building,9/3/2023,489095.97,Energy-efficient design,Kandy,Not Applicable,Green Building Solutions,Green Globes,7/1/2023,91.98,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Sustainable Library,5/4/2023,164120.64,LEED Platinum certified,Anuradhapura,LEED Certified,Green Architects Inc.,LEED,11/15/2023,96.1,No,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,4/28/2023,692788.46,Energy-efficient design,Kurunegala,Not Applicable,Eco-Friendly Designs,ISO 14001,5/25/2023,66.03,No,low-flow,certified,25% reduction in energy use,false
+Green Office Building,4/27/2023,324191.63,Green roof,Matara,LEED Platinum,EcoBuild Constructions,LEED,5/20/2023,15.86,Yes,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,5/2/2023,669852.29,Renewable energy sources,Gampaha,Not Applicable,EcoBuild Constructions,LEED,8/22/2023,79.17,No,low-flow,reclaimed,25% reduction in energy use,true
+Green Office Building,4/30/2023,776586.24,Rainwater harvesting,Trincomalee,LEED Gold,Sustainable Builders,ENERGY STAR Certified,9/8/2023,93.36,Limited,high-efficiency,local,25% reduction in energy use,false
+Sustainable Library,10/17/2023,450773.6,LEED Platinum certified,Jaffna,Not Applicable,Green Architects Inc.,Green Globes,8/29/2023,89.01,No,low-flow,local,30% reduction in energy use,true
+Green Office Building,7/30/2023,604031.33,Rainwater harvesting,Negombo,LEED Gold,Green Building Solutions,ISO 14001,6/19/2023,25.69,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,7/5/2023,461829.32,Energy-efficient design,Galle,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,12/13/2023,5.32,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,7/19/2023,862483.25,Energy-efficient design,Negombo,LEED Silve,Green Building Solutions,ISO 14001,11/28/2023,37.38,Yes,high-efficiency,certified,30% reduction in energy use,false
+Sustainable Library,3/9/2023,385773.92,Energy-efficient design,Kurunegala,LEED Certified,EcoBuild Constructions,Green Globes,11/30/2023,26.73,No,high-efficiency,sustainable,25% reduction in energy use,true
+Green Office Building,7/28/2023,924286.11,LEED Platinum certified,Jaffna,LEED Certified,EcoBuild Constructions,Green Globes,11/5/2023,25.59,No,low-flow,local,30% reduction in energy use,true
+Sustainable Library,5/26/2023,593403.43,Rainwater harvesting,Gampaha,LEED Silve,Sustainable Builders,ISO 14001,1/27/2024,81.59,Yes,low-flow,reclaimed,30% reduction in energy use,false
+Sustainable Library,12/27/2022,431187.77,LEED Platinum certified,Negombo,Not Applicable,Eco-Friendly Designs,Green Globes,10/1/2023,56.69,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,5/7/2023,142911.46,LEED Platinum certified,Colombo,LEED Gold,EcoBuild Constructions,ENERGY STAR Certified,1/31/2024,82.62,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Sustainable Library,10/1/2023,926220.49,Rainwater harvesting,Gampaha,LEED Platinum,Green Building Solutions,ENERGY STAR Certified,8/25/2023,84.47,Limited,low-flow,local,25% reduction in energy use,false
+Green Office Building,11/1/2022,131624.37,LEED Platinum certified,Gampaha,Not Applicable,Eco-Friendly Designs,Green Globes,9/6/2023,31.29,No,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,9/8/2023,504427.66,Rainwater harvesting,Galle,Not Applicable,Green Architects Inc.,Green Globes,2/2/2024,44.51,Yes,high-efficiency,local,30% reduction in energy use,true
+Eco Elementary School,9/2/2023,356799.02,Energy-efficient design,Jaffna,LEED Certified,Green Architects Inc.,ISO 14001,7/16/2023,85.55,Limited,high-efficiency,sustainable,25% reduction in energy use,false
+Green Office Building,8/6/2023,117724.61,Renewable energy sources,Kandy,LEED Certified,Sustainable Builders,LEED,3/7/2024,36.68,No,low-flow,sustainable,30% reduction in energy use,true
+Sustainable Library,3/30/2023,265713.14,Renewable energy sources,Negombo,LEED Silve,Green Building Solutions,ISO 14001,2/27/2024,47.48,No,high-efficiency,sustainable,25% reduction in energy use,false
+Sustainable Library,1/19/2023,149989.04,LEED Platinum certified,Kandy,Not Applicable,EcoBuild Constructions,LEED,7/31/2023,82.4,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Green Office Building,3/20/2023,854073.52,Rainwater harvesting,Trincomalee,LEED Silve,EcoBuild Constructions,ISO 14001,5/19/2023,18.59,No,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,10/10/2023,918410.28,Renewable energy sources,Kandy,LEED Silve,Green Building Solutions,ENERGY STAR Certified,7/29/2023,77.58,Limited,high-efficiency,local,25% reduction in energy use,true
+Sustainable Library,4/6/2023,205996.74,Rainwater harvesting,Negombo,LEED Silve,Green Architects Inc.,Green Globes,5/24/2023,59.0,No,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,5/16/2023,793362.84,Energy-efficient design,Jaffna,LEED Silve,Green Building Solutions,Green Globes,3/3/2024,97.53,Yes,low-flow,reclaimed,25% reduction in energy use,false
+Green Office Building,5/22/2023,137591.29,Green roof,Galle,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,6/18/2023,42.23,No,low-flow,sustainable,40% reduction in energy use,false
+Eco Elementary School,6/7/2023,530730.8,Renewable energy sources,Gampaha,LEED Silve,Green Architects Inc.,Green Globes,10/22/2023,58.77,Yes,high-efficiency,reclaimed,40% reduction in energy use,true
+Eco Elementary School,5/3/2023,287660.44,Energy-efficient design,Gampaha,LEED Silve,EcoBuild Constructions,LEED,6/11/2023,73.44,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Eco Elementary School,4/8/2023,701232.5,Rainwater harvesting,Colombo,LEED Certified,Green Building Solutions,ISO 14001,1/28/2024,38.47,Yes,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,3/25/2023,433622.15,LEED Platinum certified,Negombo,LEED Certified,Green Building Solutions,ENERGY STAR Certified,8/18/2023,23.35,Limited,high-efficiency,certified,25% reduction in energy use,false
+Sustainable Library,12/23/2022,953053.12,LEED Platinum certified,Anuradhapura,LEED Silve,Eco-Friendly Designs,Green Globes,9/26/2023,75.2,Limited,low-flow,reclaimed,30% reduction in energy use,false
+Green Office Building,2/22/2023,261835.69,LEED Platinum certified,Gampaha,LEED Silve,Green Architects Inc.,Green Globes,6/21/2023,9.43,No,high-efficiency,certified,40% reduction in energy use,false
+Eco Elementary School,4/18/2023,680869.98,Energy-efficient design,Gampaha,Not Applicable,Green Building Solutions,Green Globes,11/9/2023,36.81,Limited,high-efficiency,local,40% reduction in energy use,false
+Green Office Building,7/13/2023,163101.33,Green roof,Galle,LEED Certified,Green Architects Inc.,ISO 14001,8/3/2023,17.21,No,high-efficiency,reclaimed,30% reduction in energy use,true
+Green Office Building,2/21/2023,491599.42,Energy-efficient design,Kandy,LEED Gold,Sustainable Builders,LEED,2/5/2024,85.48,Limited,low-flow,certified,30% reduction in energy use,false
+Sustainable Library,6/22/2023,266403.73,Rainwater harvesting,Trincomalee,Not Applicable,Green Architects Inc.,Green Globes,6/25/2023,94.32,Yes,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,6/28/2023,435034.8,Rainwater harvesting,Kandy,LEED Certified,Green Building Solutions,ISO 14001,1/7/2024,86.42,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,10/31/2022,843953.93,Rainwater harvesting,Galle,LEED Gold,Green Building Solutions,ENERGY STAR Certified,8/18/2023,15.3,No,high-efficiency,reclaimed,25% reduction in energy use,true
+Sustainable Library,7/20/2023,937731.76,Green roof,Gampaha,LEED Platinum,Sustainable Builders,Green Globes,7/8/2023,23.15,No,high-efficiency,recycled,25% reduction in energy use,false
+Sustainable Library,9/4/2023,300992.95,Green roof,Gampaha,LEED Platinum,Sustainable Builders,Green Globes,10/10/2023,30.33,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
+Sustainable Library,3/17/2023,912871.17,Renewable energy sources,Kandy,LEED Certified,EcoBuild Constructions,LEED,9/27/2023,94.01,Limited,low-flow,recycled,30% reduction in energy use,true
+Green Office Building,3/30/2023,158505.56,Green roof,Anuradhapura,LEED Certified,Green Building Solutions,ISO 14001,11/13/2023,15.22,No,high-efficiency,sustainable,25% reduction in energy use,false
+Eco Elementary School,1/27/2023,131148.06,Rainwater harvesting,Kandy,LEED Silve,EcoBuild Constructions,Green Globes,9/25/2023,60.69,Yes,high-efficiency,sustainable,30% reduction in energy use,true
+Green Office Building,12/29/2022,589885.14,Energy-efficient design,Matara,LEED Gold,Green Architects Inc.,Green Globes,10/29/2023,53.69,Yes,low-flow,sustainable,25% reduction in energy use,false
+Green Office Building,12/17/2022,837089.68,Green roof,Anuradhapura,LEED Silve,Sustainable Builders,LEED,2/26/2024,51.95,No,low-flow,certified,25% reduction in energy use,true
+Green Office Building,2/24/2023,209512.1,Rainwater harvesting,Jaffna,LEED Silve,Green Architects Inc.,Green Globes,1/29/2024,32.16,No,high-efficiency,sustainable,25% reduction in energy use,true
+Eco Elementary School,8/4/2023,794447.06,Renewable energy sources,Trincomalee,LEED Gold,Green Building Solutions,LEED,5/23/2023,91.96,Yes,high-efficiency,sustainable,40% reduction in energy use,false
+Green Office Building,7/3/2023,510853.44,Renewable energy sources,Jaffna,Not Applicable,Sustainable Builders,LEED,11/14/2023,5.06,Limited,high-efficiency,recycled,30% reduction in energy use,true
+Eco Elementary School,12/25/2022,354943.18,Rainwater harvesting,Anuradhapura,LEED Silve,Green Architects Inc.,LEED,2/19/2024,42.02,No,high-efficiency,reclaimed,40% reduction in energy use,true
+Green Office Building,2/7/2023,691510.58,Renewable energy sources,Jaffna,LEED Silve,Green Building Solutions,ISO 14001,8/26/2023,21.74,No,high-efficiency,sustainable,30% reduction in energy use,true
+Sustainable Library,10/18/2023,828575.97,Renewable energy sources,Colombo,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,2/9/2024,1.7,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,11/20/2022,333018.59,Energy-efficient design,Trincomalee,LEED Silve,Sustainable Builders,Green Globes,8/24/2023,81.21,Yes,high-efficiency,reclaimed,30% reduction in energy use,false
+Sustainable Library,8/16/2023,609419.29,Rainwater harvesting,Negombo,LEED Gold,Green Building Solutions,ENERGY STAR Certified,12/26/2023,63.59,Yes,low-flow,recycled,40% reduction in energy use,false
+Green Office Building,12/12/2022,824340.99,LEED Platinum certified,Matara,LEED Gold,Eco-Friendly Designs,LEED,9/1/2023,30.66,Limited,high-efficiency,certified,30% reduction in energy use,true
+Sustainable Library,8/4/2023,485368.24,Energy-efficient design,Matara,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,8/3/2023,9.85,No,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,4/6/2023,265429.5,Energy-efficient design,Galle,LEED Gold,Sustainable Builders,ISO 14001,8/27/2023,81.55,Yes,low-flow,reclaimed,40% reduction in energy use,true
+Green Office Building,11/23/2022,325123.57,Green roof,Anuradhapura,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,5/25/2023,85.65,No,low-flow,sustainable,30% reduction in energy use,false
+Green Office Building,7/10/2023,672844.76,LEED Platinum certified,Kandy,LEED Certified,Green Building Solutions,ISO 14001,7/4/2023,0.27,Limited,high-efficiency,local,25% reduction in energy use,true
+Green Office Building,4/9/2023,334116.27,Green roof,Kurunegala,LEED Gold,Eco-Friendly Designs,Green Globes,3/2/2024,98.12,Limited,high-efficiency,reclaimed,40% reduction in energy use,true
+Sustainable Library,1/3/2023,936186.11,Renewable energy sources,Negombo,Not Applicable,Eco-Friendly Designs,LEED,3/3/2024,24.68,No,high-efficiency,sustainable,30% reduction in energy use,false
+Green Office Building,3/14/2023,278454.17,Rainwater harvesting,Negombo,LEED Silve,Green Architects Inc.,ISO 14001,6/5/2023,40.05,Yes,high-efficiency,certified,25% reduction in energy use,true
+Green Office Building,8/11/2023,486518.84,Energy-efficient design,Galle,LEED Gold,Eco-Friendly Designs,LEED,5/27/2023,89.02,Limited,high-efficiency,recycled,25% reduction in energy use,true
+Green Office Building,8/24/2023,177778.92,Rainwater harvesting,Anuradhapura,Not Applicable,Sustainable Builders,LEED,9/29/2023,74.12,Limited,high-efficiency,sustainable,40% reduction in energy use,false
+Eco Elementary School,2/11/2023,869033.29,Rainwater harvesting,Matara,LEED Certified,EcoBuild Constructions,Green Globes,11/25/2023,49.66,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,3/10/2023,527335.6,Energy-efficient design,Trincomalee,LEED Silve,Green Architects Inc.,LEED,9/4/2023,63.59,Limited,high-efficiency,reclaimed,40% reduction in energy use,true
+Eco Elementary School,6/30/2023,753118.24,Energy-efficient design,Kandy,LEED Certified,EcoBuild Constructions,Green Globes,8/22/2023,12.62,Yes,low-flow,recycled,30% reduction in energy use,false
+Green Office Building,12/15/2022,409000.36,Rainwater harvesting,Matara,LEED Certified,Green Building Solutions,ISO 14001,12/19/2023,80.78,Yes,high-efficiency,certified,40% reduction in energy use,false
+Eco Elementary School,2/9/2023,103653.96,Green roof,Gampaha,LEED Platinum,Green Architects Inc.,ENERGY STAR Certified,1/10/2024,31.03,No,low-flow,certified,25% reduction in energy use,false
+Green Office Building,1/21/2023,883045.96,Energy-efficient design,Kandy,Not Applicable,Green Architects Inc.,Green Globes,12/12/2023,42.36,Limited,high-efficiency,local,30% reduction in energy use,true
+Sustainable Library,6/21/2023,804308.52,LEED Platinum certified,Jaffna,LEED Gold,Sustainable Builders,LEED,1/14/2024,77.72,No,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,1/11/2023,913381.32,Rainwater harvesting,Gampaha,LEED Silve,Green Building Solutions,Green Globes,6/20/2023,20.99,Yes,high-efficiency,recycled,30% reduction in energy use,true
+Green Office Building,3/26/2023,675966.87,LEED Platinum certified,Jaffna,LEED Gold,Green Architects Inc.,LEED,8/22/2023,88.82,No,high-efficiency,sustainable,40% reduction in energy use,true
+Green Office Building,10/8/2023,507026.68,LEED Platinum certified,Matara,Not Applicable,Sustainable Builders,ENERGY STAR Certified,8/2/2023,2.56,Limited,low-flow,reclaimed,40% reduction in energy use,false
+Eco Elementary School,11/28/2022,135951.15,LEED Platinum certified,Colombo,LEED Silve,EcoBuild Constructions,ISO 14001,10/19/2023,82.1,Yes,high-efficiency,recycled,40% reduction in energy use,false
+Eco Elementary School,5/6/2023,491279.99,Energy-efficient design,Jaffna,LEED Platinum,Green Building Solutions,ISO 14001,1/26/2024,42.94,No,high-efficiency,local,40% reduction in energy use,true
+Eco Elementary School,9/30/2023,484472.68,LEED Platinum certified,Jaffna,LEED Silve,Green Building Solutions,ISO 14001,6/24/2023,42.8,Yes,low-flow,certified,30% reduction in energy use,false
+Green Office Building,1/30/2023,379982.27,Green roof,Galle,Not Applicable,Sustainable Builders,Green Globes,8/9/2023,68.85,No,high-efficiency,recycled,30% reduction in energy use,true
+Green Office Building,4/24/2023,973063.53,Renewable energy sources,Negombo,LEED Certified,Green Building Solutions,ENERGY STAR Certified,12/11/2023,10.62,Yes,low-flow,certified,40% reduction in energy use,false
+Green Office Building,3/19/2023,464023.53,Energy-efficient design,Jaffna,LEED Platinum,Green Architects Inc.,Green Globes,9/13/2023,44.02,Limited,low-flow,sustainable,40% reduction in energy use,false
+Green Office Building,6/26/2023,935183.56,Green roof,Negombo,LEED Gold,Eco-Friendly Designs,ISO 14001,9/7/2023,55.73,No,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,11/13/2022,508235.18,Renewable energy sources,Matara,Not Applicable,Green Architects Inc.,ENERGY STAR Certified,5/24/2023,9.99,No,low-flow,certified,40% reduction in energy use,false
+Green Office Building,3/14/2023,498591.35,Green roof,Galle,LEED Platinum,Green Building Solutions,ISO 14001,11/16/2023,30.25,Limited,low-flow,reclaimed,30% reduction in energy use,true
+Sustainable Library,10/30/2022,408275.63,Rainwater harvesting,Jaffna,LEED Platinum,Green Building Solutions,ISO 14001,7/3/2023,62.41,No,high-efficiency,reclaimed,30% reduction in energy use,false
+Green Office Building,12/12/2022,852713.62,Green roof,Kurunegala,LEED Gold,Green Building Solutions,Green Globes,6/8/2023,44.29,Limited,high-efficiency,reclaimed,40% reduction in energy use,false
+Eco Elementary School,12/20/2022,299644.26,Energy-efficient design,Trincomalee,LEED Silve,EcoBuild Constructions,ENERGY STAR Certified,6/11/2023,12.35,No,high-efficiency,sustainable,40% reduction in energy use,false
+Sustainable Library,5/19/2023,715343.87,Rainwater harvesting,Galle,LEED Platinum,EcoBuild Constructions,ENERGY STAR Certified,10/4/2023,82.63,Limited,high-efficiency,certified,30% reduction in energy use,true
+Eco Elementary School,10/23/2023,368753.38,LEED Platinum certified,Gampaha,LEED Certified,EcoBuild Constructions,LEED,1/1/2024,0.96,Limited,low-flow,certified,40% reduction in energy use,false
+Green Office Building,7/16/2023,646086.48,Energy-efficient design,Galle,LEED Gold,Sustainable Builders,Green Globes,9/10/2023,62.95,Yes,low-flow,sustainable,40% reduction in energy use,true
+Eco Elementary School,1/11/2023,665121.83,Green roof,Gampaha,LEED Certified,Green Building Solutions,Green Globes,5/19/2023,22.44,Limited,high-efficiency,local,40% reduction in energy use,true
+Sustainable Library,5/28/2023,351262.5,LEED Platinum certified,Galle,LEED Silve,Sustainable Builders,Green Globes,12/24/2023,33.72,Limited,high-efficiency,local,40% reduction in energy use,false
+Sustainable Library,4/6/2023,553007.65,Energy-efficient design,Kandy,LEED Certified,Sustainable Builders,LEED,6/30/2023,35.86,Limited,low-flow,certified,40% reduction in energy use,true
+Eco Elementary School,1/29/2023,335451.18,Green roof,Kandy,LEED Certified,Eco-Friendly Designs,ISO 14001,7/4/2023,22.68,No,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,5/10/2023,177432.16,Green roof,Kurunegala,LEED Certified,Green Architects Inc.,ENERGY STAR Certified,7/2/2023,94.93,No,low-flow,certified,25% reduction in energy use,true
+Eco Elementary School,6/27/2023,918804.21,Renewable energy sources,Negombo,Not Applicable,Green Architects Inc.,LEED,10/18/2023,50.75,No,high-efficiency,certified,25% reduction in energy use,false
+Green Office Building,2/18/2023,282532.78,Rainwater harvesting,Kandy,LEED Gold,Eco-Friendly Designs,Green Globes,6/28/2023,90.16,Limited,high-efficiency,reclaimed,30% reduction in energy use,true
