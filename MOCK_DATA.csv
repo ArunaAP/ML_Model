@@ -1,0 +1,1001 @@
+ContractTitle,ContractDate,ContractAmount,Location,LEEDCertificationLevel,Architect/Contractor,SustainabilityRatings,ProjectTimeline,RenewableEnergyUse,WasteManagementPractices,WaterEfficiency,MaterialsSourcing,SustainabilityGoals,Eco-Friendly
+Mrs,7/22/2000,Franc,City Centre,2,Thoughtstorm,4,11,true,1,4,certified,40% reduction in energy use,1
+Ms,12/13/2020,Krona,Central District,3,Photofeed,2,8,true,1,2,certified,30% reduction in energy use,1
+Honorable,3/24/2009,Dollar,City Centre,5,Meejo,5,17,true,1,4,sustainable,30% reduction in energy use,0
+Honorable,2/11/2008,Euro,Central District,4,Shuffletag,5,48,true,3,3,certified,40% reduction in energy use,0
+Honorable,12/16/2008,Yuan Renminbi,Town Square,3,Dabshots,3,52,false,3,3,reclaimed,30% reduction in energy use,1
+Honorable,4/28/2013,Baht,Central District,3,Camido,5,82,true,3,3,reclaimed,40% reduction in energy use,0
+Mr,7/30/2021,Yuan Renminbi,City Centre,5,Zooxo,2,49,true,1,2,certified,40% reduction in energy use,0
+Ms,4/25/2016,Peso,Town Square,2,Flashspan,2,29,true,3,1,sustainable,40% reduction in energy use,0
+Ms,10/30/2001,Yuan Renminbi,City Centre,2,Meevee,3,99,true,3,2,reclaimed,40% reduction in energy use,1
+Honorable,6/2/2023,Euro,Central District,3,Quimba,2,33,false,2,4,sustainable,30% reduction in energy use,0
+Ms,2/26/2009,Euro,City Centre,3,Thoughtstorm,2,68,false,3,4,certified,40% reduction in energy use,1
+Mrs,8/13/2023,Peso,Town Square,2,Minyx,2,90,false,3,1,reclaimed,30% reduction in energy use,0
+Mr,10/25/2009,Zloty,Central District,2,Oyoyo,5,2,false,1,2,sustainable,30% reduction in energy use,0
+Dr,6/30/2021,Euro,City Centre,1,Eazzy,1,41,false,2,1,sustainable,40% reduction in energy use,1
+Ms,7/24/2012,Krona,City Centre,3,Reallinks,2,15,true,1,1,sustainable,30% reduction in energy use,0
+Honorable,7/18/2010,Yuan Renminbi,Central District,4,Mydo,4,43,true,3,3,certified,40% reduction in energy use,1
+Mrs,10/17/2010,Euro,City Centre,4,Meetz,3,94,true,2,2,certified,30% reduction in energy use,1
+Dr,7/20/2019,Peso,Central District,3,Pixoboo,4,91,true,3,3,sustainable,40% reduction in energy use,1
+Ms,6/9/2017,Dinar,Central District,3,Babblestorm,3,81,true,3,3,sustainable,40% reduction in energy use,0
+Honorable,2/8/2022,Yuan Renminbi,City Centre,5,Tagfeed,2,10,false,3,2,certified,30% reduction in energy use,1
+Mrs,8/15/2016,Ruble,Town Square,2,Dynazzy,2,77,false,3,3,reclaimed,40% reduction in energy use,0
+Mrs,7/2/2018,Loti,Central District,1,Oyoloo,2,54,false,3,2,sustainable,30% reduction in energy use,0
+Honorable,11/7/2023,Lek,Town Square,3,Wordware,2,92,true,3,2,reclaimed,40% reduction in energy use,1
+Dr,7/14/2017,Franc,Central District,3,Nlounge,5,42,false,1,2,reclaimed,40% reduction in energy use,1
+Ms,12/4/2009,Rial,Central District,5,Realmix,5,71,true,3,3,reclaimed,40% reduction in energy use,1
+Dr,11/23/2007,Euro,City Centre,3,Topdrive,5,45,false,2,3,certified,30% reduction in energy use,1
+Mr,5/7/2003,Yuan Renminbi,City Centre,4,Tekfly,4,74,true,1,2,certified,30% reduction in energy use,1
+Dr,2/27/2010,Rupiah,City Centre,1,Youtags,4,91,true,2,3,reclaimed,40% reduction in energy use,1
+Mrs,3/10/2020,Peso,Town Square,1,Twitternation,2,27,false,1,1,certified,40% reduction in energy use,0
+Rev,5/20/2018,Shilling,Central District,5,Tambee,2,78,false,3,1,sustainable,30% reduction in energy use,0
+Mr,2/4/2020,Rupiah,Central District,1,Cogidoo,3,24,false,2,4,reclaimed,30% reduction in energy use,1
+Honorable,1/4/2007,Yuan Renminbi,Town Square,3,Muxo,2,93,false,2,1,sustainable,40% reduction in energy use,0
+Mr,5/19/2000,Manat,Town Square,2,Bluezoom,4,39,true,3,2,sustainable,40% reduction in energy use,0
+Rev,8/28/2016,Rupiah,Central District,5,Shufflester,4,32,true,2,1,sustainable,40% reduction in energy use,0
+Rev,3/30/2007,Ruble,City Centre,3,Skipstorm,1,69,true,2,3,sustainable,30% reduction in energy use,0
+Mr,4/24/2001,Rand,City Centre,5,Pixope,3,40,false,1,3,reclaimed,40% reduction in energy use,1
+Dr,3/31/2003,Afghani,Central District,5,Twinte,1,95,false,3,2,sustainable,30% reduction in energy use,0
+Rev,1/6/2002,Ruble,City Centre,2,Twitterwire,1,42,true,3,1,certified,30% reduction in energy use,0
+Honorable,11/10/2000,Krone,Town Square,1,Skivee,1,94,false,2,4,certified,30% reduction in energy use,1
+Mr,11/19/2020,Real,Town Square,2,Thoughtstorm,2,62,true,2,2,sustainable,30% reduction in energy use,0
+Rev,6/19/2002,Rupiah,City Centre,3,Photofeed,2,63,false,3,4,reclaimed,30% reduction in energy use,1
+Rev,12/27/2011,Euro,Town Square,5,Chatterbridge,1,2,false,2,2,certified,30% reduction in energy use,0
+Rev,10/19/2018,Dollar,City Centre,1,Abatz,1,4,true,3,1,sustainable,40% reduction in energy use,0
+Mrs,4/20/2012,Dollar,Central District,3,Ainyx,2,47,false,1,3,sustainable,40% reduction in energy use,0
+Ms,10/12/2006,Euro,City Centre,5,Realcube,3,21,true,3,4,sustainable,40% reduction in energy use,1
+Mrs,2/9/2007,Naira,Central District,1,Einti,4,39,false,2,4,reclaimed,40% reduction in energy use,0
+Rev,10/11/2011,Rial,Town Square,1,Edgepulse,3,2,true,3,4,reclaimed,40% reduction in energy use,0
+Honorable,5/29/2004,Franc,City Centre,4,Skiba,5,3,false,2,1,certified,40% reduction in energy use,0
+Rev,9/1/2014,Rupiah,Town Square,3,Mydo,1,56,false,3,2,sustainable,30% reduction in energy use,1
+Ms,2/1/2013,Peso,City Centre,2,Chatterbridge,3,70,true,3,1,sustainable,40% reduction in energy use,0
+Mr,9/4/2013,Real,Town Square,5,Centidel,5,24,false,2,4,reclaimed,30% reduction in energy use,0
+Mrs,2/4/2005,Afghani,City Centre,5,Brainbox,2,16,false,2,1,certified,30% reduction in energy use,0
+Mr,2/5/2013,Won,Central District,4,Youopia,2,63,false,3,3,certified,30% reduction in energy use,0
+Mrs,1/2/2016,Euro,Town Square,5,Photolist,4,63,true,2,4,certified,30% reduction in energy use,0
+Rev,6/19/2007,Peso,Town Square,1,Skyndu,2,87,false,1,4,certified,40% reduction in energy use,0
+Mr,6/27/2011,Yuan Renminbi,City Centre,4,Talane,1,69,true,3,4,certified,40% reduction in energy use,1
+Rev,8/28/2014,Franc,Town Square,4,Minyx,5,82,true,2,2,sustainable,30% reduction in energy use,1
+Honorable,9/12/2003,Real,Central District,3,Yamia,3,23,false,2,3,sustainable,30% reduction in energy use,0
+Mr,11/11/2000,Krona,City Centre,5,Kwilith,3,85,true,3,2,certified,40% reduction in energy use,0
+Dr,1/19/2006,Euro,City Centre,3,Oba,2,1,false,1,1,reclaimed,40% reduction in energy use,1
+Mr,9/24/2021,Yuan Renminbi,City Centre,2,Livefish,2,88,false,3,2,certified,30% reduction in energy use,0
+Mr,2/7/2018,Euro,City Centre,2,Eare,1,75,true,2,3,sustainable,30% reduction in energy use,1
+Rev,12/26/2009,Rupiah,Town Square,5,Skimia,1,45,true,3,3,reclaimed,30% reduction in energy use,0
+Rev,8/5/2003,Dollar,City Centre,4,Kazu,4,42,false,3,2,sustainable,30% reduction in energy use,1
+Honorable,8/14/2015,Rial,Central District,1,Midel,5,23,true,1,4,reclaimed,40% reduction in energy use,1
+Honorable,2/11/2007,Rupiah,Town Square,1,Twinte,5,10,true,3,4,reclaimed,40% reduction in energy use,1
+Dr,4/28/2017,Yuan Renminbi,Central District,1,Leenti,1,30,false,1,4,certified,40% reduction in energy use,0
+Rev,7/28/2008,Euro,City Centre,1,Thoughtblab,3,60,false,2,2,reclaimed,30% reduction in energy use,0
+Honorable,9/20/2011,Yuan Renminbi,Town Square,1,Yodoo,2,41,false,3,4,reclaimed,40% reduction in energy use,1
+Mrs,11/23/2007,Won,Central District,5,Dabshots,1,52,true,2,3,certified,30% reduction in energy use,0
+Mr,1/5/2009,Yuan Renminbi,City Centre,4,Fatz,2,46,true,2,1,reclaimed,40% reduction in energy use,1
+Ms,9/20/2005,Baht,City Centre,5,Brightbean,5,10,true,2,4,certified,40% reduction in energy use,0
+Mrs,2/26/2009,Ruble,Town Square,3,Oyoloo,3,10,true,3,2,certified,40% reduction in energy use,0
+Rev,1/25/2016,Shilling,Central District,1,Fivechat,5,22,true,1,1,certified,40% reduction in energy use,1
+Dr,10/24/2019,Real,City Centre,1,Flipbug,4,19,false,3,4,certified,30% reduction in energy use,0
+Ms,1/15/2012,Lev,City Centre,4,Voomm,3,83,true,2,1,certified,40% reduction in energy use,1
+Honorable,11/8/2015,Quetzal,Town Square,5,Gevee,3,10,true,1,2,reclaimed,30% reduction in energy use,0
+Honorable,10/13/2021,Naira,City Centre,3,Photobug,5,94,false,2,4,certified,40% reduction in energy use,0
+Rev,5/29/2001,Manat,City Centre,3,Linktype,1,71,true,2,3,sustainable,30% reduction in energy use,0
+Mr,2/22/2022,Rupiah,Central District,5,Livetube,4,60,false,3,2,certified,30% reduction in energy use,0
+Mr,9/18/2019,Krone,Central District,3,Gevee,1,52,true,3,4,sustainable,40% reduction in energy use,0
+Rev,2/21/2017,Rupiah,Town Square,3,Jabbertype,2,88,true,2,1,reclaimed,40% reduction in energy use,1
+Mr,6/4/2014,Rupee,Town Square,4,Jabbercube,4,35,false,2,3,certified,30% reduction in energy use,1
+Ms,8/16/2003,Peso,City Centre,5,Kimia,4,75,false,2,4,reclaimed,30% reduction in energy use,0
+Rev,12/18/2020,Dram,Town Square,3,Edgeblab,3,56,true,3,3,sustainable,30% reduction in energy use,1
+Ms,5/16/2022,Zloty,City Centre,3,Mymm,3,39,false,2,2,sustainable,30% reduction in energy use,0
+Ms,5/11/2001,Rupiah,Town Square,3,Zoomlounge,2,62,true,1,4,reclaimed,40% reduction in energy use,1
+Dr,7/24/2014,Euro,Town Square,4,Skinix,4,42,true,1,3,reclaimed,30% reduction in energy use,1
+Honorable,4/10/2001,Koruna,Central District,4,Eazzy,2,11,true,3,2,certified,40% reduction in energy use,1
+Mr,8/12/2005,Ouguiya,Town Square,3,Skyndu,4,91,true,1,1,reclaimed,30% reduction in energy use,0
+Honorable,8/12/2001,Sol,Central District,2,Edgeclub,4,4,true,3,4,certified,40% reduction in energy use,1
+Honorable,8/7/2010,Yuan Renminbi,Central District,3,Shuffletag,4,89,false,2,4,certified,40% reduction in energy use,0
+Mrs,5/18/2009,Yuan Renminbi,Central District,4,Brainsphere,4,94,true,1,1,reclaimed,40% reduction in energy use,0
+Dr,3/1/2004,Ringgit,Central District,4,Realbuzz,3,73,false,2,1,reclaimed,40% reduction in energy use,0
+Mr,10/23/2011,Peso,City Centre,5,Jabberbean,3,88,false,1,3,sustainable,40% reduction in energy use,0
+Honorable,8/12/2003,Dollar,Town Square,2,Einti,5,15,true,2,4,sustainable,40% reduction in energy use,1
+Ms,7/9/2015,Yuan Renminbi,Town Square,4,Bubblebox,2,8,false,3,4,certified,30% reduction in energy use,1
+Mrs,2/17/2018,Peso,Central District,4,Centidel,5,71,true,2,2,certified,40% reduction in energy use,0
+Mr,4/4/2010,Ruble,Town Square,4,Feednation,2,67,true,2,3,reclaimed,30% reduction in energy use,1
+Mr,2/21/2006,Yuan Renminbi,Town Square,3,Livetube,3,76,false,3,1,certified,30% reduction in energy use,0
+Dr,3/12/2022,Yuan Renminbi,Town Square,4,Abatz,1,78,true,1,2,certified,40% reduction in energy use,0
+Mr,9/1/2000,Real,City Centre,5,Feedfish,4,91,false,3,3,certified,40% reduction in energy use,0
+Honorable,10/30/2017,Hryvnia,Town Square,3,Divavu,1,38,false,3,4,certified,40% reduction in energy use,0
+Rev,10/17/2000,Rupiah,City Centre,2,Dabvine,5,4,true,1,1,sustainable,30% reduction in energy use,1
+Mr,10/24/2011,Shekel,City Centre,1,Meevee,3,53,true,1,3,certified,40% reduction in energy use,0
+Dr,10/3/2001,Kuna,City Centre,2,Myworks,1,78,true,1,2,sustainable,30% reduction in energy use,1
+Dr,9/27/2008,Rupiah,City Centre,5,Photobug,4,13,false,2,3,reclaimed,30% reduction in energy use,1
+Rev,7/17/2004,Euro,City Centre,1,Dynabox,2,98,false,2,3,sustainable,40% reduction in energy use,0
+Dr,9/19/2021,Yuan Renminbi,Central District,5,Feedmix,4,6,false,3,4,certified,40% reduction in energy use,1
+Mr,2/27/2013,Rupiah,Town Square,4,Gabcube,2,51,false,3,3,reclaimed,30% reduction in energy use,0
+Dr,9/15/2020,Yuan Renminbi,City Centre,4,Aibox,2,5,true,1,4,certified,30% reduction in energy use,0
+Ms,12/1/2001,Dollar,Central District,5,Gevee,1,46,true,2,2,sustainable,30% reduction in energy use,1
+Dr,5/24/2001,Real,Central District,3,Skyndu,3,24,false,3,4,sustainable,40% reduction in energy use,1
+Honorable,11/5/2016,Yuan Renminbi,City Centre,4,Tavu,3,44,false,3,4,certified,30% reduction in energy use,1
+Mr,5/24/2001,Bolivar,Central District,2,Buzzshare,4,76,false,1,2,reclaimed,40% reduction in energy use,0
+Ms,3/2/2011,Real,City Centre,4,Zoonoodle,2,51,true,2,4,certified,40% reduction in energy use,1
+Honorable,5/21/2023,Sol,City Centre,1,Lazz,3,2,true,3,3,sustainable,30% reduction in energy use,0
+Ms,8/8/2002,Rupiah,City Centre,2,Yozio,5,58,false,1,1,sustainable,40% reduction in energy use,1
+Honorable,11/30/2004,Yuan Renminbi,Central District,2,Zooxo,4,61,true,2,4,certified,40% reduction in energy use,1
+Honorable,4/12/2009,Baht,City Centre,4,Zoomlounge,3,34,false,2,2,certified,40% reduction in energy use,0
+Ms,10/30/2019,Yuan Renminbi,Central District,5,Vimbo,5,84,true,1,2,reclaimed,40% reduction in energy use,1
+Ms,9/2/2021,Yen,Central District,4,Quire,2,31,false,1,4,sustainable,40% reduction in energy use,1
+Honorable,7/9/2011,Rupiah,Central District,3,Pixope,3,57,true,1,2,certified,30% reduction in energy use,0
+Honorable,6/17/2007,Baht,Central District,3,Feedspan,3,42,false,1,3,reclaimed,30% reduction in energy use,0
+Dr,10/27/2015,Lempira,Town Square,4,Yodel,3,36,false,1,3,reclaimed,40% reduction in energy use,1
+Dr,8/7/2019,Yuan Renminbi,City Centre,5,Dynabox,1,20,true,1,1,reclaimed,30% reduction in energy use,1
+Mrs,4/1/2013,Real,Central District,4,Lazz,1,35,true,1,1,reclaimed,40% reduction in energy use,0
+Dr,9/14/2002,Euro,City Centre,2,Youspan,3,57,true,1,4,reclaimed,30% reduction in energy use,1
+Ms,10/12/2014,Dollar,Central District,2,Zazio,5,72,false,1,1,certified,40% reduction in energy use,0
+Rev,7/14/2002,Pula,Town Square,2,Dabshots,4,35,true,2,3,certified,30% reduction in energy use,1
+Mrs,9/13/2011,Dollar,City Centre,2,Kwideo,5,56,true,2,3,reclaimed,40% reduction in energy use,0
+Mrs,1/27/2013,Yuan Renminbi,Central District,1,Zoonder,1,53,true,1,4,certified,30% reduction in energy use,0
+Rev,8/31/2004,Yuan Renminbi,City Centre,5,Fliptune,4,34,true,1,2,reclaimed,40% reduction in energy use,1
+Ms,7/14/2023,Dollar,Central District,3,Babbleset,1,13,false,2,1,reclaimed,40% reduction in energy use,0
+Ms,4/30/2009,Lempira,City Centre,3,Topiclounge,3,63,true,2,4,reclaimed,40% reduction in energy use,0
+Honorable,6/18/2019,Rupiah,Central District,1,Quamba,1,1,true,2,3,reclaimed,30% reduction in energy use,1
+Mrs,6/25/2019,Dinar,City Centre,1,Meezzy,1,88,true,2,2,certified,30% reduction in energy use,1
+Mr,5/10/2020,Ringgit,Central District,4,Roombo,1,2,false,3,2,sustainable,40% reduction in energy use,0
+Rev,8/22/2002,Yuan Renminbi,City Centre,2,Yakidoo,4,27,true,1,2,reclaimed,30% reduction in energy use,0
+Ms,5/15/2021,Dinar,Town Square,3,Shufflebeat,4,11,true,1,2,reclaimed,30% reduction in energy use,0
+Honorable,12/8/2018,Euro,City Centre,1,Eare,2,9,false,2,3,reclaimed,30% reduction in energy use,0
+Honorable,11/28/2015,Koruna,Town Square,3,Vimbo,2,86,true,3,3,certified,40% reduction in energy use,0
+Mrs,7/9/2008,Euro,Town Square,3,Brightbean,3,17,true,1,1,sustainable,40% reduction in energy use,0
+Dr,7/15/2014,Yuan Renminbi,City Centre,5,Myworks,1,40,true,1,4,certified,30% reduction in energy use,1
+Ms,7/31/2014,Rial,Town Square,2,Nlounge,5,92,true,2,2,certified,30% reduction in energy use,0
+Mrs,3/14/2018,Euro,Central District,5,Jaxnation,4,86,false,1,1,sustainable,40% reduction in energy use,1
+Mr,7/29/2012,Shilling,Central District,5,Trupe,4,12,false,3,4,reclaimed,40% reduction in energy use,0
+Rev,10/10/2013,Euro,Central District,3,Meemm,4,31,false,1,1,certified,40% reduction in energy use,1
+Rev,2/1/2005,Yen,Town Square,4,Yoveo,4,53,false,2,2,certified,30% reduction in energy use,0
+Rev,1/16/2004,Ruble,Central District,5,Ooba,4,14,false,1,1,reclaimed,40% reduction in energy use,0
+Rev,11/25/2001,Lev,Central District,1,Myworks,4,5,false,3,3,certified,30% reduction in energy use,1
+Dr,5/20/2011,Afghani,Central District,1,Jabbersphere,5,67,true,3,3,certified,30% reduction in energy use,1
+Honorable,2/10/2014,Rupiah,Town Square,3,Edgewire,4,89,true,3,1,sustainable,30% reduction in energy use,1
+Ms,3/9/2017,Ruble,Town Square,3,Yambee,5,62,false,2,1,sustainable,30% reduction in energy use,0
+Mrs,11/9/2004,Dong,City Centre,3,Npath,4,29,true,1,3,reclaimed,40% reduction in energy use,1
+Mr,12/31/2021,Peso,City Centre,3,Podcat,5,47,false,2,1,reclaimed,30% reduction in energy use,1
+Dr,3/20/2023,Rupiah,Town Square,2,Wikivu,2,53,true,1,3,sustainable,40% reduction in energy use,0
+Ms,10/21/2006,Dollar,Central District,2,Livepath,4,45,true,1,4,sustainable,30% reduction in energy use,1
+Mrs,5/1/2013,Rupiah,Town Square,4,Twitterwire,2,37,false,1,3,certified,30% reduction in energy use,0
+Dr,1/20/2004,Yuan Renminbi,City Centre,2,Thoughtstorm,1,32,false,1,4,reclaimed,40% reduction in energy use,0
+Dr,7/14/2004,Rial,Central District,1,Midel,4,71,true,1,4,certified,40% reduction in energy use,1
+Dr,5/29/2020,Yuan Renminbi,Town Square,2,InnoZ,4,76,true,3,2,reclaimed,40% reduction in energy use,0
+Mrs,11/9/2001,Euro,City Centre,1,Gabspot,5,35,false,3,1,reclaimed,40% reduction in energy use,0
+Mr,10/7/2019,Real,City Centre,4,Jabberbean,5,6,true,3,1,reclaimed,40% reduction in energy use,0
+Dr,1/16/2010,Dinar,Town Square,3,Fatz,5,3,true,3,4,reclaimed,40% reduction in energy use,0
+Rev,11/15/2014,Rupiah,Central District,1,Centidel,3,46,true,2,1,certified,40% reduction in energy use,1
+Mrs,3/12/2013,Zloty,City Centre,2,Linktype,4,41,false,3,1,sustainable,30% reduction in energy use,0
+Mrs,7/1/2008,Rupiah,City Centre,5,Skyble,2,86,true,3,4,reclaimed,30% reduction in energy use,0
+Mrs,1/17/2000,Yuan Renminbi,City Centre,5,Wikibox,1,75,true,2,4,reclaimed,40% reduction in energy use,1
+Mrs,8/26/2017,Dollar,Central District,3,Youtags,3,95,false,3,2,sustainable,40% reduction in energy use,1
+Ms,10/31/2023,Yuan Renminbi,Town Square,1,Wikido,1,56,false,1,4,certified,30% reduction in energy use,0
+Rev,9/24/2019,Hryvnia,City Centre,5,Avavee,4,71,true,3,4,sustainable,40% reduction in energy use,1
+Ms,5/28/2016,Koruna,Town Square,4,Twitterlist,1,75,false,1,4,certified,40% reduction in energy use,1
+Mrs,6/2/2013,Yuan Renminbi,Town Square,3,Skyndu,1,95,true,1,2,certified,30% reduction in energy use,0
+Ms,4/5/2012,Pound,Town Square,4,Leexo,5,44,false,3,3,certified,40% reduction in energy use,1
+Dr,6/4/2004,Euro,Town Square,3,Edgetag,3,96,true,1,1,sustainable,40% reduction in energy use,1
+Dr,6/30/2020,Rupiah,City Centre,4,Thoughtblab,5,15,false,2,1,certified,40% reduction in energy use,0
+Honorable,8/17/2002,Yuan Renminbi,City Centre,4,Tagchat,4,82,true,3,3,certified,30% reduction in energy use,1
+Mrs,3/6/2011,Peso,Central District,5,Buzzster,3,99,true,1,1,reclaimed,30% reduction in energy use,0
+Honorable,3/21/2022,Real,Central District,1,Babblestorm,3,76,false,1,3,certified,40% reduction in energy use,0
+Mrs,4/7/2020,Peso,Town Square,4,Realbridge,2,24,false,3,2,reclaimed,30% reduction in energy use,1
+Dr,10/24/2005,Yen,Central District,3,Yodo,4,19,false,1,1,reclaimed,40% reduction in energy use,1
+Mrs,11/9/2003,Euro,Central District,4,Skipfire,1,0,true,2,2,sustainable,40% reduction in energy use,1
+Mrs,12/31/2022,Lari,City Centre,4,Digitube,2,83,true,1,4,reclaimed,30% reduction in energy use,0
+Ms,1/8/2005,Yuan Renminbi,City Centre,3,Topiczoom,5,98,false,3,4,reclaimed,40% reduction in energy use,0
+Ms,2/20/2000,Yuan Renminbi,City Centre,5,Zoomzone,1,66,false,1,2,sustainable,40% reduction in energy use,1
+Rev,8/25/2012,Yuan Renminbi,Central District,3,Twimbo,2,100,false,3,3,sustainable,30% reduction in energy use,0
+Dr,11/25/2016,Krona,City Centre,2,Shufflebeat,4,10,true,2,4,reclaimed,40% reduction in energy use,1
+Mrs,7/14/2005,Dollar,Central District,2,Fivebridge,2,86,false,3,1,reclaimed,40% reduction in energy use,0
+Ms,8/31/2016,Real,Central District,5,Gabcube,5,61,false,3,4,sustainable,40% reduction in energy use,0
+Mr,6/10/2009,Yuan Renminbi,Town Square,5,Mita,5,54,true,2,4,sustainable,30% reduction in energy use,1
+Dr,7/18/2013,Rupiah,Town Square,2,Youfeed,4,35,false,2,4,sustainable,30% reduction in energy use,0
+Mrs,1/25/2016,Ringgit,Central District,1,Gabcube,3,18,true,2,1,sustainable,40% reduction in energy use,1
+Mr,3/2/2010,Taka,Town Square,1,Babbleopia,5,44,false,3,4,sustainable,40% reduction in energy use,0
+Rev,11/24/2003,Bolivar,Town Square,3,Roomm,5,10,false,3,4,reclaimed,40% reduction in energy use,1
+Rev,12/24/2000,Euro,Town Square,5,Twinder,4,87,false,1,4,certified,40% reduction in energy use,1
+Dr,12/8/2005,Zloty,Town Square,3,Feedfire,2,23,true,2,1,certified,30% reduction in energy use,1
+Mr,11/30/2006,Real,Town Square,3,Topicstorm,4,72,true,2,4,certified,30% reduction in energy use,0
+Honorable,6/18/2010,Peso,Town Square,1,Npath,1,3,false,3,4,certified,40% reduction in energy use,0
+Honorable,8/25/2004,Manat,Central District,4,Rhynoodle,5,88,false,1,1,reclaimed,40% reduction in energy use,1
+Mrs,8/8/2018,Rupiah,Central District,3,Gabcube,5,90,true,1,3,certified,30% reduction in energy use,1
+Mrs,7/16/2018,Yuan Renminbi,Central District,5,Gigashots,5,66,false,1,3,reclaimed,40% reduction in energy use,0
+Dr,1/4/2008,Yen,City Centre,4,Yombu,5,60,false,2,2,reclaimed,30% reduction in energy use,1
+Ms,9/30/2022,Yuan Renminbi,City Centre,3,Twinder,3,99,true,1,4,sustainable,30% reduction in energy use,1
+Ms,5/18/2008,Peso,Town Square,1,Eayo,5,100,false,3,3,sustainable,30% reduction in energy use,0
+Mrs,2/22/2016,Baht,Town Square,2,Buzzdog,3,91,true,3,3,certified,30% reduction in energy use,1
+Rev,6/13/2003,Shilling,Central District,1,Yamia,2,30,false,2,4,reclaimed,30% reduction in energy use,1
+Mr,10/20/2014,Pound,City Centre,3,Innojam,1,41,false,3,3,certified,30% reduction in energy use,0
+Honorable,7/17/2008,Peso,City Centre,3,Buzzshare,1,72,true,3,2,certified,40% reduction in energy use,1
+Mr,6/10/2008,Euro,Central District,1,Dynava,4,67,false,1,2,sustainable,30% reduction in energy use,1
+Dr,9/2/2022,Yuan Renminbi,City Centre,2,Feedfish,4,23,true,3,2,certified,40% reduction in energy use,1
+Honorable,9/10/2012,Yen,City Centre,3,Linkbuzz,3,89,false,1,3,certified,30% reduction in energy use,1
+Ms,8/8/2006,Euro,Central District,5,Oyope,2,34,true,3,1,reclaimed,40% reduction in energy use,0
+Honorable,5/6/2008,Franc,Central District,3,Devbug,2,90,true,2,2,sustainable,40% reduction in energy use,1
+Honorable,4/11/2010,Yuan Renminbi,Central District,2,Photobug,3,86,false,2,4,reclaimed,40% reduction in energy use,1
+Honorable,5/19/2007,Bolivar,City Centre,2,Tambee,5,82,false,3,2,reclaimed,30% reduction in energy use,1
+Mr,11/14/2018,Ruble,Central District,1,Rhyzio,4,28,true,2,4,sustainable,40% reduction in energy use,0
+Rev,2/18/2012,Yuan Renminbi,City Centre,1,Rhynyx,1,46,false,3,2,sustainable,40% reduction in energy use,1
+Mr,10/20/2019,Yuan Renminbi,Central District,2,Rhynoodle,1,15,true,1,2,reclaimed,40% reduction in energy use,1
+Mr,5/7/2013,Euro,Central District,3,Photobug,4,89,false,1,4,reclaimed,30% reduction in energy use,1
+Rev,11/18/2005,Ruble,City Centre,1,Kimia,3,92,true,1,4,reclaimed,40% reduction in energy use,0
+Ms,8/27/2018,Cordoba,City Centre,5,Zoonoodle,5,50,false,3,4,reclaimed,30% reduction in energy use,0
+Mrs,3/17/2018,Peso,Central District,2,Edgetag,2,30,true,2,4,sustainable,40% reduction in energy use,1
+Ms,11/25/2018,Dollar,Town Square,4,JumpXS,2,22,true,1,3,reclaimed,30% reduction in energy use,1
+Mr,12/14/2004,Rand,Town Square,1,Dabjam,5,44,false,2,4,sustainable,30% reduction in energy use,0
+Rev,11/3/2002,Rupiah,Town Square,1,Flashpoint,4,3,false,1,4,sustainable,40% reduction in energy use,0
+Rev,2/22/2001,Rupiah,Town Square,5,Centizu,2,88,false,1,2,reclaimed,30% reduction in energy use,0
+Mr,7/4/2023,Shilling,Central District,3,Bluejam,3,11,false,1,4,sustainable,30% reduction in energy use,1
+Ms,7/19/2017,Peso,City Centre,2,Jaloo,3,63,false,2,2,sustainable,40% reduction in energy use,0
+Dr,6/22/2017,Won,Central District,3,Brainsphere,3,5,true,1,2,reclaimed,40% reduction in energy use,1
+Rev,2/20/2011,Real,City Centre,1,Latz,5,2,true,1,2,reclaimed,30% reduction in energy use,0
+Ms,6/6/2008,Yuan Renminbi,Town Square,5,Vidoo,2,26,false,2,2,certified,30% reduction in energy use,1
+Honorable,9/20/2011,Euro,Central District,5,Wikizz,5,54,false,2,4,certified,30% reduction in energy use,0
+Rev,2/23/2022,Euro,Town Square,4,Thoughtstorm,4,23,true,2,4,certified,30% reduction in energy use,0
+Honorable,2/22/2023,Peso,Town Square,1,Meevee,5,96,false,3,2,reclaimed,40% reduction in energy use,1
+Mrs,11/4/2007,Real,Town Square,2,Lajo,1,39,false,1,1,sustainable,40% reduction in energy use,0
+Rev,5/7/2019,Denar,Central District,2,Tazzy,3,13,true,1,3,certified,40% reduction in energy use,1
+Mrs,8/5/2010,Dollar,City Centre,4,Kwimbee,1,100,true,2,1,sustainable,40% reduction in energy use,1
+Mr,6/18/2010,Real,Town Square,3,Blogtags,2,36,true,1,1,certified,40% reduction in energy use,1
+Mr,1/18/2017,Shilling,Town Square,4,Realfire,4,54,false,2,3,certified,40% reduction in energy use,1
+Mrs,8/1/2008,Yuan Renminbi,City Centre,5,Feednation,2,63,true,2,1,certified,40% reduction in energy use,0
+Mrs,1/5/2004,Euro,Central District,2,Tagtune,4,52,true,1,3,reclaimed,40% reduction in energy use,1
+Honorable,7/23/2004,Ruble,City Centre,2,Meevee,4,86,false,2,4,sustainable,30% reduction in energy use,1
+Rev,8/15/2000,Dollar,City Centre,1,Trudoo,4,45,false,3,1,certified,40% reduction in energy use,0
+Honorable,1/4/2009,Kuna,Central District,2,Centizu,1,71,true,3,3,certified,40% reduction in energy use,1
+Rev,6/10/2012,Rupiah,Central District,4,Twitterbridge,5,91,false,3,4,sustainable,30% reduction in energy use,1
+Dr,8/31/2022,Rupiah,Central District,2,Edgeify,3,41,true,1,2,certified,30% reduction in energy use,0
+Dr,5/19/2007,Rupee,Town Square,5,Meemm,2,70,false,1,2,sustainable,40% reduction in energy use,1
+Mr,8/19/2003,Peso,Central District,4,Browsezoom,5,10,true,2,4,sustainable,30% reduction in energy use,1
+Mr,7/7/2018,Yuan Renminbi,Town Square,3,Edgetag,5,26,true,3,2,sustainable,40% reduction in energy use,0
+Mrs,12/8/2014,Real,Town Square,3,Aimbu,5,29,false,3,4,certified,40% reduction in energy use,1
+Ms,3/2/2012,Rupiah,Town Square,5,Babblestorm,3,5,false,3,4,certified,40% reduction in energy use,1
+Honorable,4/28/2015,Dollar,City Centre,2,Zoonoodle,1,50,false,1,2,certified,30% reduction in energy use,0
+Honorable,10/24/2013,Koruna,City Centre,5,Thoughtbeat,2,39,false,1,4,sustainable,30% reduction in energy use,0
+Rev,8/13/2008,Yuan Renminbi,City Centre,1,Rhycero,2,89,true,3,1,certified,30% reduction in energy use,0
+Rev,11/15/2023,Ariary,Town Square,5,Brainlounge,3,38,false,1,3,certified,40% reduction in energy use,1
+Mrs,12/5/2004,Rupiah,Central District,1,Reallinks,1,33,false,1,3,reclaimed,30% reduction in energy use,0
+Mrs,10/25/2018,Peso,Town Square,4,Tanoodle,3,10,false,3,3,sustainable,30% reduction in energy use,1
+Ms,1/9/2016,Euro,Town Square,4,Jabbertype,1,58,false,2,2,sustainable,40% reduction in energy use,0
+Mrs,6/18/2000,Euro,Central District,3,Aivee,1,62,false,2,4,certified,30% reduction in energy use,0
+Mr,11/7/2021,Euro,Central District,3,Eimbee,2,69,false,2,2,sustainable,40% reduction in energy use,0
+Ms,4/21/2007,Dollar,Town Square,4,Photofeed,4,10,false,3,2,sustainable,40% reduction in energy use,1
+Mr,6/9/2016,Yuan Renminbi,City Centre,3,Riffpath,2,41,false,3,2,certified,40% reduction in energy use,1
+Rev,1/3/2014,Tugrik,City Centre,4,Katz,3,88,false,2,1,reclaimed,40% reduction in energy use,1
+Mr,11/17/2003,Yuan Renminbi,City Centre,3,Yakitri,2,45,false,2,2,reclaimed,30% reduction in energy use,1
+Honorable,3/18/2009,Yuan Renminbi,City Centre,4,Wikivu,2,56,false,3,2,certified,30% reduction in energy use,0
+Rev,5/22/2008,Hryvnia,Town Square,4,Mydeo,5,27,false,1,3,reclaimed,30% reduction in energy use,1
+Ms,5/7/2007,Krona,Town Square,4,Fivebridge,5,55,false,3,3,reclaimed,40% reduction in energy use,1
+Ms,8/25/2013,Euro,Town Square,4,Wikizz,1,70,true,1,4,sustainable,30% reduction in energy use,0
+Dr,2/16/2011,Ruble,Town Square,2,Mycat,5,70,true,3,3,reclaimed,30% reduction in energy use,0
+Ms,5/18/2019,Dinar,Town Square,1,Wordify,4,51,false,3,3,sustainable,40% reduction in energy use,1
+Ms,10/17/2017,Naira,City Centre,3,Yozio,1,37,true,3,1,sustainable,30% reduction in energy use,1
+Mr,5/3/2002,Baht,Town Square,5,Devbug,2,17,false,3,2,sustainable,30% reduction in energy use,0
+Rev,8/15/2012,Peso,City Centre,3,Katz,3,58,false,1,4,reclaimed,40% reduction in energy use,1
+Dr,12/3/2000,Peso,Central District,5,Dabtype,2,59,false,1,2,sustainable,30% reduction in energy use,1
+Ms,1/27/2011,Euro,City Centre,1,Twitterbeat,2,27,false,1,3,reclaimed,30% reduction in energy use,1
+Rev,12/9/2022,Dollar,Town Square,2,Trudeo,2,29,true,3,1,sustainable,40% reduction in energy use,1
+Honorable,10/5/2015,Sol,Town Square,5,Dablist,4,0,false,1,2,certified,40% reduction in energy use,0
+Mr,11/22/2000,Real,Town Square,4,Yadel,3,9,false,1,4,sustainable,40% reduction in energy use,1
+Rev,4/4/2018,Yen,Town Square,2,Twitternation,3,86,true,3,1,certified,30% reduction in energy use,1
+Ms,11/28/2022,Lempira,Town Square,1,Quimba,3,31,true,3,2,reclaimed,40% reduction in energy use,1
+Mr,6/19/2004,Dirham,Central District,4,Fiveclub,5,72,true,3,4,certified,30% reduction in energy use,0
+Mr,4/29/2019,Peso,Town Square,3,Dabvine,2,89,true,1,1,sustainable,40% reduction in energy use,1
+Ms,12/3/2002,Dinar,City Centre,5,Blogtag,3,50,false,1,2,sustainable,30% reduction in energy use,1
+Ms,7/26/2006,Rupiah,Central District,4,Kazu,3,80,false,3,4,sustainable,40% reduction in energy use,0
+Mr,4/20/2016,Dollar,City Centre,1,Chatterbridge,1,58,true,1,4,sustainable,30% reduction in energy use,1
+Honorable,4/9/2010,Dong,Town Square,3,Twimm,3,5,true,2,4,certified,30% reduction in energy use,1
+Honorable,4/13/2019,Yuan Renminbi,Town Square,1,Youtags,2,98,false,3,4,sustainable,40% reduction in energy use,1
+Dr,3/17/2011,Yuan Renminbi,City Centre,4,Janyx,4,46,true,2,3,sustainable,30% reduction in energy use,0
+Honorable,1/21/2019,Yuan Renminbi,Town Square,3,Photofeed,1,85,false,2,2,reclaimed,40% reduction in energy use,0
+Rev,9/23/2005,Cordoba,Town Square,1,Eamia,3,96,true,3,4,certified,40% reduction in energy use,0
+Honorable,7/21/2021,Franc,City Centre,2,Rhycero,4,44,false,3,3,reclaimed,40% reduction in energy use,1
+Dr,6/7/2009,Rupee,City Centre,5,Zazio,4,63,false,2,4,reclaimed,40% reduction in energy use,1
+Rev,8/11/2002,Peso,City Centre,2,Cogilith,4,62,true,3,3,sustainable,30% reduction in energy use,0
+Mr,3/9/2005,Yuan Renminbi,Central District,3,Topicblab,1,1,true,1,3,certified,30% reduction in energy use,1
+Dr,5/13/2001,Peso,City Centre,1,Npath,2,55,true,2,3,sustainable,40% reduction in energy use,0
+Dr,10/16/2017,Rupiah,Town Square,3,Meetz,2,26,false,1,2,sustainable,30% reduction in energy use,1
+Honorable,1/4/2012,Yuan Renminbi,City Centre,3,Flashpoint,5,83,true,3,2,reclaimed,30% reduction in energy use,1
+Rev,8/6/2023,Dram,Central District,3,Twitternation,1,53,true,3,2,sustainable,30% reduction in energy use,1
+Mr,2/25/2017,Peso,Central District,2,Mydo,4,78,true,3,2,sustainable,40% reduction in energy use,0
+Dr,3/15/2022,Yuan Renminbi,City Centre,1,Skivee,5,1,true,3,4,sustainable,30% reduction in energy use,1
+Mrs,7/15/2017,Naira,Central District,1,Bubblemix,5,55,false,3,1,sustainable,40% reduction in energy use,1
+Honorable,7/4/2004,Peso,City Centre,4,Skaboo,2,32,true,3,1,reclaimed,40% reduction in energy use,1
+Mr,1/10/2007,Dirham,City Centre,1,Thoughtbeat,3,11,true,1,1,certified,40% reduction in energy use,1
+Dr,9/1/2001,Yuan Renminbi,Central District,4,Trudoo,2,45,true,3,3,reclaimed,30% reduction in energy use,0
+Ms,9/8/2022,Yuan Renminbi,City Centre,3,Feedfish,2,57,true,2,3,reclaimed,40% reduction in energy use,1
+Honorable,4/1/2006,Dinar,Town Square,2,Devshare,3,16,true,3,2,reclaimed,40% reduction in energy use,0
+Dr,2/16/2008,Rial,City Centre,2,Zoozzy,3,1,true,1,4,sustainable,30% reduction in energy use,1
+Mrs,4/15/2000,Dram,Central District,4,Blogpad,2,56,false,1,2,reclaimed,30% reduction in energy use,1
+Rev,11/9/2023,Peso,Town Square,1,Tavu,5,78,false,3,2,reclaimed,40% reduction in energy use,0
+Mrs,8/14/2023,Euro,Central District,3,Edgetag,3,92,true,1,4,certified,40% reduction in energy use,1
+Mr,2/13/2023,Euro,Town Square,5,Digitube,1,41,true,2,4,reclaimed,40% reduction in energy use,0
+Honorable,10/21/2022,Sol,Central District,1,Twitterbeat,3,95,false,1,4,sustainable,40% reduction in energy use,0
+Mrs,6/6/2005,Baht,City Centre,2,Wordtune,4,100,false,2,2,sustainable,40% reduction in energy use,1
+Mr,4/15/2006,Ringgit,Town Square,5,Rhycero,4,81,false,1,3,certified,40% reduction in energy use,0
+Mr,8/13/2001,Peso,Central District,5,Shuffledrive,3,82,true,2,3,certified,30% reduction in energy use,0
+Rev,9/28/2007,Sol,City Centre,3,Twitternation,3,80,false,3,3,certified,30% reduction in energy use,0
+Dr,1/24/2014,Yuan Renminbi,Central District,5,Yakijo,3,54,true,2,1,reclaimed,40% reduction in energy use,1
+Mrs,1/30/2022,Peso,Central District,4,Zoozzy,3,2,false,1,1,reclaimed,40% reduction in energy use,0
+Mrs,12/27/2001,Euro,City Centre,1,Oyoyo,5,32,false,1,1,reclaimed,30% reduction in energy use,0
+Dr,11/14/2002,Quetzal,City Centre,3,Zoonder,1,64,true,2,2,reclaimed,30% reduction in energy use,1
+Mr,12/29/2015,Yuan Renminbi,Town Square,2,Realcube,5,82,true,3,4,certified,30% reduction in energy use,1
+Mrs,11/3/2018,Yuan Renminbi,Town Square,2,Quamba,1,76,true,1,3,sustainable,40% reduction in energy use,1
+Mr,6/14/2016,Pound,Central District,2,Twitterworks,5,71,true,3,1,certified,40% reduction in energy use,1
+Dr,7/30/2016,Naira,City Centre,4,Dabfeed,2,0,true,3,4,reclaimed,40% reduction in energy use,0
+Honorable,10/19/2003,Peso,Town Square,2,Mydeo,1,5,false,2,4,reclaimed,30% reduction in energy use,1
+Rev,12/23/2001,Peso,Town Square,5,Jabbersphere,4,32,false,2,1,sustainable,40% reduction in energy use,0
+Mrs,9/4/2020,Yuan Renminbi,City Centre,1,Jaxbean,4,79,true,3,2,sustainable,30% reduction in energy use,1
+Dr,5/17/2002,Ruble,Town Square,4,Wikizz,5,90,false,2,4,reclaimed,40% reduction in energy use,0
+Honorable,7/7/2021,Dollar,Town Square,2,Oyoloo,4,70,false,2,4,certified,30% reduction in energy use,1
+Rev,4/16/2012,Rupiah,City Centre,4,Jabberstorm,3,18,true,3,3,reclaimed,40% reduction in energy use,0
+Honorable,1/18/2015,Dollar,Town Square,2,Linktype,3,56,false,1,4,certified,40% reduction in energy use,0
+Mr,10/8/2010,Rupiah,Central District,3,Realblab,4,35,true,1,3,reclaimed,40% reduction in energy use,0
+Mrs,2/7/2020,Euro,Town Square,1,Skiptube,2,38,false,2,1,sustainable,40% reduction in energy use,0
+Dr,8/25/2023,Peso,Town Square,5,Aibox,4,18,false,1,3,certified,40% reduction in energy use,1
+Honorable,10/16/2012,Ruble,Central District,1,Cogidoo,1,59,false,3,4,certified,40% reduction in energy use,1
+Ms,9/16/2017,Euro,Town Square,2,Wordware,4,100,false,3,4,sustainable,40% reduction in energy use,0
+Ms,5/5/2012,Dollar,City Centre,3,Twitterbridge,4,75,false,1,4,sustainable,30% reduction in energy use,0
+Dr,3/24/2015,Peso,Town Square,4,Kwimbee,5,75,true,1,2,reclaimed,30% reduction in energy use,1
+Mrs,10/27/2022,Euro,Town Square,5,Trilia,1,84,true,1,2,sustainable,40% reduction in energy use,0
+Mrs,1/7/2016,Gourde,City Centre,2,Skimia,4,21,false,1,2,reclaimed,30% reduction in energy use,1
+Ms,11/20/2017,Yuan Renminbi,City Centre,1,Browsebug,1,78,false,2,1,sustainable,40% reduction in energy use,0
+Ms,10/10/2004,Peso,Central District,3,Blogpad,2,13,false,2,1,reclaimed,30% reduction in energy use,1
+Dr,9/16/2015,Yuan Renminbi,Central District,1,Shufflester,5,79,false,3,2,certified,30% reduction in energy use,0
+Mr,10/17/2004,Dinar,Town Square,5,Yodo,5,59,false,3,3,sustainable,40% reduction in energy use,1
+Rev,3/28/2004,Euro,City Centre,5,Wikido,3,53,false,1,1,reclaimed,40% reduction in energy use,1
+Mrs,11/25/2009,Baht,Town Square,3,Kazio,1,19,false,3,3,sustainable,30% reduction in energy use,1
+Mrs,11/12/2015,Rupiah,City Centre,4,Tekfly,2,43,false,2,3,sustainable,40% reduction in energy use,1
+Mr,5/17/2009,Peso,Central District,2,Tagfeed,3,5,false,1,4,sustainable,30% reduction in energy use,1
+Mr,10/5/2004,Dollar,Town Square,1,Edgeify,1,81,false,1,2,sustainable,30% reduction in energy use,1
+Honorable,3/24/2007,Dollar,Central District,1,Dazzlesphere,4,0,true,3,2,reclaimed,40% reduction in energy use,1
+Rev,4/27/2013,Yuan Renminbi,Central District,4,Topicblab,5,58,true,2,2,reclaimed,40% reduction in energy use,0
+Mrs,9/20/2000,Rupiah,Town Square,2,Photolist,3,20,true,1,3,sustainable,30% reduction in energy use,1
+Rev,5/20/2004,Rupiah,City Centre,2,Thoughtstorm,3,28,false,1,3,sustainable,40% reduction in energy use,1
+Dr,12/2/2018,Yuan Renminbi,City Centre,2,Topicware,5,96,true,1,1,sustainable,30% reduction in energy use,0
+Dr,2/9/2008,Rupiah,Town Square,3,Thoughtbeat,3,78,false,3,1,reclaimed,40% reduction in energy use,1
+Rev,2/15/2007,Yuan Renminbi,Town Square,3,Jaxbean,2,12,true,2,2,sustainable,40% reduction in energy use,0
+Ms,2/15/2022,Yuan Renminbi,City Centre,1,Twitterbeat,2,16,true,2,1,certified,40% reduction in energy use,0
+Mrs,5/24/2021,Euro,City Centre,2,Browsedrive,4,0,false,2,4,certified,30% reduction in energy use,0
+Ms,1/27/2021,Dollar,City Centre,2,Blogspan,1,33,true,1,4,certified,40% reduction in energy use,0
+Honorable,6/16/2012,Rupee,Central District,3,Tagtune,1,91,true,2,3,reclaimed,30% reduction in energy use,0
+Honorable,6/9/2006,Taka,Town Square,3,Kare,5,45,true,3,3,reclaimed,40% reduction in energy use,0
+Ms,1/9/2012,Rupiah,City Centre,5,Riffpedia,1,38,false,3,1,certified,40% reduction in energy use,0
+Rev,10/28/2005,Marka,Town Square,3,Abata,4,73,true,3,2,sustainable,30% reduction in energy use,0
+Mrs,11/7/2005,Euro,Town Square,1,Meejo,3,84,false,2,3,reclaimed,40% reduction in energy use,0
+Ms,12/27/2013,Franc,Central District,5,Kayveo,1,20,false,3,4,reclaimed,40% reduction in energy use,0
+Mr,9/4/2012,Rupiah,City Centre,2,Riffpedia,1,52,true,3,4,reclaimed,30% reduction in energy use,0
+Mrs,4/15/2006,Yuan Renminbi,Central District,1,Demimbu,4,71,false,3,2,sustainable,30% reduction in energy use,1
+Ms,12/1/2001,Dollar,Central District,3,Ailane,1,49,true,2,1,sustainable,30% reduction in energy use,0
+Dr,7/3/2005,Euro,City Centre,1,Jaxworks,3,72,false,1,2,certified,40% reduction in energy use,0
+Mrs,11/18/2017,Yuan Renminbi,Central District,1,Topiczoom,4,58,false,2,4,certified,30% reduction in energy use,1
+Honorable,10/8/2015,Yuan Renminbi,City Centre,4,Tagpad,2,80,true,1,3,sustainable,40% reduction in energy use,1
+Honorable,1/30/2014,Litas,Town Square,4,Gigabox,1,94,true,1,2,certified,40% reduction in energy use,1
+Mrs,8/31/2014,Afghani,Central District,2,Vitz,3,16,false,1,4,reclaimed,40% reduction in energy use,1
+Mr,5/29/2001,Rupiah,Town Square,5,Meembee,1,24,true,1,4,sustainable,30% reduction in energy use,0
+Dr,9/19/2009,Rupiah,Central District,4,Dynava,3,42,true,1,3,certified,30% reduction in energy use,1
+Ms,8/8/2012,Krona,City Centre,2,Eabox,4,24,false,1,3,reclaimed,30% reduction in energy use,1
+Honorable,2/15/2020,Real,City Centre,4,Cogibox,5,2,true,3,2,certified,40% reduction in energy use,1
+Mr,6/15/2014,Zloty,Central District,4,Youtags,1,3,true,2,3,certified,30% reduction in energy use,0
+Dr,9/14/2003,Shilling,Central District,2,Nlounge,3,97,false,3,4,certified,40% reduction in energy use,1
+Mrs,10/15/2007,Rupiah,Central District,3,Quaxo,5,34,true,1,2,certified,30% reduction in energy use,0
+Ms,10/26/2019,Yuan Renminbi,Town Square,3,Zoomdog,1,5,true,3,4,certified,40% reduction in energy use,1
+Dr,2/20/2012,Ruble,Town Square,4,Shuffledrive,1,5,true,3,3,reclaimed,40% reduction in energy use,0
+Dr,9/4/2016,Peso,Central District,2,Kimia,5,0,true,1,4,reclaimed,40% reduction in energy use,0
+Dr,7/1/2021,Yuan Renminbi,City Centre,1,Trudoo,1,20,false,3,4,sustainable,40% reduction in energy use,1
+Mr,1/26/2001,Peso,Town Square,5,Muxo,5,47,false,3,1,certified,30% reduction in energy use,1
+Honorable,7/28/2017,Ruble,Central District,4,Meezzy,2,5,true,1,2,reclaimed,30% reduction in energy use,0
+Rev,6/26/2010,Rupiah,City Centre,2,Fatz,2,95,false,3,4,certified,40% reduction in energy use,0
+Ms,1/2/2020,Rupiah,Central District,3,Flashset,3,70,false,2,3,sustainable,40% reduction in energy use,0
+Dr,9/26/2006,Sol,Central District,5,Tazzy,1,23,false,3,4,certified,40% reduction in energy use,0
+Honorable,6/17/2021,Koruna,Town Square,2,Babbleset,5,16,true,2,2,sustainable,30% reduction in energy use,0
+Dr,12/5/2010,Yuan Renminbi,Central District,3,Wordware,4,24,false,2,2,reclaimed,40% reduction in energy use,0
+Rev,12/4/2006,Krona,City Centre,1,Shufflebeat,3,77,false,2,1,certified,30% reduction in energy use,1
+Ms,7/13/2011,Zloty,Central District,3,Realmix,3,41,false,3,4,sustainable,30% reduction in energy use,0
+Mr,8/24/2010,Hryvnia,City Centre,2,Fliptune,1,65,true,2,2,certified,40% reduction in energy use,1
+Mr,7/14/2017,Peso,Town Square,5,Minyx,1,81,true,2,4,sustainable,40% reduction in energy use,1
+Rev,3/3/2005,Baht,Central District,1,Eare,3,87,false,2,4,sustainable,40% reduction in energy use,1
+Honorable,4/15/2006,Zloty,Central District,4,Jabberstorm,4,63,false,2,4,sustainable,40% reduction in energy use,1
+Mr,3/12/2003,Afghani,City Centre,3,Jayo,1,88,true,2,1,certified,40% reduction in energy use,0
+Honorable,3/9/2004,Yuan Renminbi,Town Square,2,Devify,2,61,false,3,2,reclaimed,30% reduction in energy use,1
+Rev,8/2/2005,Ruble,Central District,5,Skinder,5,82,false,3,1,reclaimed,40% reduction in energy use,1
+Honorable,11/21/2009,Dollar,City Centre,3,Buzzbean,3,25,false,2,3,sustainable,30% reduction in energy use,1
+Mr,6/24/2017,Euro,Town Square,4,Yodo,1,22,true,2,2,reclaimed,30% reduction in energy use,0
+Honorable,11/4/2001,Dinar,Town Square,5,Jaxspan,1,59,true,3,2,certified,30% reduction in energy use,1
+Mrs,12/31/2005,Rupee,City Centre,4,Brainverse,3,88,false,3,3,sustainable,30% reduction in energy use,1
+Mr,10/30/2019,Rupiah,Town Square,5,Plambee,1,96,true,2,2,sustainable,30% reduction in energy use,0
+Rev,12/28/2007,Real,Central District,3,Yabox,5,44,false,2,1,sustainable,40% reduction in energy use,1
+Rev,11/30/2003,Krona,Central District,4,JumpXS,2,26,true,2,4,sustainable,40% reduction in energy use,1
+Dr,7/18/2007,Forint,City Centre,5,Zoombeat,3,72,true,2,4,certified,40% reduction in energy use,1
+Rev,8/15/2023,Yuan Renminbi,Town Square,1,Photospace,4,55,false,1,4,sustainable,30% reduction in energy use,1
+Rev,5/16/2012,Euro,Town Square,5,Feedfire,2,39,false,1,2,reclaimed,40% reduction in energy use,1
+Ms,4/15/2005,Naira,Town Square,2,DabZ,1,48,false,2,3,reclaimed,30% reduction in energy use,1
+Mr,4/11/2019,Baht,Town Square,2,Centimia,5,18,false,2,4,reclaimed,40% reduction in energy use,1
+Rev,11/5/2006,Rupiah,Central District,4,Lazz,2,75,true,3,4,certified,30% reduction in energy use,1
+Honorable,6/20/2017,Yuan Renminbi,Town Square,3,Gabtype,2,82,false,1,3,certified,30% reduction in energy use,0
+Rev,8/22/2020,Yuan Renminbi,Central District,2,Jabberbean,5,83,true,1,1,sustainable,40% reduction in energy use,0
+Rev,2/5/2006,Rial,Central District,5,LiveZ,5,53,false,2,3,reclaimed,40% reduction in energy use,1
+Rev,3/1/2007,Rupiah,City Centre,5,Photobug,1,38,true,3,4,sustainable,40% reduction in energy use,1
+Honorable,10/28/2018,Rupiah,Central District,4,Feedbug,2,18,true,2,3,sustainable,40% reduction in energy use,1
+Dr,7/10/2007,Dollar,Town Square,2,BlogXS,5,56,true,3,3,certified,30% reduction in energy use,1
+Mrs,7/31/2006,Krona,Town Square,1,Jayo,5,50,false,3,3,reclaimed,40% reduction in energy use,0
+Rev,7/16/2022,Peso,Town Square,2,Kwilith,4,96,true,2,3,reclaimed,40% reduction in energy use,1
+Honorable,10/15/2013,Krone,Town Square,1,Topicshots,3,35,false,2,4,sustainable,40% reduction in energy use,0
+Dr,4/29/2004,Birr,Town Square,4,Photobug,4,69,false,2,3,certified,30% reduction in energy use,0
+Honorable,8/23/2016,Euro,Central District,5,Yodo,4,89,true,2,2,certified,40% reduction in energy use,1
+Dr,4/7/2017,Krone,City Centre,4,Vimbo,5,30,false,3,2,sustainable,30% reduction in energy use,0
+Mrs,5/16/2023,Rupiah,Central District,3,Thoughtblab,2,82,false,3,3,reclaimed,40% reduction in energy use,0
+Rev,5/23/2014,Euro,Town Square,1,Yadel,4,38,true,3,2,certified,40% reduction in energy use,0
+Mr,6/26/2013,Yuan Renminbi,City Centre,2,Yodel,5,7,true,2,4,reclaimed,40% reduction in energy use,1
+Ms,4/3/2007,Koruna,City Centre,5,Vipe,5,57,true,2,2,certified,30% reduction in energy use,1
+Mrs,10/13/2006,Euro,Central District,3,Youspan,3,35,false,2,3,reclaimed,30% reduction in energy use,1
+Ms,8/19/2021,Ruble,Central District,2,Topiclounge,2,59,true,2,3,sustainable,40% reduction in energy use,0
+Honorable,2/7/2010,Rupee,City Centre,1,Jayo,1,2,true,2,2,reclaimed,40% reduction in energy use,0
+Honorable,7/31/2013,Yuan Renminbi,Town Square,4,Jetpulse,1,51,true,1,4,certified,40% reduction in energy use,0
+Honorable,7/18/2022,Peso,Central District,4,Jabbercube,4,46,false,3,2,sustainable,40% reduction in energy use,1
+Mr,12/10/2001,Shekel,City Centre,1,Shuffletag,4,91,true,2,3,certified,40% reduction in energy use,1
+Dr,7/31/2017,Yuan Renminbi,Town Square,1,Demivee,5,89,true,2,4,reclaimed,40% reduction in energy use,1
+Dr,6/26/2016,Euro,Town Square,4,Zoomlounge,3,29,true,3,2,sustainable,40% reduction in energy use,1
+Mrs,8/7/2006,Ruble,City Centre,3,Dynabox,1,23,true,3,1,reclaimed,40% reduction in energy use,0
+Rev,9/19/2014,Euro,Central District,3,Wordware,3,53,true,3,3,certified,30% reduction in energy use,1
+Dr,6/23/2012,Euro,Central District,5,Buzzbean,2,84,false,3,2,reclaimed,40% reduction in energy use,0
+Ms,4/25/2013,Ariary,City Centre,4,Fatz,4,85,true,2,1,reclaimed,30% reduction in energy use,0
+Dr,6/3/2015,Euro,City Centre,2,Livetube,2,42,true,3,2,sustainable,40% reduction in energy use,0
+Mrs,10/6/2009,Colon,Town Square,4,Wordpedia,3,100,false,3,3,reclaimed,30% reduction in energy use,1
+Honorable,12/19/2001,Rupiah,Town Square,5,Feedfire,2,51,true,1,2,reclaimed,30% reduction in energy use,0
+Rev,10/25/2011,Naira,Town Square,5,Babbleopia,3,70,true,3,1,reclaimed,40% reduction in energy use,1
+Rev,1/9/2023,Zloty,Town Square,1,Gigashots,5,4,true,3,4,sustainable,30% reduction in energy use,1
+Rev,2/4/2013,Peso,Town Square,5,Trilith,1,25,false,2,1,certified,30% reduction in energy use,0
+Honorable,1/24/2015,Franc,City Centre,1,Eazzy,1,13,true,2,3,reclaimed,40% reduction in energy use,0
+Mrs,5/13/2011,Rupiah,Central District,5,Photolist,4,37,true,3,4,certified,40% reduction in energy use,1
+Dr,4/2/2000,Won,Central District,5,Browsecat,1,17,true,1,3,reclaimed,40% reduction in energy use,1
+Mr,9/9/2020,Rand,Town Square,4,Browsezoom,5,49,false,3,2,certified,40% reduction in energy use,0
+Dr,12/17/2000,Zloty,City Centre,3,Topiclounge,1,71,true,2,2,sustainable,30% reduction in energy use,0
+Dr,6/16/2007,Peso,Town Square,4,Wordtune,4,94,false,3,3,reclaimed,30% reduction in energy use,0
+Honorable,8/12/2015,Tenge,Town Square,2,Demizz,1,74,false,3,1,certified,40% reduction in energy use,1
+Mrs,1/8/2009,Dollar,Town Square,5,Fiveclub,2,15,false,1,1,reclaimed,40% reduction in energy use,1
+Mrs,8/1/2012,Rupiah,City Centre,4,Wikizz,3,19,true,1,2,sustainable,40% reduction in energy use,0
+Mr,3/9/2015,Euro,Town Square,5,Wordpedia,5,74,true,1,2,reclaimed,40% reduction in energy use,0
+Dr,5/14/2011,Kuna,Central District,4,Ailane,2,41,false,2,4,sustainable,30% reduction in energy use,0
+Rev,5/6/2002,Rupiah,City Centre,4,Roomm,2,3,false,3,3,reclaimed,40% reduction in energy use,0
+Mrs,10/12/2001,Peso,City Centre,5,Teklist,4,26,false,2,3,reclaimed,30% reduction in energy use,1
+Dr,1/16/2014,Ruble,Town Square,3,Linkbridge,1,47,true,2,3,reclaimed,40% reduction in energy use,1
+Honorable,10/12/2007,Pound,Central District,5,Twitterlist,4,83,true,2,2,reclaimed,40% reduction in energy use,0
+Mr,6/26/2013,Yen,Town Square,4,Tagfeed,4,45,true,2,2,sustainable,30% reduction in energy use,1
+Ms,8/31/2020,Rupiah,City Centre,5,Zoonoodle,2,72,true,3,4,certified,30% reduction in energy use,0
+Mr,2/4/2010,Euro,City Centre,4,Voolith,5,50,false,2,2,sustainable,40% reduction in energy use,1
+Mr,2/2/2021,Real,Town Square,4,Eare,1,52,true,3,3,reclaimed,30% reduction in energy use,0
+Dr,9/23/2020,Dollar,City Centre,5,Shuffletag,3,25,true,2,4,certified,40% reduction in energy use,0
+Rev,7/9/2005,Peso,Town Square,4,Tagfeed,3,13,true,3,4,certified,40% reduction in energy use,1
+Mr,7/15/2018,Yuan Renminbi,City Centre,2,Ailane,2,80,true,2,1,certified,40% reduction in energy use,0
+Rev,2/7/2011,Afghani,City Centre,4,Vimbo,2,34,true,2,4,certified,40% reduction in energy use,1
+Ms,12/4/2013,Zloty,Central District,4,Edgeblab,2,12,true,2,1,certified,40% reduction in energy use,1
+Honorable,5/7/2016,Euro,Town Square,3,Blogtag,3,81,false,2,1,certified,30% reduction in energy use,0
+Ms,8/13/2015,Yuan Renminbi,Town Square,2,Katz,5,48,false,3,3,sustainable,30% reduction in energy use,0
+Honorable,6/8/2014,Yuan Renminbi,Town Square,2,Twitterworks,4,47,false,2,4,sustainable,30% reduction in energy use,0
+Mr,7/5/2000,Euro,Town Square,3,Devcast,1,77,false,2,1,certified,40% reduction in energy use,0
+Rev,6/30/2015,Taka,City Centre,5,Ooba,1,75,true,3,4,certified,40% reduction in energy use,0
+Rev,11/4/2017,Euro,Central District,5,Yakitri,4,8,false,3,1,certified,30% reduction in energy use,0
+Ms,8/16/2002,Dollar,Central District,1,Kazio,1,82,true,3,3,certified,30% reduction in energy use,1
+Mr,3/25/2001,Krona,Central District,4,Roodel,2,59,false,2,2,certified,40% reduction in energy use,1
+Mrs,10/22/2011,Ruble,Town Square,2,Gigazoom,2,77,true,1,2,reclaimed,30% reduction in energy use,0
+Ms,12/17/2019,Pound,Central District,3,Yacero,3,60,false,3,2,sustainable,40% reduction in energy use,0
+Rev,8/3/2023,Dollar,City Centre,1,Meembee,5,73,false,2,2,sustainable,40% reduction in energy use,0
+Mrs,4/4/2003,Rupiah,Central District,2,Linklinks,1,95,true,1,3,sustainable,40% reduction in energy use,0
+Honorable,7/12/2007,Yuan Renminbi,Town Square,2,Trupe,1,4,false,2,3,reclaimed,40% reduction in energy use,0
+Honorable,3/9/2004,Euro,Central District,1,Jaxspan,2,1,false,2,1,sustainable,30% reduction in energy use,0
+Ms,7/17/2020,Kuna,Town Square,4,Vinder,3,14,true,3,2,certified,40% reduction in energy use,1
+Rev,4/3/2009,Yuan Renminbi,Central District,3,Tagtune,4,46,false,2,4,sustainable,30% reduction in energy use,0
+Dr,2/23/2013,Ringgit,Town Square,3,Devcast,1,39,false,2,2,reclaimed,30% reduction in energy use,1
+Rev,12/9/2013,Euro,Town Square,2,Tagpad,1,68,false,2,4,reclaimed,30% reduction in energy use,0
+Ms,8/25/2018,Ruble,Town Square,5,Cogidoo,5,92,true,3,4,sustainable,40% reduction in energy use,0
+Mr,5/14/2019,Euro,Town Square,3,Buzzster,1,9,true,2,1,sustainable,40% reduction in energy use,1
+Dr,3/22/2014,Zloty,Town Square,1,Oyonder,2,42,false,1,2,certified,40% reduction in energy use,0
+Ms,1/14/2021,Yuan Renminbi,Town Square,2,Skippad,4,41,false,2,1,certified,40% reduction in energy use,1
+Mrs,5/27/2022,Peso,Central District,3,Flashdog,5,37,true,3,2,certified,40% reduction in energy use,1
+Mr,3/21/2010,Peso,Central District,1,Browseblab,3,96,false,3,1,sustainable,30% reduction in energy use,0
+Rev,5/20/2017,Peso,Central District,2,Agivu,4,16,false,3,3,reclaimed,30% reduction in energy use,1
+Mrs,5/18/2003,Peso,Town Square,5,Skilith,5,88,true,2,3,reclaimed,40% reduction in energy use,0
+Mr,6/3/2009,Koruna,Central District,4,Twitterworks,3,72,false,2,4,reclaimed,30% reduction in energy use,0
+Mrs,8/11/2001,Euro,Town Square,4,Vitz,1,54,false,3,3,reclaimed,30% reduction in energy use,0
+Dr,1/25/2003,Euro,Town Square,1,Skyble,3,37,false,1,4,certified,30% reduction in energy use,0
+Rev,8/4/2006,Yuan Renminbi,City Centre,3,Oyondu,2,13,false,2,4,certified,30% reduction in energy use,1
+Dr,3/9/2013,Lev,Central District,1,Ainyx,4,82,true,1,3,sustainable,30% reduction in energy use,1
+Mrs,10/14/2016,Peso,Central District,3,Dynava,1,26,false,1,2,certified,40% reduction in energy use,0
+Mrs,9/19/2016,Euro,Town Square,3,Quamba,3,94,true,1,2,reclaimed,30% reduction in energy use,0
+Mrs,9/30/2017,Yuan Renminbi,City Centre,1,Chatterbridge,2,0,false,2,1,certified,30% reduction in energy use,0
+Mr,3/1/2007,Sol,City Centre,1,Layo,4,28,true,2,3,sustainable,40% reduction in energy use,0
+Mrs,7/29/2009,Rial,City Centre,3,Katz,4,86,false,3,2,sustainable,40% reduction in energy use,0
+Mr,7/9/2012,Rupiah,Town Square,4,Roombo,4,100,false,1,4,sustainable,40% reduction in energy use,0
+Honorable,10/23/2004,Ruble,Central District,3,DabZ,2,27,false,2,2,sustainable,40% reduction in energy use,1
+Mrs,4/20/2022,Zloty,City Centre,1,Feednation,1,52,false,1,4,sustainable,30% reduction in energy use,0
+Mr,8/18/2020,Koruna,Town Square,3,Trupe,4,32,true,3,1,sustainable,40% reduction in energy use,0
+Honorable,2/8/2018,Dirham,Central District,5,Fivechat,1,71,false,3,4,reclaimed,30% reduction in energy use,1
+Rev,8/23/2006,Dollar,City Centre,2,Camido,4,52,true,1,3,sustainable,40% reduction in energy use,0
+Mr,3/6/2002,Euro,City Centre,4,Realcube,5,11,true,2,3,reclaimed,40% reduction in energy use,0
+Mrs,11/19/2004,Peso,City Centre,4,Vitz,2,26,false,1,4,certified,30% reduction in energy use,0
+Rev,7/27/2000,Peso,City Centre,2,Avaveo,4,97,true,1,3,sustainable,40% reduction in energy use,1
+Mr,6/4/2009,Yuan Renminbi,Central District,5,Fivespan,3,54,true,1,2,certified,40% reduction in energy use,0
+Mrs,6/5/2020,Dollar,Town Square,2,Trupe,4,95,false,3,1,reclaimed,30% reduction in energy use,0
+Honorable,1/20/2021,Ruble,Central District,4,Browsecat,1,68,true,3,3,reclaimed,30% reduction in energy use,1
+Dr,1/8/2008,Peso,Town Square,5,Riffwire,1,72,false,3,2,reclaimed,40% reduction in energy use,1
+Honorable,3/13/2016,Yen,Town Square,5,Kaymbo,2,45,true,2,1,sustainable,30% reduction in energy use,1
+Rev,4/6/2000,Ruble,Central District,2,Lazzy,3,62,true,3,4,sustainable,30% reduction in energy use,1
+Mr,6/16/2021,Yen,Town Square,4,Rhyloo,5,89,false,3,4,certified,40% reduction in energy use,1
+Mr,11/10/2013,Shilling,Central District,2,Buzzdog,4,45,true,2,2,certified,30% reduction in energy use,1
+Dr,7/30/2020,Peso,Central District,4,Bubblemix,5,64,false,2,2,certified,30% reduction in energy use,1
+Ms,5/5/2003,Franc,Town Square,4,Fivechat,2,100,false,1,3,certified,40% reduction in energy use,0
+Mr,7/14/2014,Ruble,Town Square,3,Jabberstorm,1,59,false,3,1,sustainable,30% reduction in energy use,0
+Rev,6/27/2017,Marka,City Centre,2,Livetube,4,32,true,3,1,certified,30% reduction in energy use,1
+Dr,8/20/2010,Lek,Town Square,5,Ooba,4,56,false,2,1,reclaimed,30% reduction in energy use,1
+Ms,10/2/2000,Peso,Central District,3,Jabbercube,2,25,true,2,1,reclaimed,30% reduction in energy use,0
+Rev,1/25/2000,Dollar,City Centre,1,Livetube,1,12,false,1,1,certified,30% reduction in energy use,0
+Dr,10/2/2022,Rupiah,Town Square,4,Shufflebeat,4,52,true,2,2,certified,40% reduction in energy use,1
+Honorable,10/22/2002,Quetzal,Central District,3,Tekfly,4,89,true,1,4,reclaimed,40% reduction in energy use,0
+Ms,11/24/2018,Franc,Central District,1,Jaxspan,1,68,false,1,2,sustainable,30% reduction in energy use,0
+Ms,2/5/2013,Sol,City Centre,5,Topdrive,1,96,false,2,3,certified,40% reduction in energy use,1
+Ms,9/14/2008,Peso,Central District,2,Kazu,2,10,true,2,2,sustainable,30% reduction in energy use,0
+Mr,8/15/2001,Peso,Central District,4,Devify,4,26,true,2,1,sustainable,40% reduction in energy use,0
+Mrs,11/28/2000,Yuan Renminbi,Town Square,2,Janyx,3,31,false,1,4,sustainable,30% reduction in energy use,0
+Honorable,4/17/2001,Peso,Town Square,2,Chatterpoint,3,81,true,3,2,sustainable,40% reduction in energy use,0
+Mrs,10/20/2019,Peso,City Centre,3,Skyba,2,39,false,2,2,sustainable,30% reduction in energy use,0
+Rev,10/5/2021,Koruna,Town Square,2,Thoughtstorm,1,0,true,3,2,certified,40% reduction in energy use,0
+Honorable,4/29/2001,Euro,Central District,1,Thoughtmix,3,29,true,3,2,certified,30% reduction in energy use,1
+Honorable,10/17/2023,Real,City Centre,2,Viva,4,66,false,3,4,certified,40% reduction in energy use,0
+Mr,12/16/2020,Yuan Renminbi,Central District,5,Skipfire,3,56,true,1,2,certified,30% reduction in energy use,1
+Ms,7/24/2015,Yuan Renminbi,City Centre,2,Quamba,4,39,true,3,1,sustainable,40% reduction in energy use,0
+Mr,1/20/2000,Peso,Town Square,5,Edgeify,2,78,false,3,2,sustainable,40% reduction in energy use,0
+Mrs,10/12/2002,Yen,Town Square,2,Pixope,5,52,false,2,4,sustainable,30% reduction in energy use,1
+Ms,12/18/2001,Rupiah,Central District,5,Livepath,4,83,false,1,2,certified,40% reduction in energy use,0
+Dr,6/10/2023,Real,City Centre,2,Latz,2,57,true,1,2,reclaimed,40% reduction in energy use,0
+Mrs,11/5/2004,Euro,Central District,4,Gigazoom,1,70,true,1,2,reclaimed,40% reduction in energy use,0
+Ms,12/21/2014,Krona,Town Square,5,Yakitri,4,25,true,1,2,certified,30% reduction in energy use,1
+Mr,5/20/2012,Rial,Town Square,2,Bluezoom,5,23,true,3,3,certified,40% reduction in energy use,1
+Dr,10/3/2017,Yuan Renminbi,Central District,4,Abatz,3,50,true,1,1,reclaimed,30% reduction in energy use,0
+Mr,9/6/2001,Yuan Renminbi,City Centre,1,Brainlounge,5,40,true,3,2,reclaimed,40% reduction in energy use,0
+Ms,6/10/2015,Naira,City Centre,3,Brainverse,2,96,false,2,4,sustainable,30% reduction in energy use,1
+Honorable,11/28/2018,Yuan Renminbi,Central District,5,Abatz,1,57,true,3,4,sustainable,40% reduction in energy use,0
+Mrs,9/23/2007,Euro,City Centre,3,Oyoyo,5,57,false,1,1,certified,40% reduction in energy use,0
+Mrs,8/3/2000,Euro,City Centre,1,Pixoboo,3,37,true,1,1,sustainable,40% reduction in energy use,1
+Honorable,3/26/2023,Euro,City Centre,2,Oloo,4,9,false,3,3,sustainable,40% reduction in energy use,0
+Mrs,8/28/2003,Rupiah,City Centre,1,Fivebridge,5,17,true,1,4,reclaimed,40% reduction in energy use,0
+Ms,5/20/2017,Lek,City Centre,3,Gevee,1,56,true,2,4,reclaimed,30% reduction in energy use,1
+Dr,10/19/2000,Peso,Town Square,4,Skivee,1,73,false,3,2,reclaimed,30% reduction in energy use,1
+Mr,2/21/2005,Ruble,Town Square,2,Izio,4,29,false,1,2,reclaimed,30% reduction in energy use,1
+Rev,2/26/2001,Krona,City Centre,4,Zooxo,2,94,false,1,1,reclaimed,30% reduction in energy use,1
+Ms,11/8/2018,Yuan Renminbi,Central District,1,Mita,3,55,true,3,1,certified,30% reduction in energy use,0
+Dr,10/26/2007,Franc,Central District,2,Gigaclub,5,93,true,2,3,certified,30% reduction in energy use,0
+Ms,7/30/2003,Ruble,City Centre,5,Jaxspan,4,40,false,1,1,reclaimed,30% reduction in energy use,0
+Honorable,2/6/2023,Peso,Town Square,1,Realbridge,5,15,false,1,3,reclaimed,30% reduction in energy use,1
+Mrs,4/9/2002,Rupiah,Central District,4,Photojam,5,15,false,3,2,sustainable,30% reduction in energy use,0
+Rev,1/14/2002,Yuan Renminbi,Town Square,5,Blognation,5,12,false,1,2,reclaimed,40% reduction in energy use,1
+Honorable,5/21/2007,Zloty,Town Square,1,Wordify,1,26,true,3,1,certified,40% reduction in energy use,1
+Honorable,7/19/2002,Euro,Central District,5,Twinder,1,98,false,2,4,reclaimed,40% reduction in energy use,1
+Rev,4/16/2021,Afghani,Central District,5,Rhyloo,4,83,true,1,2,reclaimed,30% reduction in energy use,0
+Rev,8/17/2014,Ruble,Central District,5,Yoveo,3,14,true,1,4,certified,30% reduction in energy use,1
+Dr,12/11/2017,Koruna,Central District,1,Trupe,3,62,false,2,4,certified,30% reduction in energy use,1
+Rev,8/21/2016,Koruna,Town Square,1,Rhycero,1,85,true,2,2,sustainable,40% reduction in energy use,0
+Rev,6/6/2004,Rupiah,Town Square,1,Dynabox,1,55,true,3,2,sustainable,40% reduction in energy use,0
+Honorable,9/15/2006,Ruble,City Centre,3,Flashset,5,30,true,3,3,certified,40% reduction in energy use,1
+Mrs,12/23/2014,Yuan Renminbi,Town Square,2,Gigazoom,3,17,false,3,1,certified,40% reduction in energy use,1
+Rev,5/14/2002,Euro,Town Square,5,Riffwire,3,9,false,2,2,sustainable,40% reduction in energy use,1
+Mrs,4/14/2015,Zloty,Town Square,3,Ainyx,3,94,false,1,1,certified,30% reduction in energy use,0
+Mrs,8/29/2012,Zloty,Central District,1,Dabvine,1,6,true,3,3,sustainable,30% reduction in energy use,0
+Ms,12/20/2006,Euro,City Centre,4,Zoonder,1,20,true,3,3,reclaimed,30% reduction in energy use,1
+Honorable,5/29/2002,Zloty,City Centre,5,Jabberstorm,2,24,true,1,1,reclaimed,40% reduction in energy use,0
+Mrs,1/26/2010,Dirham,Town Square,4,Trudeo,4,28,true,3,2,reclaimed,40% reduction in energy use,1
+Dr,6/25/2013,Rupee,Central District,1,Tagtune,1,1,false,2,1,sustainable,30% reduction in energy use,1
+Honorable,9/26/2013,Ruble,Town Square,1,Zoomzone,5,34,false,1,3,certified,30% reduction in energy use,0
+Dr,8/2/2001,Kyat,Town Square,1,Centidel,5,18,true,2,2,sustainable,30% reduction in energy use,1
+Dr,7/2/2009,Yuan Renminbi,Town Square,4,Trudeo,5,9,false,3,3,sustainable,40% reduction in energy use,0
+Dr,12/7/2011,Rupiah,Central District,4,Vipe,5,48,false,3,4,sustainable,30% reduction in energy use,0
+Ms,3/31/2014,Sol,City Centre,2,Bluezoom,2,37,false,2,3,certified,30% reduction in energy use,1
+Mr,9/1/2017,Naira,City Centre,2,Topiclounge,2,19,false,3,4,certified,30% reduction in energy use,1
+Mrs,12/7/2006,Franc,City Centre,3,Meemm,4,42,false,2,3,sustainable,40% reduction in energy use,0
+Ms,7/5/2008,Litas,Town Square,2,Trilith,1,49,true,1,4,reclaimed,30% reduction in energy use,0
+Honorable,5/28/2006,Peso,City Centre,4,Demizz,3,45,false,3,1,sustainable,30% reduction in energy use,0
+Honorable,5/9/2013,Peso,Town Square,4,Jatri,4,73,false,3,1,sustainable,40% reduction in energy use,1
+Mr,6/13/2013,Euro,City Centre,4,Brainbox,3,49,true,3,3,certified,30% reduction in energy use,1
+Honorable,7/13/2000,Dollar,City Centre,4,Feedfire,1,10,true,2,3,sustainable,40% reduction in energy use,0
+Dr,7/25/2023,Krona,Town Square,5,Devcast,3,73,false,3,3,certified,30% reduction in energy use,0
+Dr,12/30/2020,Dollar,Central District,1,Yozio,3,36,false,3,3,certified,30% reduction in energy use,0
+Dr,2/23/2003,Peso,Central District,2,Yoveo,1,58,false,1,1,certified,30% reduction in energy use,0
+Rev,9/14/2017,Peso,Central District,5,Youbridge,5,99,false,2,4,sustainable,40% reduction in energy use,1
+Honorable,12/21/2002,Peso,Central District,1,Skippad,1,79,false,1,4,reclaimed,30% reduction in energy use,0
+Mrs,11/12/2006,Yuan Renminbi,Town Square,4,Kimia,3,81,false,1,2,sustainable,40% reduction in energy use,1
+Dr,9/7/2007,Euro,Town Square,1,DabZ,5,99,true,2,4,sustainable,30% reduction in energy use,0
+Rev,3/5/2017,Rupiah,Town Square,3,Dabvine,5,92,true,3,2,reclaimed,40% reduction in energy use,1
+Mr,12/7/2017,Peso,Central District,5,Vinte,2,48,true,3,2,reclaimed,30% reduction in energy use,1
+Rev,3/4/2016,Koruna,City Centre,1,Thoughtstorm,3,96,false,1,1,certified,40% reduction in energy use,1
+Mr,11/1/2015,Rupiah,Central District,1,Eadel,2,97,true,1,1,reclaimed,30% reduction in energy use,0
+Mrs,8/27/2008,Yuan Renminbi,Town Square,4,Flashset,4,26,false,3,2,certified,40% reduction in energy use,1
+Rev,12/28/2019,Rupiah,City Centre,2,Mydo,4,63,false,3,3,sustainable,30% reduction in energy use,0
+Mr,10/7/2017,Ruble,Central District,4,Roomm,3,5,false,1,2,reclaimed,30% reduction in energy use,1
+Dr,4/29/2017,Ruble,Town Square,3,Babbleopia,4,24,false,3,2,sustainable,40% reduction in energy use,1
+Ms,2/23/2014,Krone,City Centre,1,Skippad,3,79,false,2,4,sustainable,40% reduction in energy use,1
+Ms,10/13/2009,Rupee,Central District,4,Abata,3,24,true,2,1,sustainable,30% reduction in energy use,0
+Dr,1/19/2013,Dinar,City Centre,2,Meevee,4,89,false,1,4,reclaimed,30% reduction in energy use,1
+Dr,12/10/2017,Dollar,Town Square,2,Oyoyo,5,83,true,3,2,sustainable,40% reduction in energy use,1
+Ms,7/3/2020,Peso,Central District,4,Edgeblab,3,43,false,1,2,reclaimed,30% reduction in energy use,1
+Ms,7/2/2003,Kip,Town Square,2,Realblab,1,40,true,3,2,certified,40% reduction in energy use,0
+Honorable,7/13/2012,Peso,Town Square,1,Browsedrive,3,60,false,2,1,certified,40% reduction in energy use,0
+Honorable,7/9/2014,Rupiah,City Centre,4,Meezzy,2,65,true,3,4,reclaimed,30% reduction in energy use,0
+Mr,3/31/2009,Euro,Town Square,4,Minyx,3,74,true,3,3,sustainable,30% reduction in energy use,1
+Mrs,8/21/2010,Naira,City Centre,4,Thoughtsphere,2,31,false,3,3,reclaimed,40% reduction in energy use,1
+Mrs,9/8/2012,Real,City Centre,5,Skibox,1,77,true,2,2,certified,40% reduction in energy use,0
+Mrs,5/2/2021,Franc,Town Square,5,Camimbo,3,29,false,2,3,reclaimed,30% reduction in energy use,0
+Rev,6/13/2009,Dinar,Central District,5,Skynoodle,5,66,true,3,3,reclaimed,40% reduction in energy use,1
+Rev,4/24/2004,Sol,Town Square,1,Buzzdog,5,12,true,1,1,reclaimed,40% reduction in energy use,1
+Honorable,5/13/2009,Zloty,City Centre,5,Yakijo,1,49,false,3,4,reclaimed,30% reduction in energy use,1
+Ms,3/7/2015,Krona,Town Square,1,Devbug,1,6,true,3,1,reclaimed,30% reduction in energy use,0
+Ms,6/6/2020,Yen,Central District,4,Tekfly,1,56,false,2,1,certified,30% reduction in energy use,0
+Mrs,2/20/2006,Yuan Renminbi,City Centre,4,Eamia,5,50,false,1,3,reclaimed,40% reduction in energy use,0
+Ms,4/5/2002,Zloty,Town Square,1,Buzzster,2,58,false,1,1,certified,30% reduction in energy use,1
+Rev,3/31/2022,Koruna,City Centre,1,Twitterwire,4,5,true,3,4,certified,40% reduction in energy use,0
+Mrs,3/24/2015,Yuan Renminbi,Central District,1,Dynava,1,22,true,1,4,reclaimed,30% reduction in energy use,0
+Dr,7/26/2005,Euro,City Centre,2,Eazzy,5,37,true,3,1,sustainable,40% reduction in energy use,0
+Mrs,3/18/2001,Naira,City Centre,2,JumpXS,1,7,false,2,1,reclaimed,30% reduction in energy use,0
+Honorable,11/22/2020,Dalasi,Town Square,1,Livefish,1,86,false,2,4,certified,30% reduction in energy use,1
+Dr,2/14/2023,Dollar,City Centre,4,Quatz,2,34,true,2,4,certified,30% reduction in energy use,1
+Mrs,3/2/2009,Yuan Renminbi,City Centre,2,Dablist,4,29,true,3,1,sustainable,30% reduction in energy use,1
+Honorable,9/1/2016,Yuan Renminbi,Town Square,5,Topicstorm,5,17,true,3,2,sustainable,30% reduction in energy use,0
+Dr,12/2/2009,Franc,Central District,1,Dabjam,5,74,false,1,4,reclaimed,40% reduction in energy use,0
+Dr,10/2/2004,Ruble,Town Square,4,Dabshots,3,65,false,1,3,sustainable,40% reduction in energy use,0
+Honorable,3/16/2011,Dollar,Central District,3,Skyba,1,49,false,2,3,reclaimed,40% reduction in energy use,0
+Rev,7/23/2005,Shekel,Town Square,3,Youopia,4,47,true,3,1,reclaimed,40% reduction in energy use,1
+Ms,5/23/2001,Yuan Renminbi,Town Square,3,Vidoo,5,89,true,2,4,sustainable,40% reduction in energy use,1
+Ms,5/25/2000,Krona,Town Square,5,Avamm,2,84,true,2,3,certified,30% reduction in energy use,1
+Dr,6/16/2012,Rupiah,City Centre,3,JumpXS,4,51,false,1,2,reclaimed,40% reduction in energy use,0
+Mr,9/3/2013,Ariary,Central District,5,Youfeed,4,23,true,2,4,certified,30% reduction in energy use,0
+Mrs,10/29/2009,Euro,Central District,4,Quire,4,9,false,3,3,sustainable,40% reduction in energy use,1
+Honorable,5/16/2009,Rupiah,Central District,3,Oyope,3,25,true,3,1,reclaimed,30% reduction in energy use,0
+Ms,7/9/2007,Pound,Central District,4,Jabbertype,3,45,false,3,2,sustainable,30% reduction in energy use,0
+Mrs,3/28/2016,Cedi,Central District,2,Quamba,5,67,false,2,1,reclaimed,40% reduction in energy use,0
+Rev,10/15/2021,Afghani,Town Square,4,Thoughtbeat,5,75,true,1,4,certified,30% reduction in energy use,1
+Ms,5/1/2016,Rupiah,Central District,3,Dynazzy,3,4,false,1,4,certified,30% reduction in energy use,0
+Honorable,2/19/2005,Yen,City Centre,1,Centimia,1,69,false,3,4,certified,40% reduction in energy use,0
+Rev,9/24/2009,Pound,City Centre,3,Dazzlesphere,2,5,true,2,4,certified,40% reduction in energy use,1
+Dr,11/28/2013,Peso,Central District,2,Mymm,5,46,true,1,4,reclaimed,40% reduction in energy use,0
+Dr,7/12/2004,Real,City Centre,3,Brightbean,4,51,true,2,3,sustainable,30% reduction in energy use,0
+Dr,9/20/2000,Koruna,City Centre,3,Eadel,3,37,true,1,3,certified,40% reduction in energy use,1
+Dr,5/1/2018,Krona,Central District,1,Dabfeed,2,58,false,3,2,sustainable,40% reduction in energy use,1
+Dr,9/15/2010,Dalasi,Central District,2,Yotz,5,31,true,3,1,reclaimed,30% reduction in energy use,0
+Mr,7/26/2016,Rupiah,Central District,3,Ooba,1,80,true,1,1,certified,40% reduction in energy use,1
+Ms,2/4/2018,Ruble,Central District,4,Twitterbeat,5,33,false,3,1,reclaimed,40% reduction in energy use,0
+Mrs,10/9/2021,Koruna,Town Square,2,Skyvu,1,2,false,1,3,sustainable,30% reduction in energy use,1
+Rev,1/28/2015,Euro,Central District,3,Npath,3,44,false,3,3,reclaimed,30% reduction in energy use,1
+Ms,5/8/2011,Rupiah,City Centre,5,Wikizz,4,91,true,1,3,sustainable,30% reduction in energy use,0
+Mr,3/20/2019,Rupiah,Town Square,5,Voonte,2,98,true,1,4,sustainable,40% reduction in energy use,1
+Ms,2/20/2012,Somoni,Central District,3,Buzzbean,4,19,false,1,4,certified,40% reduction in energy use,1
+Mr,9/5/2010,Dollar,Central District,5,Tazz,4,3,false,1,3,certified,30% reduction in energy use,1
+Mrs,11/24/2004,Rupiah,Town Square,4,Dabfeed,3,50,true,1,2,reclaimed,30% reduction in energy use,0
+Honorable,2/9/2005,Peso,Central District,1,Dabjam,2,16,true,1,1,sustainable,40% reduction in energy use,0
+Rev,10/3/2000,Ruble,City Centre,3,Youopia,2,67,true,3,2,reclaimed,40% reduction in energy use,0
+Honorable,12/2/2007,Yuan Renminbi,Central District,3,Reallinks,4,82,true,3,1,sustainable,40% reduction in energy use,1
+Rev,12/27/2017,Euro,Central District,3,Skiptube,2,0,false,1,2,certified,30% reduction in energy use,1
+Ms,9/30/2014,Yuan Renminbi,Central District,1,Browseblab,4,56,true,3,1,reclaimed,30% reduction in energy use,0
+Dr,4/6/2012,Pound,City Centre,3,Voomm,3,61,true,3,1,sustainable,40% reduction in energy use,1
+Rev,11/4/2018,Dirham,Central District,4,Brightdog,4,82,true,3,4,certified,40% reduction in energy use,0
+Mrs,1/15/2006,Euro,Central District,5,Quamba,3,40,false,1,1,sustainable,40% reduction in energy use,1
+Mr,7/14/2017,Sol,Central District,3,Quinu,3,27,false,3,2,sustainable,30% reduction in energy use,1
+Ms,2/25/2016,Ruble,Central District,4,Quinu,4,61,false,2,1,certified,30% reduction in energy use,0
+Dr,10/24/2021,Naira,Central District,3,Twimbo,4,16,false,2,3,certified,40% reduction in energy use,1
+Ms,10/29/2012,Rupiah,Central District,1,Minyx,5,93,true,1,4,sustainable,30% reduction in energy use,0
+Ms,12/29/2022,Ruble,City Centre,4,Wikido,2,43,false,2,3,sustainable,40% reduction in energy use,1
+Rev,10/5/2019,Euro,Town Square,5,Plambee,2,64,false,2,1,sustainable,30% reduction in energy use,0
+Rev,8/18/2003,Rupiah,City Centre,1,Leenti,3,37,true,3,4,reclaimed,40% reduction in energy use,0
+Mr,5/19/2008,Dong,Town Square,3,Meedoo,1,24,false,3,3,reclaimed,30% reduction in energy use,1
+Rev,6/14/2003,Dollar,City Centre,3,Edgepulse,1,76,true,1,2,certified,40% reduction in energy use,1
+Rev,2/6/2014,Baht,Central District,4,Trupe,3,64,true,1,3,certified,30% reduction in energy use,0
+Ms,10/30/2017,Yuan Renminbi,City Centre,5,Dazzlesphere,2,55,false,3,2,certified,40% reduction in energy use,0
+Dr,2/21/2012,Yuan Renminbi,Central District,2,Trudeo,1,85,true,3,4,sustainable,30% reduction in energy use,1
+Dr,6/11/2015,Euro,City Centre,5,Gigaclub,1,95,true,2,1,certified,30% reduction in energy use,1
+Rev,10/11/2004,Yuan Renminbi,Town Square,2,Kwimbee,4,51,true,2,3,reclaimed,40% reduction in energy use,1
+Honorable,6/3/2018,Yuan Renminbi,Central District,4,Youspan,3,48,false,3,4,sustainable,30% reduction in energy use,0
+Dr,1/27/2013,Ruble,Central District,5,Buzzbean,4,72,false,1,2,certified,40% reduction in energy use,1
+Ms,1/10/2021,Euro,City Centre,5,Yotz,4,99,false,3,3,reclaimed,30% reduction in energy use,0
+Dr,3/27/2006,Euro,Town Square,4,Mycat,4,72,false,1,3,sustainable,40% reduction in energy use,1
+Honorable,6/22/2021,Dollar,City Centre,4,Vinte,2,87,true,3,2,certified,40% reduction in energy use,1
+Honorable,4/30/2023,Rupiah,Town Square,5,Quatz,2,94,false,2,2,certified,40% reduction in energy use,1
+Dr,3/14/2003,Rupee,Central District,2,Topicware,2,23,false,2,1,sustainable,30% reduction in energy use,0
+Rev,5/15/2004,Yuan Renminbi,Town Square,3,Wordware,4,80,false,1,2,certified,30% reduction in energy use,0
+Dr,3/8/2003,Yuan Renminbi,Central District,1,Abatz,4,40,true,1,2,sustainable,40% reduction in energy use,0
+Dr,12/2/2006,Euro,City Centre,3,Mynte,2,100,false,2,1,reclaimed,30% reduction in energy use,0
+Rev,9/21/2010,Real,Central District,4,Agimba,5,71,false,2,2,certified,40% reduction in energy use,0
+Ms,11/26/2009,Hryvnia,City Centre,4,Rhynyx,5,40,true,3,4,sustainable,30% reduction in energy use,1
+Mr,12/25/2001,Euro,City Centre,2,Centimia,1,92,true,2,1,reclaimed,40% reduction in energy use,1
+Dr,11/22/2019,Yuan Renminbi,Central District,1,Avavee,2,74,false,2,2,certified,40% reduction in energy use,0
+Mr,1/8/2009,Tugrik,City Centre,5,Roombo,4,9,false,1,3,certified,30% reduction in energy use,0
+Mr,2/20/2017,Rupiah,Central District,2,Jaxnation,5,32,false,3,4,certified,40% reduction in energy use,1
+Rev,1/14/2003,Peso,City Centre,4,Wordware,5,34,false,1,3,reclaimed,40% reduction in energy use,0
+Mrs,2/5/2018,Marka,Town Square,5,Chatterpoint,4,32,false,3,4,sustainable,30% reduction in energy use,0
+Rev,12/15/2004,Yuan Renminbi,Town Square,5,Babbleblab,4,40,true,3,1,certified,30% reduction in energy use,1
+Dr,3/28/2008,Zloty,Town Square,4,Eidel,3,10,true,2,1,sustainable,30% reduction in energy use,0
+Rev,7/4/2001,Tenge,City Centre,5,Chatterbridge,2,38,false,3,4,sustainable,30% reduction in energy use,0
+Dr,5/20/2004,Euro,Central District,4,Tavu,3,95,true,3,4,reclaimed,40% reduction in energy use,1
+Ms,7/25/2008,Peso,Central District,4,Youfeed,2,5,true,2,3,sustainable,30% reduction in energy use,0
+Dr,7/19/2022,Yen,Town Square,2,Eimbee,4,15,true,3,2,sustainable,40% reduction in energy use,1
+Mrs,9/3/2011,Dong,Town Square,5,Kamba,3,36,false,2,4,certified,40% reduction in energy use,1
+Mr,4/21/2006,Rupiah,Central District,5,Roombo,5,9,false,3,3,sustainable,30% reduction in energy use,1
+Mr,7/17/2015,Rupee,City Centre,1,Linkbridge,5,56,false,2,4,certified,40% reduction in energy use,1
+Mr,5/10/2022,Euro,City Centre,4,Eare,5,80,true,1,1,certified,30% reduction in energy use,0
+Ms,7/26/2000,Tugrik,Town Square,1,Gigashots,4,43,false,2,2,reclaimed,40% reduction in energy use,1
+Dr,12/23/2011,Tugrik,Central District,4,Yotz,3,44,false,3,1,certified,30% reduction in energy use,1
+Dr,5/30/2009,Peso,City Centre,2,Zoovu,5,13,true,1,3,sustainable,30% reduction in energy use,0
+Ms,6/25/2007,Zloty,Central District,4,Bluezoom,5,73,false,3,1,sustainable,40% reduction in energy use,1
+Rev,2/5/2017,Euro,Town Square,3,Quatz,1,52,true,2,3,sustainable,40% reduction in energy use,0
+Honorable,12/9/2014,Rial,City Centre,3,Yadel,5,87,false,1,1,sustainable,40% reduction in energy use,1
+Ms,2/21/2022,Euro,Central District,4,Meetz,2,90,true,3,4,sustainable,30% reduction in energy use,0
+Rev,3/21/2012,Yuan Renminbi,Town Square,3,Brainverse,2,19,true,2,2,sustainable,30% reduction in energy use,1
+Rev,3/9/2020,Yuan Renminbi,Central District,4,Photobug,3,26,false,1,2,sustainable,40% reduction in energy use,0
+Mr,7/10/2006,Yuan Renminbi,City Centre,1,Jayo,2,40,true,2,3,certified,30% reduction in energy use,1
+Honorable,9/25/2012,Rupiah,City Centre,2,Twinte,3,62,true,2,3,sustainable,30% reduction in energy use,1
+Ms,10/9/2023,Zloty,Town Square,2,Topicware,4,98,true,3,3,certified,40% reduction in energy use,1
+Mr,3/12/2012,Pound,City Centre,2,Flashset,1,78,false,2,2,sustainable,30% reduction in energy use,1
+Ms,9/13/2015,Yuan Renminbi,Central District,1,Feedmix,2,64,false,2,3,sustainable,30% reduction in energy use,1
+Dr,12/17/2003,Rupiah,City Centre,2,Tagchat,4,53,false,2,1,certified,30% reduction in energy use,1
+Mr,5/16/2014,Peso,Central District,4,Dabvine,4,50,true,3,1,certified,40% reduction in energy use,0
+Honorable,10/21/2001,Peso,Central District,3,Yodel,4,77,false,3,2,reclaimed,30% reduction in energy use,0
+Dr,9/3/2006,Peso,City Centre,4,Gabtype,3,65,false,3,2,sustainable,40% reduction in energy use,1
+Honorable,12/29/2011,Rupiah,Town Square,4,Livepath,3,49,false,3,1,certified,30% reduction in energy use,1
+Dr,6/4/2017,Krona,City Centre,3,Skimia,1,91,true,3,3,reclaimed,30% reduction in energy use,1
+Mr,6/7/2007,Yen,City Centre,2,Tekfly,5,13,true,2,2,reclaimed,40% reduction in energy use,0
+Ms,1/7/2019,Dollar,City Centre,2,Flashset,1,44,true,1,1,reclaimed,40% reduction in energy use,0
+Mrs,11/11/2005,Yuan Renminbi,Central District,5,Jabberstorm,1,13,true,2,1,certified,30% reduction in energy use,1
+Rev,7/25/2005,Peso,City Centre,1,Quaxo,4,20,true,2,4,reclaimed,30% reduction in energy use,0
+Mrs,9/2/2000,Dinar,Town Square,3,Trudeo,3,62,true,2,3,certified,40% reduction in energy use,0
+Mr,8/25/2017,Yuan Renminbi,Town Square,5,Jaloo,4,48,false,1,3,certified,40% reduction in energy use,0
+Dr,6/3/2023,Cordoba,City Centre,4,Quimba,1,56,true,2,4,reclaimed,30% reduction in energy use,1
+Ms,8/20/2017,Euro,City Centre,5,Latz,3,1,true,2,4,reclaimed,30% reduction in energy use,1
+Ms,9/13/2013,Yuan Renminbi,City Centre,3,Kwimbee,4,1,false,2,4,sustainable,30% reduction in energy use,1
+Ms,8/14/2010,Yuan Renminbi,Central District,1,Quinu,3,33,true,2,1,reclaimed,40% reduction in energy use,0
+Dr,11/14/2012,Euro,Town Square,2,Dablist,2,0,false,1,1,certified,40% reduction in energy use,1
+Mrs,4/24/2021,Dollar,Central District,2,Wikizz,5,0,false,1,1,sustainable,40% reduction in energy use,1
+Honorable,2/25/2006,Euro,City Centre,3,Jazzy,4,15,false,3,2,reclaimed,40% reduction in energy use,1
+Honorable,7/29/2014,Ruble,City Centre,5,Skynoodle,4,65,false,1,2,reclaimed,40% reduction in energy use,1
+Rev,1/22/2009,Yuan Renminbi,City Centre,3,Jabberbean,2,100,true,3,1,sustainable,30% reduction in energy use,0
+Honorable,11/23/2007,Naira,City Centre,1,Trilia,1,84,false,1,1,sustainable,30% reduction in energy use,1
+Dr,12/3/2011,Yuan Renminbi,Town Square,1,Plajo,1,67,false,3,1,sustainable,30% reduction in energy use,0
+Mrs,2/20/2014,Zloty,City Centre,4,Vimbo,5,37,false,3,2,reclaimed,30% reduction in energy use,0
+Ms,5/5/2000,Zloty,Central District,5,Katz,5,18,false,1,4,reclaimed,30% reduction in energy use,1
+Rev,7/3/2003,Rand,Town Square,3,Wordware,5,73,false,2,3,sustainable,40% reduction in energy use,0
+Ms,7/25/2015,Lek,Central District,1,Flashpoint,4,43,true,3,4,certified,40% reduction in energy use,1
+Mr,7/3/2015,Ruble,City Centre,2,Linklinks,2,38,true,2,2,sustainable,40% reduction in energy use,0
+Mrs,6/23/2003,Rupiah,Town Square,1,Ailane,3,31,true,3,4,reclaimed,30% reduction in energy use,1
+Mrs,7/26/2022,Bolivar,Central District,4,Rhyloo,3,46,true,3,3,certified,40% reduction in energy use,0
+Honorable,1/22/2019,Zloty,City Centre,3,Flipopia,1,20,true,1,4,reclaimed,40% reduction in energy use,0
+Dr,2/29/2000,Ruble,Town Square,2,Eare,2,15,false,3,4,certified,40% reduction in energy use,0
+Ms,10/25/2022,Yuan Renminbi,Central District,3,Snaptags,1,67,true,3,4,sustainable,40% reduction in energy use,0
+Honorable,8/5/2012,Peso,Town Square,5,Zoomlounge,1,53,false,2,1,reclaimed,30% reduction in energy use,0
+Rev,6/10/2017,Bolivar,City Centre,3,Devbug,1,33,false,1,3,sustainable,40% reduction in energy use,1
+Dr,3/12/2017,Rupiah,Central District,1,Tekfly,2,88,true,2,3,reclaimed,30% reduction in energy use,1
+Dr,11/5/2004,Rupiah,Town Square,5,Leexo,4,24,true,3,1,sustainable,40% reduction in energy use,0
+Honorable,2/22/2008,Krona,Town Square,5,Kwilith,3,17,true,1,4,sustainable,40% reduction in energy use,1
+Ms,4/6/2006,Dong,City Centre,2,Lajo,2,23,true,3,3,sustainable,30% reduction in energy use,0
+Mrs,10/31/2014,Dollar,Central District,3,Quaxo,5,3,false,1,3,reclaimed,30% reduction in energy use,1
+Mrs,8/26/2022,Real,City Centre,2,Jetpulse,1,14,true,2,1,reclaimed,40% reduction in energy use,1
+Mrs,8/28/2002,Yuan Renminbi,Town Square,1,Photojam,2,77,true,2,3,sustainable,30% reduction in energy use,0
+Dr,2/21/2001,Rupiah,Town Square,3,Voomm,3,90,true,2,3,certified,30% reduction in energy use,1
+Ms,4/28/2010,Rupiah,Central District,2,Wikivu,3,26,false,1,1,certified,30% reduction in energy use,1
+Mrs,10/16/2018,Yuan Renminbi,City Centre,3,Npath,2,81,true,2,4,reclaimed,40% reduction in energy use,1
+Honorable,11/16/2000,Ruble,Town Square,1,Pixope,4,96,false,2,2,reclaimed,40% reduction in energy use,1
+Rev,4/3/2008,Pound,Town Square,3,Meetz,4,18,false,3,2,reclaimed,30% reduction in energy use,1
+Mrs,7/23/2018,Yuan Renminbi,Town Square,4,Pixoboo,1,79,true,3,3,sustainable,40% reduction in energy use,1
+Rev,9/27/2010,Euro,Central District,5,Jaxspan,3,59,true,1,3,certified,40% reduction in energy use,0
+Mr,1/24/2011,Afghani,Town Square,5,Trudoo,2,14,false,3,1,certified,30% reduction in energy use,1
+Mr,6/20/2022,Koruna,Town Square,3,Tagpad,2,68,false,3,1,sustainable,40% reduction in energy use,1
+Ms,2/23/2008,Peso,City Centre,1,Talane,2,93,true,2,2,sustainable,40% reduction in energy use,1
+Honorable,5/25/2023,Peso,Town Square,5,Reallinks,1,28,true,3,3,certified,40% reduction in energy use,0
+Ms,12/5/2013,Sol,City Centre,5,Viva,1,86,false,1,4,certified,40% reduction in energy use,0
+Ms,10/17/2016,Euro,Town Square,1,Dynabox,1,8,false,2,3,reclaimed,30% reduction in energy use,1
+Honorable,12/14/2012,Sol,Town Square,1,Linktype,2,31,true,2,4,certified,40% reduction in energy use,0
+Rev,5/4/2017,Rupiah,Central District,4,Dabvine,1,65,false,1,4,certified,30% reduction in energy use,0
+Ms,5/6/2001,Ruble,City Centre,1,Shufflester,1,16,false,2,4,certified,30% reduction in energy use,1
+Rev,1/5/2010,Rupiah,Town Square,4,Camido,2,8,true,3,2,certified,30% reduction in energy use,0
+Dr,8/27/2013,Tugrik,City Centre,2,Eazzy,2,89,false,2,4,certified,30% reduction in energy use,1
+Mrs,9/23/2015,Yuan Renminbi,Town Square,5,Fiveclub,3,89,true,2,1,certified,30% reduction in energy use,1
+Rev,7/3/2004,Yuan Renminbi,City Centre,5,Flashset,1,33,false,1,2,certified,40% reduction in energy use,0
+Ms,10/30/2004,Yuan Renminbi,Town Square,2,Cogilith,4,33,true,2,4,certified,40% reduction in energy use,1
+Mr,6/27/2007,Rand,Central District,5,Tagpad,2,76,true,2,3,reclaimed,30% reduction in energy use,1
+Mr,4/27/2001,Yuan Renminbi,City Centre,1,Realpoint,3,57,false,2,1,sustainable,30% reduction in energy use,1
+Rev,4/17/2021,Krona,City Centre,1,Topdrive,3,59,true,2,1,certified,40% reduction in energy use,0
+Rev,7/27/2010,Ruble,Town Square,2,Quimba,3,17,false,3,2,reclaimed,30% reduction in energy use,1
+Rev,7/17/2010,Euro,Central District,2,Topiczoom,1,78,true,3,3,sustainable,30% reduction in energy use,1
+Mrs,5/21/2002,Yuan Renminbi,City Centre,2,Leexo,4,31,true,1,4,certified,40% reduction in energy use,0
+Ms,11/7/2014,Ariary,Town Square,2,Buzzdog,4,97,true,3,1,certified,40% reduction in energy use,0
+Mr,10/28/2006,Dollar,Town Square,5,Shufflester,3,13,true,1,3,sustainable,30% reduction in energy use,0
+Mrs,5/25/2015,Euro,Town Square,1,Meemm,2,30,false,3,2,certified,30% reduction in energy use,0
+Ms,3/15/2006,Rupiah,Central District,4,Ailane,2,84,false,3,3,sustainable,40% reduction in energy use,0
+Mr,12/27/2009,Yuan Renminbi,City Centre,2,Zoomzone,5,81,false,1,1,sustainable,30% reduction in energy use,0
+Mrs,2/28/2000,Rupiah,Central District,2,Skiba,2,80,false,1,4,certified,30% reduction in energy use,1
+Dr,3/1/2017,Euro,Town Square,3,Topiczoom,4,82,false,1,1,reclaimed,30% reduction in energy use,1
+Dr,9/26/2008,Ruble,Town Square,2,Fatz,5,47,true,3,2,sustainable,40% reduction in energy use,0
+Rev,7/15/2008,Franc,City Centre,5,Yacero,5,41,true,1,2,sustainable,40% reduction in energy use,1
+Mr,8/25/2016,Yuan Renminbi,Central District,1,Tambee,2,35,false,1,3,certified,30% reduction in energy use,0
+Mr,5/10/2021,Denar,City Centre,5,Twinte,5,42,false,3,2,reclaimed,40% reduction in energy use,0
+Ms,8/11/2020,Cordoba,Central District,2,Vidoo,3,4,true,1,1,sustainable,40% reduction in energy use,0
+Mrs,1/22/2001,Bolivar,City Centre,3,Gevee,5,96,false,1,2,certified,30% reduction in energy use,1
+Ms,9/24/2023,Marka,Central District,2,Thoughtworks,4,9,true,2,4,certified,30% reduction in energy use,1
+Ms,7/16/2023,Euro,Central District,5,Kwilith,3,73,true,2,3,certified,30% reduction in energy use,1
+Dr,11/10/2005,Baht,City Centre,2,Teklist,5,6,false,1,2,sustainable,30% reduction in energy use,0
+Rev,2/7/2020,Krona,Town Square,1,Oodoo,4,70,false,2,1,certified,30% reduction in energy use,1
+Mr,4/20/2005,Rupiah,Central District,5,Katz,2,12,true,1,3,sustainable,30% reduction in energy use,1
+Honorable,11/28/2010,Zloty,City Centre,5,Eadel,4,5,false,1,3,reclaimed,40% reduction in energy use,0
+Mrs,3/9/2023,Euro,Central District,3,Buzzster,4,26,true,3,4,certified,30% reduction in energy use,0
+Dr,4/23/2006,Sol,City Centre,4,Midel,5,61,false,1,2,certified,40% reduction in energy use,0
+Mr,2/27/2005,Ruble,City Centre,3,Vinder,5,47,false,1,4,sustainable,30% reduction in energy use,0
+Ms,6/8/2019,Ruble,Town Square,3,Oodoo,2,89,true,2,3,certified,40% reduction in energy use,0
+Mr,9/24/2003,Yuan Renminbi,Central District,2,Muxo,4,92,false,2,3,reclaimed,40% reduction in energy use,0
+Mr,8/14/2014,Rupiah,City Centre,3,Agimba,3,93,true,1,2,reclaimed,40% reduction in energy use,0
+Mr,5/24/2009,Rupiah,Central District,3,Blogspan,3,62,true,3,3,certified,30% reduction in energy use,1
+Honorable,10/5/2000,Euro,Central District,5,Thoughtbridge,5,70,false,3,2,certified,30% reduction in energy use,1
+Honorable,11/20/2003,Forint,Town Square,5,Eare,1,79,true,3,1,certified,40% reduction in energy use,0
+Dr,2/11/2003,Real,Town Square,2,Tagopia,2,35,true,2,1,sustainable,40% reduction in energy use,1
+Mrs,3/8/2020,Hryvnia,Town Square,3,Riffpath,2,17,true,3,3,reclaimed,40% reduction in energy use,1
+Dr,4/30/2003,Yuan Renminbi,Central District,4,Browsedrive,4,80,true,3,2,certified,40% reduction in energy use,1
+Mrs,8/17/2023,Pound,Central District,3,Linktype,1,34,true,2,1,certified,30% reduction in energy use,1
+Honorable,12/16/2009,Rupiah,Town Square,1,Jabberstorm,4,96,true,2,1,reclaimed,40% reduction in energy use,1
+Mr,11/3/2021,Yuan Renminbi,Central District,4,Voolith,2,44,false,2,1,reclaimed,30% reduction in energy use,1
+Mr,4/19/2012,Baht,City Centre,3,Quamba,5,32,false,1,3,sustainable,30% reduction in energy use,1
+Ms,3/22/2003,Hryvnia,Central District,2,Oba,1,11,false,1,4,sustainable,30% reduction in energy use,1
+Honorable,12/25/2019,Dinar,Central District,5,Realmix,3,90,true,1,4,sustainable,30% reduction in energy use,0
+Rev,4/22/2002,Ruble,Town Square,3,Jazzy,1,66,false,1,1,certified,40% reduction in energy use,1
+Dr,11/5/2014,Ruble,Central District,1,Realpoint,3,59,true,1,3,reclaimed,40% reduction in energy use,0
+Dr,10/14/2013,Koruna,Town Square,1,Dabvine,5,23,false,1,2,certified,40% reduction in energy use,0
+Honorable,4/7/2022,Peso,Central District,3,Eare,3,96,false,2,1,sustainable,40% reduction in energy use,0
+Ms,10/30/2005,Ouguiya,Central District,3,Zoovu,5,90,false,1,4,sustainable,40% reduction in energy use,0
+Ms,3/22/2016,Rupiah,Central District,3,Photobug,1,63,false,2,4,sustainable,30% reduction in energy use,1
+Mr,11/11/2000,Peso,City Centre,2,Thoughtbridge,3,17,true,1,4,sustainable,30% reduction in energy use,1
+Dr,10/14/2007,Ruble,Town Square,2,Skipfire,1,83,false,2,2,certified,40% reduction in energy use,0
+Honorable,12/27/2019,Franc,Central District,5,Kwideo,1,88,false,3,3,reclaimed,40% reduction in energy use,1
+Rev,12/3/2013,Yuan Renminbi,Town Square,2,Meevee,1,99,false,3,3,certified,40% reduction in energy use,1
+Honorable,2/10/2002,Tugrik,City Centre,3,Zoomzone,4,86,true,3,1,certified,40% reduction in energy use,0
+Honorable,11/16/2012,Rial,City Centre,4,Voonder,1,64,false,2,3,sustainable,30% reduction in energy use,0
+Rev,9/17/2008,Peso,Central District,1,Devpoint,4,2,false,1,1,reclaimed,30% reduction in energy use,0
+Rev,10/1/2001,Rupiah,Central District,1,Browsetype,5,94,false,3,4,sustainable,40% reduction in energy use,1
+Mrs,9/5/2020,Birr,Town Square,2,Wikido,5,3,false,2,4,sustainable,40% reduction in energy use,0
+Mr,3/31/2023,Euro,City Centre,1,Latz,1,42,true,3,3,sustainable,30% reduction in energy use,0
+Mr,12/23/2023,Yuan Renminbi,Central District,1,Voonyx,5,34,false,3,1,sustainable,40% reduction in energy use,0
+Rev,10/22/2004,Ruble,City Centre,5,Omba,5,99,true,2,4,sustainable,40% reduction in energy use,0
+Ms,4/29/2019,Real,Town Square,1,Yacero,2,16,false,1,4,sustainable,30% reduction in energy use,1
+Honorable,2/21/2004,Euro,City Centre,3,Blogspan,3,0,true,3,4,reclaimed,30% reduction in energy use,0
+Mr,4/3/2011,Pound,Central District,2,Yakijo,4,35,true,2,2,sustainable,30% reduction in energy use,1
+Dr,7/31/2004,Rupiah,Central District,1,Yakitri,1,26,false,1,1,sustainable,40% reduction in energy use,1
+Dr,5/27/2013,Real,Town Square,3,Kaymbo,2,3,true,3,1,certified,40% reduction in energy use,0
+Dr,8/19/2010,Rial,Town Square,3,BlogXS,1,68,true,1,3,sustainable,40% reduction in energy use,1
+Ms,11/22/2012,Zloty,City Centre,5,Kimia,2,74,false,1,2,sustainable,30% reduction in energy use,0
+Dr,9/8/2016,Zloty,City Centre,4,Linklinks,3,58,true,2,2,sustainable,40% reduction in energy use,1
+Mrs,2/22/2017,Rupiah,Central District,3,Yozio,4,55,false,3,4,reclaimed,40% reduction in energy use,0
+Honorable,11/28/2019,Rupiah,Town Square,2,Oyoba,2,35,false,1,4,certified,40% reduction in energy use,1
+Ms,9/7/2021,Rupiah,Town Square,5,Bubbletube,5,35,false,3,1,reclaimed,30% reduction in energy use,1
+Mrs,2/27/2003,Euro,Central District,3,Ntags,2,31,false,1,3,reclaimed,40% reduction in energy use,0
+Rev,6/25/2013,Shilling,Town Square,3,Livefish,2,6,false,2,3,certified,40% reduction in energy use,0
+Mr,9/10/2003,Lev,City Centre,3,Yadel,4,26,false,3,4,reclaimed,30% reduction in energy use,1
+Honorable,10/8/2002,Sol,Town Square,3,Eidel,1,7,true,3,2,reclaimed,40% reduction in energy use,0
+Ms,4/25/2008,Pound,Town Square,1,Flashspan,3,86,false,2,2,sustainable,40% reduction in energy use,0
+Mr,10/17/2014,Bolivar,Central District,3,Pixoboo,1,38,false,2,2,sustainable,30% reduction in energy use,0
+Mr,10/26/2002,Baht,Central District,5,Tagpad,4,8,false,3,4,sustainable,30% reduction in energy use,0
+Ms,8/25/2017,Rupiah,Town Square,3,Skaboo,5,76,false,3,1,certified,40% reduction in energy use,1
+Mr,6/24/2003,Yen,Central District,2,Ntag,1,13,true,1,3,reclaimed,40% reduction in energy use,0
+Honorable,8/22/2019,Rupiah,Town Square,4,Teklist,5,70,true,1,2,reclaimed,40% reduction in energy use,0
+Rev,8/23/2008,Lev,Town Square,5,Quatz,5,15,true,3,1,sustainable,40% reduction in energy use,0
+Dr,7/15/2001,Dollar,Central District,5,Yombu,3,59,false,3,4,sustainable,30% reduction in energy use,1
+Mrs,5/4/2020,Rupiah,City Centre,5,Oyondu,1,16,false,1,2,reclaimed,40% reduction in energy use,0
+Mrs,3/25/2016,Real,Central District,4,Brainbox,5,41,true,2,4,certified,40% reduction in energy use,1
+Rev,9/10/2015,Krona,City Centre,3,Cogilith,3,44,true,1,4,reclaimed,40% reduction in energy use,1
+Mr,5/27/2008,Ruble,Central District,1,Centimia,1,62,true,1,3,sustainable,40% reduction in energy use,0
+Honorable,4/18/2016,Rupiah,City Centre,1,Centimia,4,100,false,1,4,certified,30% reduction in energy use,0
+Dr,8/3/2009,Euro,City Centre,5,Photobean,5,0,false,1,2,reclaimed,30% reduction in energy use,1
+Ms,11/12/2021,Euro,City Centre,5,Quaxo,5,27,true,3,2,reclaimed,40% reduction in energy use,1
+Honorable,5/5/2013,Dram,Central District,3,Gigashots,3,93,false,1,2,sustainable,30% reduction in energy use,0
+Honorable,11/2/2008,Hryvnia,Town Square,2,Wordpedia,3,54,true,3,4,reclaimed,30% reduction in energy use,0
+Mr,6/25/2013,Dalasi,Central District,1,Digitube,2,47,false,2,4,reclaimed,40% reduction in energy use,0
+Dr,7/17/2004,Hryvnia,Town Square,2,Dabshots,2,78,false,3,2,reclaimed,30% reduction in energy use,0
+Mr,10/5/2009,Baht,Town Square,2,Flashdog,4,93,true,1,3,reclaimed,30% reduction in energy use,0
+Honorable,9/1/2015,Birr,Central District,4,Digitube,2,60,false,1,1,sustainable,30% reduction in energy use,1
+Rev,4/3/2013,Rupiah,Central District,4,Viva,4,78,true,2,2,reclaimed,30% reduction in energy use,1
+Ms,8/18/2006,Peso,Central District,5,Jabberbean,5,64,true,3,3,reclaimed,40% reduction in energy use,0
+Mrs,3/6/2008,Naira,City Centre,2,Jetpulse,5,70,false,3,4,certified,30% reduction in energy use,0
+Rev,5/17/2005,Franc,Central District,4,Gevee,1,40,true,2,3,certified,30% reduction in energy use,0
+Dr,3/8/2006,Rial,City Centre,1,Wikivu,3,14,false,3,1,certified,30% reduction in energy use,0
+Rev,6/10/2013,Yuan Renminbi,Central District,4,Roomm,5,45,true,2,1,reclaimed,30% reduction in energy use,0
+Rev,9/11/2022,Rupiah,Central District,2,Browsecat,1,51,false,3,4,reclaimed,40% reduction in energy use,1
+Mrs,11/2/2011,Sol,City Centre,2,Topicware,3,78,false,2,2,sustainable,30% reduction in energy use,1
+Ms,3/23/2010,Peso,City Centre,2,Camido,2,53,false,3,4,reclaimed,40% reduction in energy use,0
+Dr,2/25/2007,Euro,Town Square,5,Gabtune,5,57,false,2,3,certified,30% reduction in energy use,0
+Mr,1/2/2007,Yuan Renminbi,Town Square,4,Edgewire,2,78,true,2,1,certified,30% reduction in energy use,0
+Rev,3/12/2009,Yuan Renminbi,Town Square,1,Eimbee,1,34,false,1,2,sustainable,30% reduction in energy use,0
+Rev,12/13/2021,Rupiah,Central District,5,Dabjam,2,31,false,1,4,reclaimed,30% reduction in energy use,1
+Rev,8/7/2001,Yuan Renminbi,City Centre,5,Tagcat,2,45,false,1,1,certified,40% reduction in energy use,0
+Ms,7/16/2004,Yen,Central District,2,Npath,2,90,false,2,4,sustainable,30% reduction in energy use,1
+Mrs,5/14/2002,Peso,City Centre,4,Mynte,2,71,false,2,1,sustainable,30% reduction in energy use,0
+Dr,1/18/2015,Zloty,Town Square,3,Meemm,5,93,true,1,4,reclaimed,40% reduction in energy use,0
+Dr,10/6/2023,Afghani,City Centre,1,Pixoboo,5,17,false,1,4,reclaimed,30% reduction in energy use,1
+Ms,10/12/2002,Dinar,Town Square,2,Voolia,1,30,true,2,4,reclaimed,40% reduction in energy use,0
+Rev,12/30/2017,Peso,Central District,1,Skivee,1,8,false,2,3,sustainable,40% reduction in energy use,1
+Honorable,9/27/2015,Peso,City Centre,3,Edgetag,5,85,true,2,2,sustainable,40% reduction in energy use,0
+Honorable,2/19/2001,Peso,City Centre,2,Gabcube,1,82,false,2,3,certified,40% reduction in energy use,1
+Honorable,7/31/2004,Sol,Town Square,5,Latz,5,31,false,2,3,sustainable,40% reduction in energy use,1
+Honorable,1/5/2009,Peso,Central District,5,Zoovu,2,47,true,2,1,reclaimed,30% reduction in energy use,0
+Rev,4/24/2010,Yuan Renminbi,City Centre,4,Zooxo,3,91,true,1,1,reclaimed,30% reduction in energy use,1
+Honorable,10/28/2011,Rupiah,Central District,5,Flashspan,1,98,true,2,2,reclaimed,30% reduction in energy use,1
+Rev,10/8/2020,Rupiah,Central District,1,Vinte,1,4,true,2,1,certified,30% reduction in energy use,1
+Rev,5/24/2000,Shekel,City Centre,3,Trudeo,5,13,false,3,1,sustainable,40% reduction in energy use,1
+Rev,10/24/2022,Ruble,City Centre,3,Gigabox,3,43,true,2,2,sustainable,40% reduction in energy use,1
+Dr,4/10/2012,Koruna,Central District,5,Brightdog,1,11,false,3,4,reclaimed,40% reduction in energy use,0
+Honorable,2/17/2020,Euro,City Centre,1,Yadel,4,53,true,3,4,sustainable,40% reduction in energy use,0
+Rev,11/27/2023,Euro,Central District,3,Photobug,3,20,true,2,3,certified,30% reduction in energy use,0
+Ms,2/25/2010,Yuan Renminbi,City Centre,1,Twitterbridge,3,34,false,2,1,reclaimed,30% reduction in energy use,0
+Ms,12/26/2022,Franc,Central District,2,Meedoo,3,93,true,2,3,sustainable,40% reduction in energy use,1
+Mr,2/10/2002,Tugrik,Central District,2,Innotype,1,56,true,2,1,sustainable,30% reduction in energy use,1
+Mrs,7/1/2013,Boliviano,Town Square,5,Rhyzio,2,11,true,1,4,sustainable,40% reduction in energy use,1
+Mrs,9/9/2011,Ruble,City Centre,1,Wikizz,3,31,true,2,4,certified,40% reduction in energy use,0
+Dr,8/1/2000,Shilling,City Centre,2,Jabbersphere,5,53,false,3,2,sustainable,30% reduction in energy use,1
+Dr,8/13/2015,Yuan Renminbi,City Centre,1,Tazz,1,78,false,2,4,reclaimed,30% reduction in energy use,0
+Mr,10/14/2023,Rupiah,City Centre,3,Oloo,4,42,true,3,3,certified,30% reduction in energy use,0
+Ms,10/29/2012,Koruna,Central District,1,Yamia,2,52,true,2,4,certified,40% reduction in energy use,0
+Mrs,3/19/2003,Yuan Renminbi,Central District,1,Meedoo,3,15,true,2,2,certified,30% reduction in energy use,0
+Honorable,4/17/2004,Guarani,Town Square,1,Gabcube,3,90,false,3,2,certified,40% reduction in energy use,0
+Mrs,4/22/2019,Yuan Renminbi,Central District,5,Meevee,4,18,true,3,3,certified,40% reduction in energy use,0
+Mrs,8/29/2018,Yuan Renminbi,Central District,3,Thoughtblab,5,5,false,2,2,reclaimed,30% reduction in energy use,1
+Mrs,6/25/2022,Dollar,City Centre,2,Ailane,2,30,false,3,4,sustainable,30% reduction in energy use,1
+Dr,6/30/2015,Euro,Town Square,1,Browsecat,5,68,true,3,4,certified,30% reduction in energy use,0
+Ms,4/10/2017,Yuan Renminbi,City Centre,5,Leenti,5,24,true,1,2,sustainable,40% reduction in energy use,0
+Ms,7/5/2005,Dollar,Central District,5,Flashset,3,44,true,3,2,reclaimed,30% reduction in energy use,1
+Ms,10/8/2016,Peso,Central District,4,Edgepulse,2,26,false,1,3,certified,30% reduction in energy use,1
+Dr,1/31/2009,Ruble,Central District,4,Muxo,5,46,true,1,2,certified,40% reduction in energy use,1
+Dr,2/13/2015,Dollar,Town Square,4,Innojam,3,26,false,1,4,reclaimed,30% reduction in energy use,0
+Dr,1/28/2021,Ruble,City Centre,3,Eazzy,5,82,false,3,4,sustainable,40% reduction in energy use,1
+Mr,4/3/2021,Rupiah,Central District,1,Eare,1,22,false,3,4,certified,30% reduction in energy use,0
+Mr,1/28/2022,Hryvnia,Town Square,4,Midel,4,35,false,2,3,reclaimed,40% reduction in energy use,1
+Ms,1/11/2004,Dong,Central District,5,Tagtune,5,32,true,1,2,sustainable,30% reduction in energy use,1
+Mrs,7/26/2018,Hryvnia,City Centre,1,Gabvine,2,67,false,1,2,sustainable,30% reduction in energy use,0
+Mrs,3/1/2003,Won,Central District,2,Brainsphere,3,59,false,2,3,reclaimed,30% reduction in energy use,1
+Honorable,5/1/2018,Yuan Renminbi,Town Square,4,Feedfire,3,62,true,3,1,reclaimed,30% reduction in energy use,1
+Mr,10/21/2022,Peso,Central District,4,Nlounge,4,63,false,2,4,certified,30% reduction in energy use,1
+Mr,8/15/2019,Rupiah,Town Square,5,Fivechat,1,95,false,1,1,reclaimed,30% reduction in energy use,1
+Mr,3/3/2016,Dinar,Central District,1,Skyvu,5,61,true,2,2,sustainable,40% reduction in energy use,0
+Honorable,4/1/2001,Yen,Central District,2,Voomm,2,66,false,1,1,sustainable,40% reduction in energy use,1
+Mrs,1/29/2004,Rupiah,City Centre,4,Quinu,2,46,true,2,3,certified,30% reduction in energy use,1
+Ms,8/1/2010,Ruble,City Centre,4,Aimbo,2,6,true,1,3,sustainable,40% reduction in energy use,1
+Ms,5/16/2017,Dollar,Town Square,3,Flipstorm,4,27,true,2,4,reclaimed,40% reduction in energy use,1
+Ms,9/16/2005,Euro,Central District,2,Blognation,2,7,false,2,2,certified,30% reduction in energy use,0
+Mrs,12/22/2009,Rupiah,City Centre,4,Yambee,1,89,true,2,2,sustainable,30% reduction in energy use,1
+Rev,5/9/2016,Euro,City Centre,3,Voolia,3,85,true,2,2,sustainable,30% reduction in energy use,1
+Mrs,3/31/2008,Peso,City Centre,3,Topicstorm,1,18,true,1,1,certified,40% reduction in energy use,1
+Ms,12/17/2004,Dollar,Central District,4,Tagchat,5,81,false,2,2,reclaimed,30% reduction in energy use,0
+Mrs,6/16/2017,Euro,Central District,4,Einti,1,38,true,1,4,certified,30% reduction in energy use,0
+Dr,6/22/2010,Baht,City Centre,4,Rhynoodle,4,55,true,2,3,sustainable,30% reduction in energy use,0
+Mr,1/19/2009,Krone,Town Square,3,Ooba,5,3,false,3,3,certified,30% reduction in energy use,1
+Mrs,5/1/2022,Peso,Town Square,2,Linkbuzz,2,18,true,3,2,reclaimed,30% reduction in energy use,1
+Mrs,4/19/2010,Ruble,City Centre,5,Skiba,2,3,true,1,1,sustainable,30% reduction in energy use,1
+Mrs,7/31/2004,Peso,City Centre,5,Myworks,3,64,true,1,4,certified,40% reduction in energy use,1
+Dr,11/6/2014,Krona,Town Square,4,Linkbridge,2,71,true,2,3,reclaimed,30% reduction in energy use,1
+Rev,5/9/2004,Peso,Town Square,4,Photobug,3,14,false,3,1,sustainable,30% reduction in energy use,0
+Honorable,11/18/2001,Dollar,Central District,3,Gigazoom,1,12,false,1,1,certified,30% reduction in energy use,0
+Mrs,10/9/2016,Peso,Town Square,2,Brightbean,2,7,true,1,3,certified,40% reduction in energy use,0
+Mr,12/22/2019,Yuan Renminbi,City Centre,4,Devpoint,4,49,true,1,1,certified,40% reduction in energy use,0
+Rev,2/14/2015,Koruna,Central District,1,Edgepulse,4,93,false,2,4,sustainable,40% reduction in energy use,1
+Mr,9/1/2008,Euro,City Centre,2,Jaloo,5,22,true,2,1,certified,30% reduction in energy use,0
+Mrs,10/1/2014,Rupee,City Centre,4,Skajo,5,26,false,1,3,sustainable,30% reduction in energy use,0
+Mrs,7/28/2010,Ruble,City Centre,4,Tagpad,1,52,false,2,1,sustainable,40% reduction in energy use,1
+Mr,10/10/2006,Rupiah,City Centre,2,Skipfire,4,79,true,1,1,certified,30% reduction in energy use,0
+Ms,7/2/2008,Yuan Renminbi,City Centre,3,Wordtune,1,16,true,2,4,sustainable,30% reduction in energy use,1
+Ms,8/3/2008,Ruble,Central District,2,Oyope,2,71,true,1,4,reclaimed,40% reduction in energy use,0
+Rev,10/30/2021,Yuan Renminbi,City Centre,5,Bubbletube,5,26,true,1,3,certified,40% reduction in energy use,1
+Mr,5/21/2000,Euro,Central District,3,Youfeed,4,24,true,2,4,reclaimed,30% reduction in energy use,1
+Dr,7/24/2005,Euro,Central District,4,Meevee,2,66,true,3,1,reclaimed,30% reduction in energy use,1
+Ms,9/4/2019,Euro,Town Square,1,Skyvu,1,63,true,3,1,sustainable,40% reduction in energy use,1
+Honorable,9/21/2016,Euro,Town Square,3,Zoonoodle,3,36,true,2,2,sustainable,40% reduction in energy use,1
+Ms,3/31/2022,Krone,City Centre,4,Wordpedia,4,31,true,2,1,reclaimed,40% reduction in energy use,0
+Ms,1/24/2016,Ruble,Town Square,4,Meevee,5,100,true,1,3,reclaimed,30% reduction in energy use,1
+Dr,10/15/2014,Euro,Central District,4,Midel,4,16,false,3,2,sustainable,30% reduction in energy use,0
+Honorable,11/10/2017,Rupiah,City Centre,2,Roombo,5,49,false,3,4,sustainable,30% reduction in energy use,0
+Mrs,7/29/2008,Afghani,Town Square,3,Meejo,2,56,true,1,1,sustainable,30% reduction in energy use,1
+Dr,1/23/2003,Won,Central District,5,Feedfire,4,19,true,2,1,reclaimed,40% reduction in energy use,1
+Mr,10/27/2004,Euro,City Centre,2,Skiptube,5,17,false,3,4,certified,40% reduction in energy use,1
+Mr,2/16/2023,Shekel,City Centre,5,Skidoo,1,34,true,1,4,reclaimed,40% reduction in energy use,1
+Ms,11/29/2000,Yuan Renminbi,Central District,4,Twitternation,5,17,true,1,4,reclaimed,40% reduction in energy use,1
+Honorable,12/4/2008,Shilling,City Centre,5,Skipstorm,5,0,false,3,2,reclaimed,40% reduction in energy use,1
+Mr,9/26/2013,Peso,Town Square,4,Linkbridge,1,76,false,3,1,certified,40% reduction in energy use,0
